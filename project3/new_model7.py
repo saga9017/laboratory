@@ -1,0 +1,765 @@
+"""""""""""""""""""""""""""
+using pre-trained bert, using cls for prediction, fine-tuning, using text, trained image feature + location + knowledge
+two modal pretraining and fine-tuning new task(short text classification)
+
+"""""""""""""""""""""""""""
+import sys, os
+from datetime import datetime
+import numpy as np
+import random
+import copy
+import time
+import torch
+import torch.nn as nn
+from torch.autograd import Variable
+from torch.nn.parameter import Parameter
+import math
+from transformers import *
+
+from project3_data.result_calculator import *
+import torch.nn.utils as torch_utils
+
+os.environ["CUDA_VISIBLE_DEVICES"] = '1'
+
+print('gpu :', torch.cuda.is_available())
+device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+
+import pickle
+
+import tensorflow as tf
+from project3_data.config import *
+
+Dropout = 0.1
+hidden_dim = 768
+MAX_LENGTH = 450
+
+
+# ★ oversampling
+# def train_generate_batch(t_maxlen, l_maxlen, hashtag_size, hashtagCount, hashtagCount_saved, tag_used):
+#     batch_img = np.zeros((batch_size(), 1, feat_dim(), w(), w()))
+#     batch_text = np.zeros((batch_size(), t_maxlen))
+#     batch_loc = np.zeros((batch_size(), l_maxlen))
+#     batch_y = np.zeros(batch_size())
+#     truth_hashtag = []
+#     text_start = []
+#     epoch_finish = False
+#     for i in range(batch_size()):
+#
+#         hashtag_choice = random.randrange(0, hashtag_size)
+#         data_choice = random.randrange(0, len(hashtagCount[hashtag_choice]))
+#         # print(hashtag_choice, data_choice, "/", len(hashtagCount[hashtag_choice]))
+#         # while True:
+#         #     hashtag_choice = random.randrange(0, hashtag_size)
+#         #     if tag_used[hashtag_choice] == False:
+#         #         data_choice = random.randrange(0, len(hashtagCount[hashtag_choice]))
+#         #         break
+#
+#         data_index = hashtagCount[hashtag_choice][data_choice]
+#         batch_img[i] = train_data[0][data_index]
+#         batch_text[i] = train_data[1][data_index]
+#         batch_loc[i] = train_data[2][data_index]
+#         batch_y[i] = hashtag_choice
+#         truth_hashtag.append(train_data[3][data_index])
+#
+#         allzero = False
+#         for q, j in enumerate(batch_text[i]):
+#             if int(j) != 0:
+#                 text_start.append(q)
+#                 allzero = True
+#                 break
+#         if allzero == False: text_start.append(0)
+#
+#         del hashtagCount[hashtag_choice][data_choice]
+#         if len(hashtagCount[hashtag_choice]) == 0:
+#             tag_used[hashtag_choice] = True
+#             hashtagCount[hashtag_choice] = copy.deepcopy(hashtagCount_saved[hashtag_choice])
+#             if np.all(tag_used) == True:
+#                 print("다썼다!")
+#                 tag_used = [False for g in range(hashtag_size)]
+#                 epoch_finish = True
+#                 break
+#
+#     return batch_img, batch_text, batch_loc, batch_y, epoch_finish, truth_hashtag, text_start, tag_used, hashtagCount
+
+# ★ shuffle batch
+# def generate_batch(which, pnt, y_cnt, t_maxlen, l_maxlen, finish):
+#     batch_img = np.zeros((batch_size(), 1, feat_dim(), w(), w()))
+#     batch_text = np.zeros((batch_size(), t_maxlen))
+#     batch_loc = np.zeros((batch_size(), l_maxlen))
+#     batch_y = np.zeros(batch_size())
+#     batch_cnt = 0
+#     truth_hashtag = []
+#     shuffle = list(range(batch_size()))
+#     random.shuffle(shuffle)
+#     while True:
+#         text_start = []
+#         if which == "train":
+#             hashend = len(train_data[3][pnt])
+#             datalen = len(train_data[0])
+#             batch_img[shuffle[batch_cnt]] = train_data[0][pnt]
+#             batch_text[shuffle[batch_cnt]] = train_data[1][pnt]
+#             batch_loc[shuffle[batch_cnt]] = train_data[2][pnt]
+#             batch_y[shuffle[batch_cnt]] = train_data[3][pnt][y_cnt]
+#             truth_hashtag.append(train_data[3][pnt])
+#         elif which == "validation":
+#             hashend = len(val_data[3][pnt])
+#             datalen = len(val_data[0])
+#             batch_img[shuffle[batch_cnt]] = val_data[0][pnt]
+#             batch_text[shuffle[batch_cnt]] = val_data[1][pnt]
+#             batch_loc[shuffle[batch_cnt]] = val_data[2][pnt]
+#             batch_y[shuffle[batch_cnt]] = val_data[3][pnt][y_cnt]
+#             truth_hashtag.append(val_data[3][pnt])
+#         else:
+#             hashend = len(test_data[3][pnt])
+#             datalen = len(test_data[0])
+#             batch_img[shuffle[batch_cnt]] = test_data[0][pnt]
+#             batch_text[shuffle[batch_cnt]] = test_data[1][pnt]
+#             batch_loc[shuffle[batch_cnt]] = test_data[2][pnt]
+#             batch_y[shuffle[batch_cnt]] = test_data[3][pnt][y_cnt]
+#             truth_hashtag.append(test_data[3][pnt])
+#
+#         allzero = False
+#         for i, j in enumerate(batch_text[shuffle[batch_cnt]]):
+#             if int(j) != 0:
+#                 text_start.append(i)
+#                 allzero = True
+#                 break
+#         if allzero == False: text_start.append(0)
+#
+#         # print("------------------------------------------")
+#         # print("input text:")
+#         # for i in batch_text[batch_cnt]:
+#         #     textnum = int(i)
+#         #     if textnum != 0:
+#         #         print(vocabulary_inv[textnum], end=" ")
+#         # print("\ninput loc:")
+#         # for i in batch_loc[batch_cnt]:
+#         #     locnum = int(i)
+#         #     if locnum != 0:
+#         #         print(vocabulary_inv[locnum], end=" ")
+#         # print("\nTrue hashtag:")
+#         # for i in truth_hashtag[batch_cnt]:
+#         #     print(hashtagVoc_inv[int(i)], end="||")
+#         # print()
+#         y_cnt += 1
+#         batch_cnt += 1
+#
+#         if y_cnt == hashend:
+#             y_cnt = 0
+#             pnt += 1
+#             if pnt == datalen:
+#                 pnt = 0
+#                 finish = True
+#
+#         if finish or batch_cnt == batch_size(): break
+#     return batch_img, batch_text, batch_loc, batch_y, pnt, y_cnt, finish, truth_hashtag, text_start
+
+
+def load_k():
+    k_train, k_val, k_test = [], [], []
+    with open("project3_data/txt/e5_train_insta_textonly.txt", "r") as f:
+        while True:
+            line = f.readline()
+            if not line: break
+            line = line.split()
+            for i in range(len(line)):
+                line[i] = int(line[i])
+            k_train.append(line)
+
+    with open("project3_data/txt/e5_val_insta_textonly.txt", "r") as f:
+        while True:
+            line = f.readline()
+            if not line: break
+            line = line.split()
+            for i in range(len(line)):
+                line[i] = int(line[i])
+            k_val.append(line)
+
+    with open("project3_data/txt/e5_test_insta_textonly.txt", "r") as f:
+        while True:
+            line = f.readline()
+            if not line: break
+            line = line.split()
+            for i in range(len(line)):
+                line[i] = int(line[i])
+            k_test.append(line)
+
+    return k_train, k_val, k_test
+
+
+"""""
+def generate_batch(which, pnt, y_cnt, t_maxlen, l_maxlen, finish):
+    batch_img = np.zeros((batch_size(), 1, feat_dim(), w(), w()))
+    batch_text = np.zeros((batch_size(), t_maxlen))
+    batch_loc = np.zeros((batch_size(), l_maxlen))
+    batch_know = np.zeros((batch_size(), cat_num()))
+    batch_y = np.zeros(batch_size())
+    batch_cnt = 0
+    truth_hashtag = []
+
+    while True:
+        if which == "train":
+            hashend = len(train_data[3][pnt])
+            datalen = len(train_data[0])
+            batch_img[batch_cnt] = train_data[0][pnt]
+            batch_text[batch_cnt] = train_data[1][pnt]
+            batch_loc[batch_cnt] = train_data[2][pnt]
+            batch_y[batch_cnt] = train_data[3][pnt][y_cnt]
+            truth_hashtag.append(train_data[3][pnt])
+            batch_know[batch_cnt] = train_data[4][pnt]
+        elif which == "validation":
+            hashend = len(val_data[3][pnt])
+            datalen = len(val_data[0])
+            batch_img[batch_cnt] = val_data[0][pnt]
+            batch_text[batch_cnt] = val_data[1][pnt]
+            batch_loc[batch_cnt] = val_data[2][pnt]
+            batch_y[batch_cnt] = val_data[3][pnt][y_cnt]
+            truth_hashtag.append(val_data[3][pnt])
+            batch_know[batch_cnt] = val_data[4][pnt]
+        else:
+            hashend = len(test_data[3][pnt])
+            datalen = len(test_data[0])
+            batch_img[batch_cnt] = test_data[0][pnt]
+            batch_text[batch_cnt] = test_data[1][pnt]
+            batch_loc[batch_cnt] = test_data[2][pnt]
+            batch_y[batch_cnt] = test_data[3][pnt][y_cnt]
+            truth_hashtag.append(test_data[3][pnt])
+            batch_know[batch_cnt] = test_data[4][pnt]
+
+        y_cnt += 1
+        batch_cnt += 1
+
+        if y_cnt == hashend:
+            y_cnt = 0
+            pnt += 1
+            if pnt == datalen:
+                pnt = 0
+                finish = True
+
+        if finish or batch_cnt == batch_size(): break
+    return batch_img, batch_text, batch_loc, batch_know, batch_y, pnt, y_cnt, finish, truth_hashtag
+"""""
+
+
+class Norm(nn.Module):
+    def __init__(self):
+        super(Norm, self).__init__()
+        self.gamma=Parameter(torch.tensor(1.0))
+        self.beta = Parameter(torch.tensor(0.0))
+    def forward(self, X):
+        mu = torch.mean(X, dim=2)
+        var = torch.var(X, dim=2)
+        X_norm = torch.div(X - mu.view(X.shape[0], X.shape[1], 1), torch.sqrt(var.view(X.shape[0], X.shape[1], 1) + 1e-8))
+        out = self.gamma * X_norm + self.beta
+        return out
+
+class Multi_head_attention(nn.Module):
+    def __init__(self, hidden_dim=300, hidden_dim_=512, dropout=Dropout):
+        super().__init__()
+        self.dropout=nn.Dropout(dropout)
+        self.softmax = nn.Softmax(-1)
+        self.layerNorm_add_Norm = Norm()
+
+        self.w_qs = nn.Linear(hidden_dim, hidden_dim_)
+        self.w_ks = nn.Linear(hidden_dim, hidden_dim_)
+        self.w_vs = nn.Linear(hidden_dim, hidden_dim_)
+        self.w_os = nn.Linear(hidden_dim_, hidden_dim)
+        nn.init.normal_(self.w_qs.weight, mean=0, std=np.sqrt(2.0 / (hidden_dim)))
+        nn.init.normal_(self.w_ks.weight, mean=0, std=np.sqrt(2.0 / (hidden_dim)))
+        nn.init.normal_(self.w_vs.weight, mean=0, std=np.sqrt(2.0 / (hidden_dim)))
+        nn.init.xavier_normal_(self.w_os.weight)
+
+    def forward(self, en, de, mask, dropout=False):  # x : (input_len, hidden_dim)
+        d_k = de.shape[-1]
+        len_d0, len_d1=de.shape[0], de.shape[1]
+        len_e0, len_e1=en.shape[0], en.shape[1]
+
+
+        q = self.w_qs(de).view(len_d0, len_d1, -1, 8).permute(3, 0, 1, 2)
+        k = self.w_ks(en).view(len_e0, len_e1, -1, 8).permute(3, 0, 2, 1)
+        v = self.w_vs(en).view(len_e0, len_e1, -1, 8).permute(3, 0, 1, 2)
+
+        e = torch.matmul(q, k) / math.sqrt(d_k)
+        masked_e = e.masked_fill(mask, -1e10)
+        alpha = self.softmax(masked_e)  # (output_len, input_len)
+        if dropout==True:
+            alpha = self.dropout(alpha)
+        head3 = torch.matmul(alpha, v)
+
+        a = torch.cat((head3[0], head3[1], head3[2], head3[3], head3[4],
+                       head3[5], head3[6], head3[7]), 2)
+
+        result = self.w_os(a)
+        result=self.layerNorm_add_Norm(result+de)
+        return result  # (output_len, hidden)
+
+def gelu(x):
+  """Gaussian Error Linear Unit.
+  This is a smoother version of the RELU.
+  Original paper: https://arxiv.org/abs/1606.08415
+  Args:
+    x: float Tensor to perform activation.
+  Returns:
+    `x` with the GELU activation applied.
+  """
+  cdf = 0.5 * (1.0 + torch.tanh(
+      (np.sqrt(2 / np.pi) * (x + 0.044715 * torch.pow(x, 3)))))
+  return x * cdf
+
+class FFN(nn.Module):  # feed forward network   x : (batch_size, input_len, hidden)
+    def __init__(self, hidden_dim=300, dropout=Dropout):
+        super().__init__()
+        self.dropout = nn.Dropout(dropout)
+        self.layerNorm_add_Norm = Norm()
+
+        self.fc1 = nn.Linear(hidden_dim, 4 * hidden_dim)
+        self.fc2 = nn.Linear(4*hidden_dim, hidden_dim)
+        nn.init.xavier_normal_(self.fc1.weight)
+        nn.init.xavier_normal_(self.fc2.weight)
+
+
+    def forward(self, x, dropout=False):
+        output = self.fc1(x) # (batch_size, input_len, 4*hidden)
+        if dropout==True:
+            output = self.dropout(gelu(output))  # (batch_size, input_len, 4*hidden)
+        else:
+            output = gelu(output)
+        output = self.fc2(output)  # (batch_size, input_len, hidden
+        output=self.layerNorm_add_Norm(output+x)
+        return output
+
+##################################################### Sub layer ########################################################
+
+class Encoder_layer(nn.Module):
+    def __init__(self, hidden_dim=300, hidden_dim_=512, dropout=Dropout):  # default=512
+        # Assign instance variables
+        super().__init__()
+        self.multi_head_self_attention=Multi_head_attention(hidden_dim, hidden_dim_, dropout)
+        self.ffn=FFN(hidden_dim, dropout)
+
+
+        self.dropout_1 = nn.Dropout(dropout)
+        self.dropout_2 = nn.Dropout(dropout)
+
+
+    def forward(self, x, mask, non_pad_mask, dropout=False):
+        if dropout==True:
+            output=self.dropout_1(self.multi_head_self_attention(x, x, mask, dropout=True))
+            output=output.masked_fill(non_pad_mask==0, 0)
+            output=self.dropout_2(self.ffn(output, dropout=True))
+            output=output.masked_fill(non_pad_mask==0, 0)
+        else:
+            output = self.multi_head_self_attention(x, x, mask)
+            output = output.masked_fill(non_pad_mask == 0, 0)
+            output = self.ffn(output)
+            output = output.masked_fill(non_pad_mask == 0, 0)
+        return output
+
+
+#################################################### Layer ##############################################################
+
+
+class Transformer_new(nn.Module):
+    def __init__(self, hidden_dim=hidden_dim, hidden_dim_=hidden_dim):  # default=512
+        # Assign instance variables
+        super().__init__()
+        self.hidden = hidden_dim
+
+        self.segment_embed = nn.Embedding(3, hidden_dim)
+        self.sequence_embed = Parameter(torch.randn(512+(5+1)+(49+1), hidden_dim))
+
+        self.know_embed=nn.Embedding(540, hidden_dim)
+
+        #weight initialization
+
+        self.segment_embed.weight.data.uniform_(-0.01, 0.01)
+        self.know_embed.weight.data.uniform_(-0.01, 0.01)
+        nn.init.xavier_normal_(self.sequence_embed)
+
+
+        self.encoder1=Encoder_layer(hidden_dim, hidden_dim_)
+        self.encoder2 = Encoder_layer(hidden_dim, hidden_dim_)
+        self.encoder3 = Encoder_layer(hidden_dim, hidden_dim_)
+        #self.encoder4 = Encoder_layer(hidden_dim, hidden_dim_)
+        #self.encoder5 = Encoder_layer(hidden_dim, hidden_dim_)
+        #self.encoder6 = Encoder_layer(hidden_dim, hidden_dim_)
+
+    def input_embedding(self, batch_text):  # x: (batch, input_len, )
+
+        b_size, s_len, _=batch_text.shape
+        segment=torch.tensor([2]*s_len).to(device)
+
+        return batch_text+self.segment_embed(segment)+self.sequence_embed[:batch_text.shape[1]].unsqueeze(0).repeat(b_size, 1, 1)  # (input_len, hidden_dim)
+
+    def forward(self, batch_text, attention_mask, dropout):
+        b_size, s_len, _=batch_text.shape
+        x1= self.input_embedding(batch_text)  # (input_len, hidden)
+        ###################################### make non_pad_mask   #####################################################
+        if device.type=='cpu':
+            margin=torch.tensor([1] * (x1.shape[1]-s_len)).repeat(b_size, 1).byte().to(device)
+        else:
+            margin = torch.tensor([1] * (x1.shape[1] - s_len)).repeat(b_size, 1).bool().to(device)
+        non_pad_mask = torch.cat([margin, attention_mask], dim=1).unsqueeze(-1).repeat(1, 1, self.hidden).float()
+        mask_e = (torch.cat([margin, attention_mask], dim=1).unsqueeze(1).repeat(1, x1.shape[1], 1)==0)
+
+
+        ################################################################################################################
+        x1=x1.masked_fill(non_pad_mask==0, 0)
+        ########################################################
+        x2 = self.encoder1(x1, mask_e, non_pad_mask, dropout=dropout)
+        x3 = self.encoder2(x2 + x1, mask_e, non_pad_mask, dropout=dropout)
+        x4 = self.encoder3(x3 + x2 + x1, mask_e, non_pad_mask, dropout=dropout)
+        #x5 = self.encoder4(x4 + x3 + x2 + x1, mask_e, non_pad_mask, dropout=dropout)
+        #x6 = self.encoder5(x5 + x4 + x3 + x2 + x1, mask_e, non_pad_mask, dropout=dropout)
+        #x7 = self.encoder6(x6 + x5 + x4 + x3 + x2 + x1, mask_e, non_pad_mask, dropout=dropout)
+        return x4
+
+
+pretrained_weights = 'bert-base-uncased'
+tokenizer = BertTokenizer.from_pretrained(pretrained_weights)
+
+
+bert = BertModel.from_pretrained(pretrained_weights,
+                                 output_hidden_states=True,
+                                 output_attentions=True, force_download=True)
+
+
+class Bert(nn.Module):
+    def __init__(self):
+        # Assign instance variables
+        super(Bert, self).__init__()
+        self.bert = copy.deepcopy(bert)
+
+    def forward(self, x, attention_mask, token_type_ids):
+
+        outputs= self.bert(x, attention_mask=attention_mask, token_type_ids=token_type_ids)
+        last_encoder_output = outputs[0]
+        return last_encoder_output
+
+
+
+class NextSentencePrediction(nn.Module):
+    """
+    2-class classification model : is_next, is_not_next
+    """
+
+    def __init__(self, hidden):
+        """
+        :param hidden: BERT model output size
+        """
+        super().__init__()
+        self.linear = nn.Linear(hidden, hashtag_size)
+        nn.init.xavier_normal_(self.linear.weight)
+
+    def forward(self, x):
+        return self.linear(x[:, 0])
+
+
+class NextSentencePrediction2(nn.Module):
+    """
+    2-class classification model : is_next, is_not_next
+    """
+
+    def __init__(self, hidden):
+        """
+        :param hidden: BERT model output size
+        """
+        super().__init__()
+        self.linear = nn.Linear(hidden, 20)
+        nn.init.xavier_normal_(self.linear.weight)
+
+    def forward(self, x):
+        return self.linear(x[:, 0])
+
+class BERTLM_new(nn.Module):
+    """
+    BERT Language Model
+    Next Sentence Prediction Model + Masked Language Model
+    """
+
+    def __init__(self, vocab_size):
+        """
+        :param bert: BERT model which should be trained
+        :param vocab_size: total vocab size for masked_lm
+        """
+
+        super().__init__()
+        self.bert = Bert()
+        self.next_sentence = NextSentencePrediction(768)
+
+        self.Loss = 0
+        self.softmax = nn.Softmax(-1)
+        self.transformer_new=Transformer_new()
+
+
+
+class final_model(nn.Module):
+    """
+    BERT Language Model
+    Next Sentence Prediction Model + Masked Language Model
+    """
+
+    def __init__(self, model):
+        """
+        :param bert: BERT model which should be trained
+        :param vocab_size: total vocab size for masked_lm
+        """
+
+        super().__init__()
+        self.bert = model.bert
+        self.next_sentence = NextSentencePrediction2(768)
+
+        self.Loss = 0
+        self.softmax = nn.Softmax(-1)
+        self.transformer_new=model.transformer_new
+        self.cal_loss=nn.CrossEntropyLoss()
+
+    def forward(self, batch_text, segment, dropout):
+        attention_mask=(batch_text!=tokenizer.pad_token_id)
+        x = self.bert(batch_text, attention_mask=attention_mask.float(), token_type_ids=segment)
+        x=self.transformer_new(x, attention_mask, dropout)
+        return self.next_sentence(x)
+
+    def bptt(self, batch_text, segment, label, dropout):  # (batch_size, out_len)
+        next_sentence = self.forward(batch_text, segment, dropout)
+        softmax= self.softmax(next_sentence)
+        loss=self.cal_loss(softmax, label)
+
+        return loss
+
+        # Performs one step of SGD.
+
+    def numpy_sdg_step(self, batch, optimizer, lrate, dropout):
+        # Calculate the gradients
+
+        optimizer.zero_grad()
+        loss = self.bptt(torch.tensor(batch[0]).to(device).long(), torch.tensor(batch[1]).to(device).long(),
+                         torch.tensor(batch[2]).to(device).long(), dropout)
+
+        loss.backward()
+        optimizer.step()
+        # optimizer.param_groups[0]['lr'] = lrate
+
+        return loss
+
+    def train_with_batch(self, batch_val, optimizer):
+        val_precision = []
+
+        Loss_len = 0
+        num_examples_seen = 1
+        # nepoch=nb_epoch()
+        nepoch = 1000
+        print('training epoch :', nepoch)
+        for epoch in range(nepoch):
+            epoch=epoch
+            print("에폭", epoch + 1)
+            batch_train = load_data_make_batch_train()
+            for i in range(len(batch_train)):
+
+                batch_loc_text, segment, batch_y,  = batch_train[i]
+                # print(np.shape(batch_know)) # [batch_size, cat_num]
+                # 3factors or 4factors
+                lrate = math.pow(64, -0.5) * min(math.pow(num_examples_seen, -0.5), num_examples_seen * math.pow(4000,
+                                                                                                                 -1.5))  # warm up step : default 4000
+                loss = self.numpy_sdg_step((batch_loc_text, segment, batch_y), optimizer, lrate, True)
+                self.Loss += loss.item()
+                Loss_len += 1
+
+                if num_examples_seen % 100 == 0:  # origin = int(batch_len * nepoch / 100)
+                    time_ = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                    print(time_, ' ', int(100 * num_examples_seen / (len(batch_train) * nepoch)), end='')
+                    print('%   완료!!!', end='')
+                    print('   loss :', self.Loss / Loss_len)  # , '   lr :', lrate)
+                    self.Loss = 0
+                    Loss_len = 0
+
+                num_examples_seen += 1
+
+            print('Epoch', epoch + 1, 'completed out of', nepoch)
+            # valid set : 8104개
+            val_pred = []
+            val_truth = []
+
+            for i in range(len(batch_val)):
+                model.eval()
+                batch_loc_text, segment, batch_y = batch_val[i]
+                val_prob = self.softmax(
+                    self.forward(torch.tensor(batch_loc_text).to(device).long(), torch.tensor(segment).to(device).long(), False))
+
+                # if last_function() == "softmax":
+                y_pred = np.argmax(val_prob.detach().cpu().numpy(), axis=1)
+                for i in range(y_pred.shape[0]):
+                    val_pred.append(y_pred[i])
+                    val_truth.append(batch_y[i])
+
+            score=0
+            for x, y in zip(val_pred, val_truth):
+                if x==y:
+                    score+=1
+
+            print('score :', float(score)/len(val_truth))
+        return val_precision
+
+
+def max_length(list):
+    max = 0
+    for i in list:
+        if max < len(i):
+            max = len(i)
+
+    return max
+
+
+SEN_LEN = 20
+
+def load_data_make_batch_train():
+    f = open('train.txt', 'r', encoding='utf-8')
+    X_train = []
+    y_train = []
+    while True:
+        line = f.readline()
+        if not line: break
+        temp = line.split('\t')
+
+        X_train.append([len(X_train)] + [tokenizer.sep_token_id]+tokenizer.encode(temp[0].replace('\ufeff', ''))+[tokenizer.sep_token_id])
+        y_train.append(int(temp[1].replace('\n', '').replace('\ufeff', ''))-1)
+    f.close()
+
+    random.shuffle(X_train)
+    batch_train = []
+    temp_X = []
+    temp_X2 = []
+    temp_y = []
+    temp_seg = []
+    num_seen = 0
+    max_len = 0
+    for x in X_train:
+        temp_X.append(x[1:])
+        if max_len < len(x[1:]):
+            max_len = len(x[1:])
+        temp_y.append(y_train[x[0]])
+        num_seen += 1
+
+        if num_seen == SEN_LEN:
+            for i in temp_X:
+                temp_seg.append([1] * max_len)
+                if len(i) < max_len:
+                    temp_X2.append(i + [tokenizer.pad_token_id] * (max_len - len(i)))
+                else:
+                    temp_X2.append(i)
+
+            batch_train.append((temp_X2, temp_seg, temp_y))
+            temp_X = []
+            temp_X2 = []
+            temp_y = []
+            temp_seg = []
+            num_seen = 0
+            max_len = 0
+
+
+    return batch_train
+
+
+def load_data_make_batch_test():
+    f = open('test.txt', 'r', encoding='utf-8')
+    X_test = []
+    y_test = []
+    while True:
+        line = f.readline()
+        if not line: break
+        temp = line.split('\t')
+        X_test.append([tokenizer.sep_token_id]+tokenizer.encode(temp[0].replace('\ufeff', ''))+[tokenizer.sep_token_id])
+        y_test.append(int(temp[1].replace('\n', '').replace('\ufeff', ''))-1)
+
+    f.close()
+
+    batch_test = []
+    temp_X = []
+    temp_X2 = []
+    temp_y = []
+    temp_seg = []
+    num_seen = 0
+    max_len = 0
+
+    for idx, x in enumerate(X_test):
+        temp_X.append(x)
+        if max_len < len(x):
+            max_len = len(x)
+        temp_y.append(y_test[idx])
+        num_seen += 1
+
+        if num_seen == SEN_LEN:
+            for i in temp_X:
+                temp_seg.append([1] * max_len)
+                if len(i) < max_len:
+                    temp_X2.append(i + [tokenizer.pad_token_id] * (max_len - len(i)))
+                else:
+                    temp_X2.append(i)
+
+            batch_test.append((temp_X2, temp_seg, temp_y))
+            temp_X = []
+            temp_X2 = []
+            temp_y = []
+            temp_seg = []
+            num_seen = 0
+            max_len = 0
+
+    return batch_test
+
+
+if __name__ == '__main__':
+    with open("project3_data/vocabulary_keras_h.pkl", "rb") as f:
+        data = pickle.load(f)
+    vocabulary = data[0]
+    hashtagVoc = data[2]
+    vocabulary_inv = {}
+    hashtagVoc_inv = {}
+    hashtagCount = {}
+    for k, v in vocabulary.items():
+        vocabulary[k] = v + 2
+
+    vocabulary["<Padding>"] = 0
+    vocabulary['<CLS>'] = 1
+    vocabulary['<SEP>'] = 2
+
+    for i in vocabulary.keys():
+        vocabulary_inv[vocabulary[i]] = i
+    for i in hashtagVoc.keys():
+        hashtagVoc_inv[hashtagVoc[i]] = i
+        hashtagCount[hashtagVoc[i]] = []
+
+
+    vocab_size = len(vocabulary_inv)  # 26210
+    hashtag_size = len(hashtagVoc_inv)  # 2988
+    print('-')
+
+    torch.manual_seed(10)
+
+    batch_test=load_data_make_batch_test()
+
+
+    model = BERTLM_new(vocab_size).to(device)
+    checkpoint = torch.load('project3_bert24_checkpoint/epoch=6')
+    model.load_state_dict(checkpoint['model_state_dict'])
+    print("starts training...")
+
+    model_new=final_model(model).to(device)
+    optimizer = torch.optim.Adam(model_new.parameters(), betas=(0.9, 0.999), eps=1e-9, lr=1e-5)
+
+    val_precision = model_new.train_with_batch(batch_test, optimizer)
+
+    print("\ntop1 결과 정리")
+    print("validation")
+    for i in range(len(val_precision)):
+        print("epoch", i + 1, "- precision:", val_precision[i])
+    # print("attention vector weights")
+    # print_order = ["i_w_it", "i_w_il", "i_w_ik", "t_w_it", "t_w_lt", "t_w_tk", "l_w_lt",
+    #                "l_w_il", "l_w_lk", "k_w_ik", "k_w_tk", "k_w_lk"]
+    # print(attention_weights)
+    # with open("./result_weight/" + evaluation_factor() + ".txt", "w") as ff:
+    #     ff.write("순서대로 i_w_it, i_w_il, i_w_ik, t_w_it, t_w_lt, t_w_tk, l_w_lt, l_w_il, l_w_lk, k_w_ik, k_w_tk, k_w_lk")
+    #     for q in range(len(attention_weights)):
+    #         ff.write(print_order[q] + " : " + str(attention_weights[q]) + "\n")
+    # with open("./result_weight/" + evaluation_factor() + ".bin", "wb") as ff:
+    #     pickle.dump(attention_weights, ff)
+    #

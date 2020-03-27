@@ -1,0 +1,1958 @@
+last loss : 0.16057113238743373
+
+input : come on !
+result : allez !
+predict : ['SOS', 'venez', '!', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m busy .
+result : je suis occupe .
+predict : ['SOS', 'je', 'suis', 'occupe', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m busy .
+result : je suis occupee .
+predict : ['SOS', 'je', 'suis', 'occupe', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : come here .
+result : viens ici .
+predict : ['SOS', 'viens', '!', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : come here .
+result : venez la .
+predict : ['SOS', 'viens', '!', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i ll work .
+result : je vais travailler .
+predict : ['SOS', 'je', 'vais', 'travailler', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i ll work .
+result : je travaillerai .
+predict : ['SOS', 'je', 'vais', 'travailler', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m alone .
+result : je suis seule .
+predict : ['SOS', 'je', 'suis', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m alone .
+result : je suis seul .
+predict : ['SOS', 'je', 'suis', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m ready .
+result : je suis pret .
+predict : ['SOS', 'je', 'suis', 'pret', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : look here .
+result : regarde ici .
+predict : ['SOS', 'regarde', 'la', 'haut', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : look here .
+result : regardez ici .
+predict : ['SOS', 'regarde', 'la', 'haut', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : time s up .
+result : le temps est ecoule .
+predict : ['SOS', 'c', 'est', 'quelle', 'heure', '.', 'EOS', 'l', 'un', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : come alone .
+result : viens seul !
+predict : ['SOS', 'entrez', '!', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : come alone .
+result : viens seule !
+predict : ['SOS', 'entrez', '!', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : come alone .
+result : venez seul !
+predict : ['SOS', 'entrez', '!', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : come alone .
+result : venez seuls !
+predict : ['SOS', 'entrez', '!', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : come alone .
+result : venez seule !
+predict : ['SOS', 'entrez', '!', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : come alone .
+result : venez seules !
+predict : ['SOS', 'entrez', '!', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i am ready .
+result : je suis pret .
+predict : ['SOS', 'je', 'suis', 'pret', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i eat here .
+result : je mange ici .
+predict : ['SOS', 'je', 'mange', 'ici', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : it s right .
+result : c est juste .
+predict : ['SOS', 'c', 'est', 'juste', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : time is up .
+result : le temps est ecoule .
+predict : ['SOS', 'il', 'te', 'faut', 'le', 'faire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : time is up .
+result : l heure est passee .
+predict : ['SOS', 'il', 'te', 'faut', 'le', 'faire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : we can try .
+result : nous pouvons essayer .
+predict : ['SOS', 'nous', 'pouvons', 'essayer', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : we can try .
+result : nous pouvons tenter .
+predict : ['SOS', 'nous', 'pouvons', 'essayer', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : we ll work .
+result : nous travaillerons .
+predict : ['SOS', 'nous', 'travaillerons', 'dessus', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : we re back .
+result : nous sommes de retour .
+predict : ['SOS', 'nous', 'sommes', 'de', 'retour', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : we re here .
+result : nous sommes ici .
+predict : ['SOS', 'nous', 'sommes', 'ici', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : we re here .
+result : nous sommes la .
+predict : ['SOS', 'nous', 'sommes', 'ici', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : he can come .
+result : il peut venir .
+predict : ['SOS', 'il', 'est', 'incapable', 'de', 'le', 'faire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i can do it .
+result : je peux le faire .
+predict : ['SOS', 'je', 'peux', 'le', 'faire', '!', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i can do it .
+result : je peux y arriver .
+predict : ['SOS', 'je', 'peux', 'le', 'faire', '!', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i can do it .
+result : je peux y parvenir .
+predict : ['SOS', 'je', 'peux', 'le', 'faire', '!', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i can do it .
+result : j arrive a le faire .
+predict : ['SOS', 'je', 'peux', 'le', 'faire', '!', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i eat alone .
+result : je mange seul .
+predict : ['SOS', 'je', 'mange', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i eat alone .
+result : je mange seule .
+predict : ['SOS', 'je', 'mange', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i feel good .
+result : je me sens bien .
+predict : ['SOS', 'je', 'me', 'sens', 'pour', 'ainsi', 'dire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i feel well .
+result : je me sens bien .
+predict : ['SOS', 'je', 'me', 'sens', 'bien', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i have time .
+result : j ai du temps .
+predict : ['SOS', 'j', 'ai', 'du', 'temps', 'donc', 'je', 'le', 'ferai', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i have time .
+result : je dispose de temps .
+predict : ['SOS', 'j', 'ai', 'du', 'temps', 'donc', 'je', 'le', 'ferai', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i was alone .
+result : j etais seul .
+predict : ['SOS', 'j', 'etais', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i was alone .
+result : je me trouvais seul .
+predict : ['SOS', 'j', 'etais', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i was alone .
+result : je me trouvais seule .
+predict : ['SOS', 'j', 'etais', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i will work .
+result : je vais travailler .
+predict : ['SOS', 'je', 'vais', 'travailler', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i will work .
+result : je travaillerai .
+predict : ['SOS', 'je', 'vais', 'travailler', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i work here .
+result : je travaille ici .
+predict : ['SOS', 'je', 'travaille', 'ici', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m at work .
+result : je suis au travail .
+predict : ['SOS', 'je', 'suis', 'actuellement', 'au', 'travail', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : it s not us .
+result : ce n est pas nous .
+predict : ['SOS', 'ce', 'n', 'est', 'pas', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : tom ll come .
+result : tom va venir .
+predict : ['SOS', 'tom', 'saura', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : tom ll come .
+result : tom viendra .
+predict : ['SOS', 'tom', 'saura', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : tom s alone .
+result : tom est tout seul .
+predict : ['SOS', 'tom', 'est', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : tom s alone .
+result : tom est seul .
+predict : ['SOS', 'tom', 'est', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : we are here .
+result : nous sommes ici .
+predict : ['SOS', 'nous', 'sommes', 'ici', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : we are here .
+result : nous y sommes .
+predict : ['SOS', 'nous', 'sommes', 'ici', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : we like tom .
+result : nous aimons bien tom .
+predict : ['SOS', 'nous', 'l', 'apprecions', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : we like tom .
+result : nous aimons tom .
+predict : ['SOS', 'nous', 'l', 'apprecions', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : we like tom .
+result : nous apprecions tom .
+predict : ['SOS', 'nous', 'l', 'apprecions', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : we must try .
+result : il nous faut essayer .
+predict : ['SOS', 'nous', 'devons', 'l', 'arreter', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : we need you .
+result : on a besoin de toi .
+predict : ['SOS', 'nous', 'avons', 'besoin', 'de', 'ton', 'aide', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : we need you .
+result : nous avons besoin de vous .
+predict : ['SOS', 'nous', 'avons', 'besoin', 'de', 'ton', 'aide', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : we re happy .
+result : nous sommes heureux .
+predict : ['SOS', 'nous', 'sommes', 'heureux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : come with me .
+result : venez avec moi .
+predict : ['SOS', 'viens', 'avec', 'moi', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : come with me .
+result : viens avec moi .
+predict : ['SOS', 'viens', 'avec', 'moi', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : come with me .
+result : joignez vous a nous .
+predict : ['SOS', 'viens', 'avec', 'moi', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : he was alone .
+result : il etait seul .
+predict : ['SOS', 'il', 'etait', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i feel ready .
+result : je me sens pret .
+predict : ['SOS', 'je', 'me', 'sens', 'pour', 'ainsi', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i feel ready .
+result : je me sens prete .
+predict : ['SOS', 'je', 'me', 'sens', 'pour', 'ainsi', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i go to work .
+result : je pars au boulot .
+predict : ['SOS', 'je', 'dois', 'travailler', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i go to work .
+result : je vais travailler .
+predict : ['SOS', 'je', 'dois', 'travailler', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i go to work .
+result : je me rends au travail .
+predict : ['SOS', 'je', 'dois', 'travailler', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i go to work .
+result : je vais au travail .
+predict : ['SOS', 'je', 'dois', 'travailler', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i have a dog .
+result : j ai un chien .
+predict : ['SOS', 'j', 'ai', 'une', 'voiture', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i must leave .
+result : il me faut partir .
+predict : ['SOS', 'il', 'faut', 'que', 'j', 'y', 'aille', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i must leave .
+result : je dois partir .
+predict : ['SOS', 'il', 'faut', 'que', 'j', 'y', 'aille', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i work alone .
+result : je travaille seul .
+predict : ['SOS', 'je', 'travaille', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i work alone .
+result : je travaille seule .
+predict : ['SOS', 'je', 'travaille', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m not here .
+result : je ne suis pas ici .
+predict : ['SOS', 'je', 'ne', 'suis', 'pas', 'la', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m not here .
+result : je ne suis pas la .
+predict : ['SOS', 'je', 'ne', 'suis', 'pas', 'la', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : it s no good .
+result : ce n est pas bon .
+predict : ['SOS', 'c', 'est', 'pas', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : look at that !
+result : regarde ca !
+predict : ['SOS', 'regarde', 'ce', 'chien', '!', 'EOS', '.', 'EOS', '!', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : look at that !
+result : regardez ca !
+predict : ['SOS', 'regarde', 'ce', 'chien', '!', 'EOS', '.', 'EOS', '!', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : look at that !
+result : regardez cela !
+predict : ['SOS', 'regarde', 'ce', 'chien', '!', 'EOS', '.', 'EOS', '!', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : that s right !
+result : c est vrai !
+predict : ['SOS', 'c', 'est', 'vrai', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : that s right !
+result : c est juste !
+predict : ['SOS', 'c', 'est', 'vrai', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : that s right .
+result : c est exact .
+predict : ['SOS', 'c', 'est', 'vrai', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : that s right .
+result : c est juste .
+predict : ['SOS', 'c', 'est', 'vrai', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : we are happy .
+result : nous sommes heureux .
+predict : ['SOS', 'nous', 'sommes', 'heureux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : are you alone ?
+result : es tu seul ?
+predict : ['SOS', 'etes', 'vous', 'seuls', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : are you alone ?
+result : es tu seule ?
+predict : ['SOS', 'etes', 'vous', 'seuls', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : are you alone ?
+result : etes vous seul ?
+predict : ['SOS', 'etes', 'vous', 'seuls', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : are you alone ?
+result : etes vous seule ?
+predict : ['SOS', 'etes', 'vous', 'seuls', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : are you alone ?
+result : etes vous seul ?
+predict : ['SOS', 'etes', 'vous', 'seuls', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : i must go now .
+result : je dois partir maintenant .
+predict : ['SOS', 'je', 'dois', 'partir', 'maintenant', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i want to try .
+result : je veux essayer .
+predict : ['SOS', 'je', 'veux', 'essayer', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i was at home .
+result : j etais a la maison .
+predict : ['SOS', 'j', 'allais', 'a', 'la', 'maison', '.', 'EOS', 'etais', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i was at home .
+result : j etais chez moi .
+predict : ['SOS', 'j', 'allais', 'a', 'la', 'maison', '.', 'EOS', 'etais', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i was at home .
+result : j etais a l appartement .
+predict : ['SOS', 'j', 'allais', 'a', 'la', 'maison', '.', 'EOS', 'etais', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i ll be ready .
+result : je serai pret .
+predict : ['SOS', 'je', 'serai', 'chez', 'moi', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i ll be ready .
+result : je serai prete .
+predict : ['SOS', 'je', 'serai', 'chez', 'moi', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i m all alone .
+result : je suis tout seul .
+predict : ['SOS', 'je', 'vais', 'bien', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i m not alone .
+result : je ne suis pas seul .
+predict : ['SOS', 'je', 'ne', 'suis', 'pas', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', 'seul', '.', 'EOS', '.', 'EOS', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m not alone .
+result : je ne suis pas seule .
+predict : ['SOS', 'je', 'ne', 'suis', 'pas', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', 'seul', '.', 'EOS', '.', 'EOS', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : that s my dog .
+result : c est mon chien .
+predict : ['SOS', 'c', 'est', 'ma', 'voiture', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : they need him .
+result : ils ont besoin de lui .
+predict : ['SOS', 'ils', 'l', 'ont', 'besoin', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : they need him .
+result : elles ont besoin de lui .
+predict : ['SOS', 'ils', 'l', 'ont', 'besoin', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : tom can do it .
+result : tom peut le faire .
+predict : ['SOS', 'tom', 'peut', 'le', 'faire', 'non', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : we can try it .
+result : nous pouvons essayer .
+predict : ['SOS', 'nous', 'pouvons', 'nous', 'y', 'rendre', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : we can try it .
+result : nous pouvons l essayer .
+predict : ['SOS', 'nous', 'pouvons', 'nous', 'y', 'rendre', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : can you see it ?
+result : peux tu le voir ?
+predict : ['SOS', 'peux', 'tu', 'voir', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : can you see it ?
+result : pouvez vous le voir ?
+predict : ['SOS', 'peux', 'tu', 'voir', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : i can help you .
+result : je peux t aider .
+predict : ['SOS', 'je', 'peux', 'vous', 'aider', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i can help you .
+result : je peux vous aider .
+predict : ['SOS', 'je', 'peux', 'vous', 'aider', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i love my work .
+result : j adore mon travail .
+predict : ['SOS', 'j', 'adore', 'mon', 'foyer', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i need to know .
+result : il me faut savoir .
+predict : ['SOS', 'j', 'ai', 'besoin', 'de', 'savoir', '.', 'EOS', 'ai', 'besoin', 'de', 'savoir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i need to know .
+result : il me faut le savoir .
+predict : ['SOS', 'j', 'ai', 'besoin', 'de', 'savoir', '.', 'EOS', 'ai', 'besoin', 'de', 'savoir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i need to know .
+result : j ai besoin de savoir .
+predict : ['SOS', 'j', 'ai', 'besoin', 'de', 'savoir', '.', 'EOS', 'ai', 'besoin', 'de', 'savoir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i need to know .
+result : j ai besoin de le savoir .
+predict : ['SOS', 'j', 'ai', 'besoin', 'de', 'savoir', '.', 'EOS', 'ai', 'besoin', 'de', 'savoir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i need to know .
+result : moi j ai besoin de le savoir .
+predict : ['SOS', 'j', 'ai', 'besoin', 'de', 'savoir', '.', 'EOS', 'ai', 'besoin', 'de', 'savoir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i need to know .
+result : moi j ai besoin de savoir .
+predict : ['SOS', 'j', 'ai', 'besoin', 'de', 'savoir', '.', 'EOS', 'ai', 'besoin', 'de', 'savoir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i need you now .
+result : j ai besoin de toi maintenant .
+predict : ['SOS', 'j', 'ai', 'besoin', 'de', 'vous', 'maintenant', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i need you now .
+result : j ai besoin de vous maintenant .
+predict : ['SOS', 'j', 'ai', 'besoin', 'de', 'vous', 'maintenant', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i never go out .
+result : je ne sors jamais .
+predict : ['SOS', 'je', 'n', 'y', 'suis', 'jamais', 'retournee', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i should do it .
+result : je devrais le faire .
+predict : ['SOS', 'je', 'devrais', 'le', 'faire', '.', 'EOS', '.', 'EOS', '.', 'EOS', 'l', 'affaire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i want to help .
+result : je veux aider .
+predict : ['SOS', 'je', 'veux', 't', 'aider', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i want to work .
+result : je veux travailler .
+predict : ['SOS', 'je', 'veux', 'travailler', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m right here .
+result : je suis juste ici .
+predict : ['SOS', 'j', 'ai', 'raison', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m very happy .
+result : je suis tres heureux .
+predict : ['SOS', 'je', 'suis', 'tres', 'heureux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i m very happy .
+result : je suis tres heureuse .
+predict : ['SOS', 'je', 'suis', 'tres', 'heureux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : it was so good .
+result : c etait si bon .
+predict : ['SOS', 'c', 'etait', 'tellement', 'bon', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : it was so good .
+result : c etait tellement bon .
+predict : ['SOS', 'c', 'etait', 'tellement', 'bon', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : it s very good .
+result : c est tres bon .
+predict : ['SOS', 'c', 'est', 'tres', 'bien', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : it s very good .
+result : c est tres bien .
+predict : ['SOS', 'c', 'est', 'tres', 'bien', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : it s very good .
+result : c est tres bon .
+predict : ['SOS', 'c', 'est', 'tres', 'bien', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : may i help you ?
+result : puis je vous aider ?
+predict : ['SOS', 'puis', 'je', 't', 'aider', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : may i help you ?
+result : est ce que je peux t aider ?
+predict : ['SOS', 'puis', 'je', 't', 'aider', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : that s no good .
+result : ce n est pas bon .
+predict : ['SOS', 'c', 'est', 'la', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : this is my dog .
+result : c est mon chien .
+predict : ['SOS', 'c', 'est', 'ma', 'voiture', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : we can t do it .
+result : nous ne pouvons pas le faire .
+predict : ['SOS', 'nous', 'ne', 'pouvons', 'pas', 'le', 'faire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : we can t do it .
+result : nous ne sommes pas en mesure de le faire .
+predict : ['SOS', 'nous', 'ne', 'pouvons', 'pas', 'le', 'faire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : we re all here .
+result : nous sommes tous la .
+predict : ['SOS', 'nous', 'sommes', 'tous', 'la', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : we re all here .
+result : nous sommes tous ici .
+predict : ['SOS', 'nous', 'sommes', 'tous', 'la', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : we re all here .
+result : nous sommes toutes la .
+predict : ['SOS', 'nous', 'sommes', 'tous', 'la', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : we re all here .
+result : nous sommes toutes ici .
+predict : ['SOS', 'nous', 'sommes', 'tous', 'la', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : where s my car ?
+result : ou est ma voiture ?
+predict : ['SOS', 'ou', 'est', 'mon', 'argent', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : why is he busy ?
+result : pourquoi est il occupe ?
+predict : ['SOS', 'pourquoi', 'est', 'il', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : you look happy .
+result : vous avez l air heureux .
+predict : ['SOS', 'tu', 'as', 'l', 'air', 'heureux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : you look happy .
+result : tu as l air heureux .
+predict : ['SOS', 'tu', 'as', 'l', 'air', 'heureux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : you look happy .
+result : tu as l air heureuse .
+predict : ['SOS', 'tu', 'as', 'l', 'air', 'heureux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : you look happy .
+result : vous avez l air heureuse .
+predict : ['SOS', 'tu', 'as', 'l', 'air', 'heureux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : you look happy .
+result : vous avez l air heureuses .
+predict : ['SOS', 'tu', 'as', 'l', 'air', 'heureux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : can you do that ?
+result : peux tu faire ca ?
+predict : ['SOS', 'est', 'ce', 'que', 'tu', 'peux', 'faire', 'ca', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : can you do that ?
+result : pouvez vous faire cela ?
+predict : ['SOS', 'est', 'ce', 'que', 'tu', 'peux', 'faire', 'ca', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : go back to work .
+result : retourne au travail !
+predict : ['SOS', 'allez', 'a', 'la', 'maison', 'maintenant', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : go back to work .
+result : retournez au travail !
+predict : ['SOS', 'allez', 'a', 'la', 'maison', 'maintenant', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : how are you now ?
+result : comment vas tu maintenant ?
+predict : ['SOS', 'comment', 'allez', 'vous', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : how are you now ?
+result : comment allez vous maintenant ?
+predict : ['SOS', 'comment', 'allez', 'vous', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : i can do it now .
+result : je peux le faire maintenant .
+predict : ['SOS', 'je', 'peux', 'le', 'faire', 'maintenant', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i have to think .
+result : il me faut reflechir .
+predict : ['SOS', 'je', 'dois', 'partir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i have to think .
+result : je dois reflechir .
+predict : ['SOS', 'je', 'dois', 'partir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i know all that .
+result : je sais tout ca .
+predict : ['SOS', 'je', 'sais', 'tout', 'cela', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i know all that .
+result : je sais tout cela .
+predict : ['SOS', 'je', 'sais', 'tout', 'cela', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i like your car .
+result : j aime votre voiture .
+predict : ['SOS', 'j', 'aime', 'votre', 'voiture', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i like your car .
+result : j aime votre auto .
+predict : ['SOS', 'j', 'aime', 'votre', 'voiture', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i like your car .
+result : j aime ta voiture .
+predict : ['SOS', 'j', 'aime', 'votre', 'voiture', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i love this car .
+result : j adore cette voiture .
+predict : ['SOS', 'j', 'adore', 'celui', 'ci', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i must help you .
+result : je dois vous aider .
+predict : ['SOS', 'je', 'dois', 't', 'aider', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i must help you .
+result : je dois t aider .
+predict : ['SOS', 'je', 'dois', 't', 'aider', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i need you here .
+result : j ai besoin de toi ici .
+predict : ['SOS', 'j', 'ai', 'besoin', 'de', 'vous', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i need you here .
+result : j ai besoin de vous ici .
+predict : ['SOS', 'j', 'ai', 'besoin', 'de', 'vous', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i want this dog .
+result : je veux ce chien .
+predict : ['SOS', 'je', 'veux', 'ceci', '.', 'EOS', '.', 'EOS', '.', 'EOS', 'ceci', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i want this one .
+result : je veux celui ci .
+predict : ['SOS', 'je', 'veux', 'ceci', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i want this one .
+result : je veux celle ci .
+predict : ['SOS', 'je', 'veux', 'ceci', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i want to do it .
+result : je veux le faire .
+predict : ['SOS', 'je', 'veux', 'le', 'faire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i d like to eat .
+result : j aimerais manger .
+predict : ['SOS', 'j', 'aimerais', 'manger', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m really busy .
+result : je suis vraiment occupe .
+predict : ['SOS', 'je', 'suis', 'vraiment', 'occupe', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i m really busy .
+result : je suis vraiment occupee .
+predict : ['SOS', 'je', 'suis', 'vraiment', 'occupe', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : it s all i need .
+result : c est tout ce dont j ai besoin .
+predict : ['SOS', 'c', 'est', 'tout', 'ce', 'que', 'j', 'ai', 'besoin', 'de', 'dire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : it s all i want .
+result : c est tout ce que je veux .
+predict : ['SOS', 'c', 'est', 'tout', 'ce', 'que', 'je', 'veux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : it s your money .
+result : c est ton argent .
+predict : ['SOS', 'c', 'est', 'ton', 'argent', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : it s your money .
+result : c est votre argent .
+predict : ['SOS', 'c', 'est', 'ton', 'argent', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : it s your money .
+result : il s agit de votre argent .
+predict : ['SOS', 'c', 'est', 'ton', 'argent', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : that s my money .
+result : c est mon argent .
+predict : ['SOS', 'c', 'est', 'ma', 'voiture', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : that s not good .
+result : ce n est pas bon .
+predict : ['SOS', 'ce', 'n', 'est', 'pas', 'la', 'raison', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : they re with me .
+result : ils sont avec moi .
+predict : ['SOS', 'ils', 'sont', 'avec', 'elles', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : we can t see it .
+result : nous ne pouvons pas le voir .
+predict : ['SOS', 'nous', 'ne', 'pouvons', 'pas', 'nous', 'voir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : we want to help .
+result : nous voulons aider .
+predict : ['SOS', 'nous', 'voulons', 'aider', '.', 'EOS', '.', 'EOS', '.', 'EOS', 'nous', 'faut', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : where is my car ?
+result : ou est ma voiture ?
+predict : ['SOS', 'ou', 'est', 'mon', 'argent', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : where is my dog ?
+result : ou est mon chien ?
+predict : ['SOS', 'ou', 'est', 'mon', 'argent', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : come with me now .
+result : venez avec moi maintenant .
+predict : ['SOS', 'viens', 'avec', 'moi', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : come with me now .
+result : viens avec moi maintenant .
+predict : ['SOS', 'viens', 'avec', 'moi', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : did you see that ?
+result : as tu vu ca ?
+predict : ['SOS', 'as', 'tu', 'vu', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : did you see that ?
+result : avez vous vu ca ?
+predict : ['SOS', 'as', 'tu', 'vu', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : do what you want .
+result : fais ce que tu veux .
+predict : ['SOS', 'faites', 'en', 'ce', 'que', 'vous', 'voulez', '.', 'EOS', '?', 'EOS', 'vous', 'faut', '?', 'EOS', '?', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : do what you want .
+result : faites ce que vous voulez .
+predict : ['SOS', 'faites', 'en', 'ce', 'que', 'vous', 'voulez', '.', 'EOS', '?', 'EOS', 'vous', 'faut', '?', 'EOS', '?', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : he s here for me .
+result : il est ici pour moi .
+predict : ['SOS', 'il', 'est', 'ici', 'pour', 'lui', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : he s here for me .
+result : il est la pour moi .
+predict : ['SOS', 'il', 'est', 'ici', 'pour', 'lui', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i can t come now .
+result : je ne peux pas venir maintenant .
+predict : ['SOS', 'je', 'ne', 'peux', 'pas', 'venir', 'maintenant', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i don t love her .
+result : je ne l aime pas .
+predict : ['SOS', 'je', 'ne', 'l', 'aime', 'pas', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i don t love her .
+result : je n en suis pas amoureux .
+predict : ['SOS', 'je', 'ne', 'l', 'aime', 'pas', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i don t love her .
+result : je ne suis pas epris d elle .
+predict : ['SOS', 'je', 'ne', 'l', 'aime', 'pas', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i feel good here .
+result : je me sens bien ici .
+predict : ['SOS', 'je', 'me', 'sens', 'pour', 'ainsi', 'dire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i must leave now .
+result : je dois partir maintenant .
+predict : ['SOS', 'je', 'dois', 'partir', 'maintenant', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i need the money .
+result : j ai besoin de l argent .
+predict : ['SOS', 'j', 'ai', 'besoin', 'de', 'l', 'argent', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i need your help .
+result : j ai besoin que tu m aides .
+predict : ['SOS', 'j', 'ai', 'besoin', 'de', 'ton', 'aide', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i need your help .
+result : j ai besoin de ton aide .
+predict : ['SOS', 'j', 'ai', 'besoin', 'de', 'ton', 'aide', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i need your help .
+result : j ai besoin de votre aide .
+predict : ['SOS', 'j', 'ai', 'besoin', 'de', 'ton', 'aide', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i really am busy .
+result : je suis vraiment occupe .
+predict : ['SOS', 'je', 'suis', 'vraiment', 'occupe', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i really am busy .
+result : je suis vraiment occupee .
+predict : ['SOS', 'je', 'suis', 'vraiment', 'occupe', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i want to try it .
+result : je veux essayer .
+predict : ['SOS', 'je', 'veux', 'essayer', 'ca', '.', 'EOS', '.', 'EOS', '.', 'EOS', 'veux', 'pas', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i want to try it .
+result : je veux le tenter .
+predict : ['SOS', 'je', 'veux', 'essayer', 'ca', '.', 'EOS', '.', 'EOS', '.', 'EOS', 'veux', 'pas', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i m going to try .
+result : je vais essayer .
+predict : ['SOS', 'je', 'vais', 'essayer', 'ca', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i m really happy .
+result : je suis vraiment heureux .
+predict : ['SOS', 'je', 'suis', 'vraiment', 'heureuse', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i m really happy .
+result : je suis vraiment heureuse .
+predict : ['SOS', 'je', 'suis', 'vraiment', 'heureuse', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i m really happy .
+result : je suis vraiment content .
+predict : ['SOS', 'je', 'suis', 'vraiment', 'heureuse', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i m really happy .
+result : je suis vraiment contente .
+predict : ['SOS', 'je', 'suis', 'vraiment', 'heureuse', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : is that your dog ?
+result : est ce la votre chien ?
+predict : ['SOS', 'est', 'ce', 'la', 'votre', 'voiture', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : is that your dog ?
+result : est ce la ton chien ?
+predict : ['SOS', 'est', 'ce', 'la', 'votre', 'voiture', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : is this your car ?
+result : est ce que c est votre voiture ?
+predict : ['SOS', 'est', 'ce', 'la', 'voiture', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : is this your car ?
+result : est ce ta voiture ?
+predict : ['SOS', 'est', 'ce', 'la', 'voiture', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : is this your car ?
+result : est ce votre voiture ?
+predict : ['SOS', 'est', 'ce', 'la', 'voiture', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : is this your dog ?
+result : est ce ton chien ?
+predict : ['SOS', 'est', 'ce', 'la', 'voiture', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : is this your dog ?
+result : est ce votre chien ?
+predict : ['SOS', 'est', 'ce', 'la', 'voiture', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : it s not so good .
+result : ce n est pas si bon .
+predict : ['SOS', 'ce', 'n', 'est', 'pas', 'pour', 'ca', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : it s not so good .
+result : ce n est pas si bien .
+predict : ['SOS', 'ce', 'n', 'est', 'pas', 'pour', 'ca', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : it s time to eat .
+result : a table !
+predict : ['SOS', 'il', 'est', 'temps', 'de', 's', 'en', 'aller', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : it s time to eat .
+result : c est l heure de manger .
+predict : ['SOS', 'il', 'est', 'temps', 'de', 's', 'en', 'aller', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : no one can leave .
+result : personne ne peut partir .
+predict : ['SOS', 'personne', 'ne', 'peut', 'faire', 'ca', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : no one was there .
+result : personne ne se trouvait la .
+predict : ['SOS', 'personne', 'ne', 'se', 'trouvait', 'dans', 'la', 'voiture', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : no one was there .
+result : personne n etait la .
+predict : ['SOS', 'personne', 'ne', 'se', 'trouvait', 'dans', 'la', 'voiture', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : no one was there .
+result : personne n y etait .
+predict : ['SOS', 'personne', 'ne', 'se', 'trouvait', 'dans', 'la', 'voiture', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : she is very busy .
+result : elle est tres occupee .
+predict : ['SOS', 'elle', 'est', 'tres', 'bien', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : that s very good .
+result : c est tres bon .
+predict : ['SOS', 'c', 'est', 'tres', 'bon', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : they work for me .
+result : ils travaillent pour moi .
+predict : ['SOS', 'ils', 'travaille', 'pour', 'travail', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : they work for me .
+result : elles travaillent pour moi .
+predict : ['SOS', 'ils', 'travaille', 'pour', 'travail', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : this is my money .
+result : c est mon argent .
+predict : ['SOS', 'c', 'est', 'ma', 'voiture', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : this is not good .
+result : ce n est pas bon .
+predict : ['SOS', 'ce', 'n', 'est', 'pas', 'bien', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : tom should leave .
+result : tom devrait partir .
+predict : ['SOS', 'tom', 'devrait', 'partir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : we can t do that .
+result : nous ne pouvons pas le faire .
+predict : ['SOS', 'nous', 'ne', 'pouvons', 'pas', 'faire', 'cela', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : what should i do ?
+result : que devrais je faire ?
+predict : ['SOS', 'que', 'devrais', 'je', 'faire', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : where s your dog ?
+result : ou est ton chien ?
+predict : ['SOS', 'ou', 'est', 'votre', 'chien', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : where s your dog ?
+result : ou est votre chien ?
+predict : ['SOS', 'ou', 'est', 'votre', 'chien', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : where s your dog ?
+result : ou est ton chien ?
+predict : ['SOS', 'ou', 'est', 'votre', 'chien', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : you should do it .
+result : tu devrais le faire .
+predict : ['SOS', 'tu', 'devrais', 'faire', 'ca', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : you should do it .
+result : vous devriez le faire .
+predict : ['SOS', 'tu', 'devrais', 'faire', 'ca', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : do you have a dog ?
+result : avez vous un chien ?
+predict : ['SOS', 'as', 'tu', 'une', 'voiture', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : do you have a dog ?
+result : as tu un chien ?
+predict : ['SOS', 'as', 'tu', 'une', 'voiture', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : get out of my car .
+result : sors de ma voiture !
+predict : ['SOS', 'descends', 'de', 'cette', 'voiture', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : get out of my car .
+result : sortez de ma voiture !
+predict : ['SOS', 'descends', 'de', 'cette', 'voiture', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : he can t help you .
+result : il ne peut pas t aider .
+predict : ['SOS', 'il', 'n', 'arrive', 'pas', 'a', 'arreter', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : he can t help you .
+result : il ne peut pas vous aider .
+predict : ['SOS', 'il', 'n', 'arrive', 'pas', 'a', 'arreter', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i didn t say that .
+result : je n ai pas dit cela .
+predict : ['SOS', 'je', 'ne', 'l', 'ai', 'pas', 'dit', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i didn t say that .
+result : je n ai pas dit ca .
+predict : ['SOS', 'je', 'ne', 'l', 'ai', 'pas', 'dit', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i don t feel well .
+result : je ne me sens pas bien .
+predict : ['SOS', 'je', 'ne', 'me', 'sens', 'pas', 'bien', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i don t work here .
+result : je ne travaille pas ici .
+predict : ['SOS', 'je', 'ne', 'travaille', 'pas', 'ici', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i need to do this .
+result : il me faut le faire .
+predict : ['SOS', 'j', 'ai', 'besoin', 'de', 'faire', 'ceci', '.', 'EOS', 'vous', 'faut', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i really need you .
+result : j ai vraiment besoin de toi .
+predict : ['SOS', 'j', 'ai', 'vraiment', 'besoin', 'de', 'ton', 'aide', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i really need you .
+result : j ai vraiment besoin de vous .
+predict : ['SOS', 'j', 'ai', 'vraiment', 'besoin', 'de', 'ton', 'aide', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i should be happy .
+result : je devrais etre heureux .
+predict : ['SOS', 'je', 'devrais', 'etre', 'heureux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i should be happy .
+result : je devrais etre content .
+predict : ['SOS', 'je', 'devrais', 'etre', 'heureux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i should be happy .
+result : je devrais etre heureuse .
+predict : ['SOS', 'je', 'devrais', 'etre', 'heureux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i should be happy .
+result : je devrais etre contente .
+predict : ['SOS', 'je', 'devrais', 'etre', 'heureux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i should be there .
+result : je devrais etre la .
+predict : ['SOS', 'je', 'devrais', 'etre', 'la', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i should be there .
+result : je devrais y etre .
+predict : ['SOS', 'je', 'devrais', 'etre', 'la', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i should be there .
+result : je devrais etre la bas .
+predict : ['SOS', 'je', 'devrais', 'etre', 'la', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i think it s good .
+result : je pense que c est bon .
+predict : ['SOS', 'je', 'pense', 'qu', 'il', 'est', 'bon', '.', 'EOS', 'de', 'le', 'temps', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i think it s good .
+result : je pense que c est bien .
+predict : ['SOS', 'je', 'pense', 'qu', 'il', 'est', 'bon', '.', 'EOS', 'de', 'le', 'temps', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i ll be in my car .
+result : je serai dans ma voiture .
+predict : ['SOS', 'je', 'serai', 'chez', 'moi', '.', 'EOS', 'autant', 'que', 'vous', 'etes', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i m not very busy .
+result : je ne suis pas tres occupe .
+predict : ['SOS', 'je', 'ne', 'suis', 'pas', 'tres', 'occupe', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', 'tres', 'EOS', '.', 'EOS']
+
+input : i m not very busy .
+result : je ne suis pas tres occupee .
+predict : ['SOS', 'je', 'ne', 'suis', 'pas', 'tres', 'occupe', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', 'tres', 'EOS', '.', 'EOS']
+
+input : that s all i know .
+result : c est tout ce que je sais .
+predict : ['SOS', 'c', 'est', 'tout', 'ce', 'que', 'je', 'sais', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : that s all i need .
+result : c est tout ce dont j ai besoin .
+predict : ['SOS', 'c', 'est', 'tout', 'ce', 'que', 'j', 'ai', 'besoin', 'de', 'dire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : that s all i want .
+result : c est tout ce que je veux .
+predict : ['SOS', 'c', 'est', 'tout', 'ce', 'que', 'je', 'veux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : that s not my car .
+result : ce n est pas ma voiture .
+predict : ['SOS', 'ce', 'n', 'est', 'pas', 'la', 'voiture', 'de', 'tom', '.', 'EOS', '.', 'EOS', '.', 'EOS', 'ce', 'pas', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : this is very good .
+result : c est tres bon .
+predict : ['SOS', 'c', 'est', 'tres', 'bon', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : this is very good .
+result : c est tres bien .
+predict : ['SOS', 'c', 'est', 'tres', 'bon', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : this is very good .
+result : c est tres bon .
+predict : ['SOS', 'c', 'est', 'tres', 'bon', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : tom can t help me .
+result : tom ne peut pas m aider .
+predict : ['SOS', 'tom', 'ne', 'peut', 'pas', 'm', 'arreter', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : tom could do that .
+result : tom pourrait faire cela .
+predict : ['SOS', 'tom', 'pourrait', 'le', 'faire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : tom could do that .
+result : tom pourrait faire ca .
+predict : ['SOS', 'tom', 'pourrait', 'le', 'faire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : we can t help you .
+result : nous ne pouvons pas t aider .
+predict : ['SOS', 'nous', 'ne', 'pouvons', 'pas', 'aider', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : we can t help you .
+result : nous ne pouvons pas vous aider .
+predict : ['SOS', 'nous', 'ne', 'pouvons', 'pas', 'aider', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : we need your help .
+result : nous avons besoin de votre aide .
+predict : ['SOS', 'nous', 'avons', 'besoin', 'de', 'ton', 'aide', '.', 'EOS', 'l', 'besoin', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : we need your help .
+result : nous avons besoin de ton aide .
+predict : ['SOS', 'nous', 'avons', 'besoin', 'de', 'ton', 'aide', '.', 'EOS', 'l', 'besoin', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : what should i eat ?
+result : que devrais je manger ?
+predict : ['SOS', 'que', 'devrais', 'je', 'manger', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : where do you work ?
+result : ou travailles tu ?
+predict : ['SOS', 'ou', 'est', 'tu', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : where do you work ?
+result : ou travaillez vous ?
+predict : ['SOS', 'ou', 'est', 'tu', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : where is your dog ?
+result : ou est ton chien ?
+predict : ['SOS', 'ou', 'est', 'votre', 'chien', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : where is your dog ?
+result : ou est votre chien ?
+predict : ['SOS', 'ou', 'est', 'votre', 'chien', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : where is your dog ?
+result : ou est ton chien ?
+predict : ['SOS', 'ou', 'est', 'votre', 'chien', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : why are you alone ?
+result : pourquoi es tu seul ?
+predict : ['SOS', 'pourquoi', 'etes', 'vous', 'seules', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : why are you alone ?
+result : pourquoi es tu seule ?
+predict : ['SOS', 'pourquoi', 'etes', 'vous', 'seules', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : why are you alone ?
+result : pourquoi etes vous seul ?
+predict : ['SOS', 'pourquoi', 'etes', 'vous', 'seules', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : why are you alone ?
+result : pourquoi etes vous seule ?
+predict : ['SOS', 'pourquoi', 'etes', 'vous', 'seules', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : why are you alone ?
+result : pourquoi etes vous seuls ?
+predict : ['SOS', 'pourquoi', 'etes', 'vous', 'seules', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : why are you alone ?
+result : pourquoi etes vous seules ?
+predict : ['SOS', 'pourquoi', 'etes', 'vous', 'seules', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : why are you alone ?
+result : pourquoi es tu seul ?
+predict : ['SOS', 'pourquoi', 'etes', 'vous', 'seules', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : why are you alone ?
+result : pourquoi es tu seule ?
+predict : ['SOS', 'pourquoi', 'etes', 'vous', 'seules', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : why are you alone ?
+result : pourquoi etes vous seul ?
+predict : ['SOS', 'pourquoi', 'etes', 'vous', 'seules', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : why are you alone ?
+result : pourquoi etes vous seule ?
+predict : ['SOS', 'pourquoi', 'etes', 'vous', 'seules', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : why are you alone ?
+result : pourquoi etes vous seuls ?
+predict : ['SOS', 'pourquoi', 'etes', 'vous', 'seules', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : why are you alone ?
+result : pourquoi etes vous seules ?
+predict : ['SOS', 'pourquoi', 'etes', 'vous', 'seules', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : you can t help me .
+result : tu ne peux pas m aider .
+predict : ['SOS', 'tu', 'ne', 'peux', 'pas', 'me', 'quitter', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : you can t help me .
+result : vous ne pouvez pas m aider .
+predict : ['SOS', 'tu', 'ne', 'peux', 'pas', 'me', 'quitter', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : get out of the car .
+result : sors de la voiture !
+predict : ['SOS', 'sors', 'de', 'cette', 'voiture', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : get out of the car .
+result : sortez de la voiture !
+predict : ['SOS', 'sors', 'de', 'cette', 'voiture', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : give me your money .
+result : donne moi ton argent .
+predict : ['SOS', 'donne', 'moi', 'ton', 'argent', '!', 'EOS', 'font', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : how may i help you ?
+result : comment puis je vous aider ?
+predict : ['SOS', 'de', 'quelle', 'maniere', 'puis', 'je', 'aider', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : how may i help you ?
+result : comment puis je t aider ?
+predict : ['SOS', 'de', 'quelle', 'maniere', 'puis', 'je', 'aider', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : how may i help you ?
+result : que puis je faire pour vous ?
+predict : ['SOS', 'de', 'quelle', 'maniere', 'puis', 'je', 'aider', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : i didn t like that .
+result : je n ai pas aime ca .
+predict : ['SOS', 'je', 'ne', 'l', 'aime', 'pas', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i didn t like that .
+result : je n ai pas aime cela .
+predict : ['SOS', 'je', 'ne', 'l', 'aime', 'pas', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i don t have a car .
+result : je n ai pas de voiture .
+predict : ['SOS', 'je', 'n', 'ai', 'pas', 'de', 'temps', 'la', '.', 'EOS', 'j', 'ai', 'besoin', '.', 'EOS', '.', 'EOS', '.', 'EOS', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i don t have a car .
+result : je ne dispose pas de voiture .
+predict : ['SOS', 'je', 'n', 'ai', 'pas', 'de', 'temps', 'la', '.', 'EOS', 'j', 'ai', 'besoin', '.', 'EOS', '.', 'EOS', '.', 'EOS', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i don t have a dog .
+result : je n ai pas de chien .
+predict : ['SOS', 'je', 'n', 'ai', 'pas', 'de', 'temps', 'la', '.', 'EOS', 'j', 'ai', 'besoin', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i think tom s here .
+result : je pense que tom est ici .
+predict : ['SOS', 'je', 'pense', 'que', 'tom', 'est', 'la', 'raison', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m very happy now .
+result : je suis tres heureux maintenant .
+predict : ['SOS', 'je', 'suis', 'tres', 'heureux', 'd', 'etre', 'de', 'retour', 'a', 'la', 'maison', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m very happy now .
+result : maintenant je suis tres heureuse .
+predict : ['SOS', 'je', 'suis', 'tres', 'heureux', 'd', 'etre', 'de', 'retour', 'a', 'la', 'maison', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : it s not very good .
+result : ce n est pas tres bon .
+predict : ['SOS', 'ce', 'n', 'est', 'pas', 'tres', 'bon', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : no one can help me .
+result : personne ne peut m aider .
+predict : ['SOS', 'personne', 'ne', 'peut', 'aider', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : no one can help us .
+result : personne ne peut nous aider .
+predict : ['SOS', 'personne', 'ne', 'peut', 'aider', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : that was very good .
+result : c etait tres bien .
+predict : ['SOS', 'c', 'etait', 'tres', 'bien', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : that was very good .
+result : ca a ete tres bien .
+predict : ['SOS', 'c', 'etait', 'tres', 'bien', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : that was very good .
+result : c etait tres bon .
+predict : ['SOS', 'c', 'etait', 'tres', 'bien', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : that was very good .
+result : ce fut tres bon .
+predict : ['SOS', 'c', 'etait', 'tres', 'bien', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : that s all we need .
+result : c est tout ce dont nous avons besoin .
+predict : ['SOS', 'c', 'est', 'tout', 'ce', 'dont', 'nous', 'avons', 'besoin', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : that s not for tom .
+result : ce n est pas pour tom .
+predict : ['SOS', 'ce', 'n', 'est', 'pas', 'pour', 'ca', '.', 'EOS', 'est', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : they didn t see it .
+result : ils ne l ont pas vu .
+predict : ['SOS', 'elles', 'ne', 'savaient', 'que', 'vous', 'y', 'aller', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : they didn t see it .
+result : elles ne l ont pas vu .
+predict : ['SOS', 'elles', 'ne', 'savaient', 'que', 'vous', 'y', 'aller', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : they were all here .
+result : ils etaient tous ici .
+predict : ['SOS', 'ils', 'etaient', 'tous', 'la', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : they were all here .
+result : elles etaient toutes ici .
+predict : ['SOS', 'ils', 'etaient', 'tous', 'la', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : this is all i know .
+result : c est tout ce que je sais .
+predict : ['SOS', 'c', 'est', 'tout', 'ce', 'que', 'je', 'sais', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : this is all i want .
+result : c est tout ce que je veux .
+predict : ['SOS', 'c', 'est', 'tout', 'ce', 'que', 'je', 'peux', 'faire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : this is not my car .
+result : ce n est pas ma voiture .
+predict : ['SOS', 'ce', 'n', 'est', 'pas', 'pour', 'nous', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : tom can t help you .
+result : tom ne peut pas t aider .
+predict : ['SOS', 'tom', 'ne', 'peut', 'pas', 't', 'aider', '.', 'EOS', 'l', 'aide', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : tom can t help you .
+result : tom ne peut pas vous aider .
+predict : ['SOS', 'tom', 'ne', 'peut', 'pas', 't', 'aider', '.', 'EOS', 'l', 'aide', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : tom got in the car .
+result : tom est monte dans la voiture .
+predict : ['SOS', 'tom', 'tom', 'a', 'la', 'maison', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : where are they now ?
+result : ou sont ils maintenant ?
+predict : ['SOS', 'ou', 'sont', 'ils', 'maintenant', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : where are they now ?
+result : ou sont elles maintenant ?
+predict : ['SOS', 'ou', 'sont', 'ils', 'maintenant', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : you can t eat here .
+result : vous ne pouvez pas manger ici .
+predict : ['SOS', 'tu', 'ne', 'peux', 'pas', 'ici', 'non', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : you can t eat here .
+result : tu ne peux pas manger ici .
+predict : ['SOS', 'tu', 'ne', 'peux', 'pas', 'ici', 'non', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : you look very good .
+result : tu as l air tres bien .
+predict : ['SOS', 'tu', 'as', 'l', 'air', 'occupee', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : you look very good .
+result : vous avez l air tres bien .
+predict : ['SOS', 'tu', 'as', 'l', 'air', 'occupee', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : you should know it .
+result : tu devrais le savoir .
+predict : ['SOS', 'tu', 'devrais', 'le', 'savoir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : you should know it .
+result : vous devriez le savoir .
+predict : ['SOS', 'tu', 'devrais', 'le', 'savoir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : he is ready to work .
+result : il est pret a travailler .
+predict : ['SOS', 'il', 'est', 'pret', 'a', 'partir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : he really got to me .
+result : il m a vraiment enerve .
+predict : ['SOS', 'il', 'faut', 'vraiment', 'partir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : here s what i think .
+result : voila ce que je pense .
+predict : ['SOS', 'voila', 'ce', 'que', 'j', 'allais', 'faire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i have to leave now .
+result : il faut que j y aille maintenant .
+predict : ['SOS', 'je', 'dois', 'partir', 'maintenant', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i have to leave now .
+result : je dois partir maintenant .
+predict : ['SOS', 'je', 'dois', 'partir', 'maintenant', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i have to leave now .
+result : je dois y aller .
+predict : ['SOS', 'je', 'dois', 'partir', 'maintenant', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i have to leave now .
+result : il faut que j y aille maintenant .
+predict : ['SOS', 'je', 'dois', 'partir', 'maintenant', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i know you re right .
+result : je sais que tu as raison .
+predict : ['SOS', 'je', 'sais', 'que', 'tu', 'avais', 'raison', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i know you re right .
+result : je sais que vous avez raison .
+predict : ['SOS', 'je', 'sais', 'que', 'tu', 'avais', 'raison', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i see you are ready .
+result : je vois que tu es prete .
+predict : ['SOS', 'je', 'vois', 'que', 'tu', 'm', 'en', 'es', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i see you are ready .
+result : je vois que vous etes prete .
+predict : ['SOS', 'je', 'vois', 'que', 'tu', 'm', 'en', 'es', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i see you are ready .
+result : je vois que vous etes pret .
+predict : ['SOS', 'je', 'vois', 'que', 'tu', 'm', 'en', 'es', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i see you are ready .
+result : je vois que vous etes pretes .
+predict : ['SOS', 'je', 'vois', 'que', 'tu', 'm', 'en', 'es', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i see you are ready .
+result : je vois que vous etes prets .
+predict : ['SOS', 'je', 'vois', 'que', 'tu', 'm', 'en', 'es', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i still have to try .
+result : je dois encore essayer .
+predict : ['SOS', 'je', 'dois', 'toujours', 'faire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i still have to try .
+result : il me faut encore essayer .
+predict : ['SOS', 'je', 'dois', 'toujours', 'faire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i was going to work .
+result : j allais travailler .
+predict : ['SOS', 'j', 'allais', 'partir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m not going to go .
+result : je ne vais pas y aller .
+predict : ['SOS', 'je', 'ne', 'vais', 'pas', 'aller', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : no one can help you .
+result : personne ne peut vous aider .
+predict : ['SOS', 'personne', 'ne', 'peut', 'aider', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : no one can help you .
+result : personne ne peut t aider .
+predict : ['SOS', 'personne', 'ne', 'peut', 'aider', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : no one could see us .
+result : personne ne pourrait nous voir .
+predict : ['SOS', 'personne', 'ne', 'peut', 'voir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : no one could see us .
+result : personne ne pouvait nous voir .
+predict : ['SOS', 'personne', 'ne', 'peut', 'voir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : no one will help us .
+result : personne ne nous aidera .
+predict : ['SOS', 'personne', 'ne', 'nous', 'arretera', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : that s how i did it .
+result : c est ainsi que je l ai fait .
+predict : ['SOS', 'c', 'est', 'ainsi', 'que', 'je', 'le', 'fis', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : that s what i think .
+result : c est ce que je pense .
+predict : ['SOS', 'c', 'est', 'ce', 'que', 'je', 'pense', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : that s why i did it .
+result : c est pourquoi je l ai fait .
+predict : ['SOS', 'c', 'est', 'pourquoi', 'j', 'ai', 'fait', 'cela', '.', 'EOS', 'ai', 'pas', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : this is what i want .
+result : c est ce que je veux .
+predict : ['SOS', 'c', 'est', 'ce', 'que', 'je', 'veux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : this isn t my money .
+result : ce n est pas mon argent .
+predict : ['SOS', 'ce', 'n', 'est', 'pas', 'de', 'l', 'argent', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : where are you going ?
+result : ou vas tu ?
+predict : ['SOS', 'ou', 'allez', 'vous', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : where are you going ?
+result : ou te rends tu ?
+predict : ['SOS', 'ou', 'allez', 'vous', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : where are you going ?
+result : ou vous rendez vous ?
+predict : ['SOS', 'ou', 'allez', 'vous', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : why are you with me ?
+result : pourquoi etes vous avec moi ?
+predict : ['SOS', 'pourquoi', 'etes', 'vous', 'm', 'en', 'aller', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : why are you with me ?
+result : pourquoi es tu avec moi ?
+predict : ['SOS', 'pourquoi', 'etes', 'vous', 'm', 'en', 'aller', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : why did you like it ?
+result : pourquoi l avez vous aime ?
+predict : ['SOS', 'pourquoi', 'l', 'as', 'tu', 'fait', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : why did you like it ?
+result : pourquoi l as tu aime ?
+predict : ['SOS', 'pourquoi', 'l', 'as', 'tu', 'fait', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : do you want to do it ?
+result : veux tu le faire ?
+predict : ['SOS', 'voulez', 'vous', 'le', 'faire', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : do you want to do it ?
+result : voulez vous le faire ?
+predict : ['SOS', 'voulez', 'vous', 'le', 'faire', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : i can t eat all this .
+result : je ne peux pas manger tout ca .
+predict : ['SOS', 'je', 'ne', 'peux', 'pas', 'manger', 'tout', 'ceci', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i can t help you now .
+result : je ne peux pas vous aider maintenant .
+predict : ['SOS', 'je', 'ne', 'peux', 'pas', 't', 'aider', 'maintenant', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i don t feel so well .
+result : je ne me sens pas si bien .
+predict : ['SOS', 'je', 'ne', 'me', 'sens', 'pas', 'bien', 'bien', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i don t work for you .
+result : je ne travaille pas pour vous .
+predict : ['SOS', 'je', 'ne', 'travaille', 'pas', 'ainsi', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i don t work for you .
+result : je ne travaille pas pour toi .
+predict : ['SOS', 'je', 'ne', 'travaille', 'pas', 'ainsi', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i know that you know .
+result : je sais que tu sais .
+predict : ['SOS', 'je', 'sais', 'que', 'tu', 'sais', 'cela', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i know that you know .
+result : je sais que vous savez .
+predict : ['SOS', 'je', 'sais', 'que', 'tu', 'sais', 'cela', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i should go with you .
+result : je devrais aller avec vous .
+predict : ['SOS', 'je', 'devrais', 'partir', 'avec', 'vous', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i should go with you .
+result : je devrais aller avec toi .
+predict : ['SOS', 'je', 'devrais', 'partir', 'avec', 'vous', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i think tom is ready .
+result : je pense que tom est pret .
+predict : ['SOS', 'je', 'pense', 'que', 'tom', 'est', 'pret', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i think we can do it .
+result : je pense que nous pouvons le faire .
+predict : ['SOS', 'je', 'pense', 'que', 'nous', 'pouvons', 'le', 'faire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i think you re ready .
+result : je pense que tu es pret .
+predict : ['SOS', 'je', 'pense', 'que', 'vous', 'devriez', 'partir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i think you re ready .
+result : je pense que tu es prete .
+predict : ['SOS', 'je', 'pense', 'que', 'vous', 'devriez', 'partir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i think you re ready .
+result : je pense que vous etes pret .
+predict : ['SOS', 'je', 'pense', 'que', 'vous', 'devriez', 'partir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i think you re ready .
+result : je pense que vous etes prete .
+predict : ['SOS', 'je', 'pense', 'que', 'vous', 'devriez', 'partir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i think you re ready .
+result : je pense que vous etes prets .
+predict : ['SOS', 'je', 'pense', 'que', 'vous', 'devriez', 'partir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i think you re ready .
+result : je pense que vous etes pretes .
+predict : ['SOS', 'je', 'pense', 'que', 'vous', 'devriez', 'partir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i think you re right .
+result : je crois que tu as raison .
+predict : ['SOS', 'je', 'pense', 'que', 'tu', 'avais', 'raison', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i think you re right .
+result : je crois que vous avez raison .
+predict : ['SOS', 'je', 'pense', 'que', 'tu', 'avais', 'raison', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i think you re right .
+result : je pense que vous avez raison .
+predict : ['SOS', 'je', 'pense', 'que', 'tu', 'avais', 'raison', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i think you re right .
+result : je pense que tu as raison .
+predict : ['SOS', 'je', 'pense', 'que', 'tu', 'avais', 'raison', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i want to be at home .
+result : je veux etre chez moi .
+predict : ['SOS', 'je', 'veux', 'etre', 'la', 'chez', 'vous', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i want to be at home .
+result : je veux etre a la maison .
+predict : ['SOS', 'je', 'veux', 'etre', 'la', 'chez', 'vous', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i was ready to do it .
+result : j etais pret a le faire .
+predict : ['SOS', 'j', 'etais', 'prete', 'de', 'le', 'faire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i was ready to do it .
+result : j etais prete a le faire .
+predict : ['SOS', 'j', 'etais', 'prete', 'de', 'le', 'faire', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i d like to be alone .
+result : j aimerais etre seule .
+predict : ['SOS', 'j', 'aimerais', 'etre', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i d like to be alone .
+result : j aimerais etre seul .
+predict : ['SOS', 'j', 'aimerais', 'etre', 'seul', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i d like to help you .
+result : j aimerais vous aider .
+predict : ['SOS', 'j', 'aimerais', 'vous', 'aider', 'a', 'aller', 'chercher', 'ce', 'dont', 'vous', 'avez', 'besoin', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i d like to help you .
+result : j aimerais t aider .
+predict : ['SOS', 'j', 'aimerais', 'vous', 'aider', 'a', 'aller', 'chercher', 'ce', 'dont', 'vous', 'avez', 'besoin', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i d like to see that .
+result : j aimerais voir ca .
+predict : ['SOS', 'j', 'aimerais', 'te', 'voir', 'l', 'essayer', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i ll never come back .
+result : je ne reviendrai jamais .
+predict : ['SOS', 'je', 'ne', 'cesserai', 'jamais', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i m going to see tom .
+result : je vais voir tom .
+predict : ['SOS', 'je', 'vais', 'voir', 'tom', '.', 'EOS', 'vous', 'faut', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i m happy to see you .
+result : je suis heureux de vous voir .
+predict : ['SOS', 'je', 'suis', 'heureux', 'de', 'vous', 'voir', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i m in love with you .
+result : je suis amoureux de toi .
+predict : ['SOS', 'je', 'suis', 'amoureux', 'd', 'elle', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m in love with you .
+result : je suis amoureux de vous .
+predict : ['SOS', 'je', 'suis', 'amoureux', 'd', 'elle', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m in love with you .
+result : je suis amoureuse de toi .
+predict : ['SOS', 'je', 'suis', 'amoureux', 'd', 'elle', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m not here for you .
+result : je ne suis pas la pour toi .
+predict : ['SOS', 'je', 'ne', 'suis', 'pas', 'la', 'pour', 'vous', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m not here for you .
+result : je ne suis pas la pour vous .
+predict : ['SOS', 'je', 'ne', 'suis', 'pas', 'la', 'pour', 'vous', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : she is never on time .
+result : elle n est jamais a l heure .
+predict : ['SOS', 'elle', 'n', 'est', 'jamais', 'a', 'l', 'heure', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : that s not very good .
+result : ce n est pas tres bon .
+predict : ['SOS', 'ce', 'n', 'est', 'pas', 'tres', 'bon', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : they know we re here .
+result : ils savent que nous sommes ici .
+predict : ['SOS', 'ils', 'savent', 'connaissent', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : they know we re here .
+result : elles savent que nous sommes ici .
+predict : ['SOS', 'ils', 'savent', 'connaissent', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : tom is never on time .
+result : tom n est jamais a l heure .
+predict : ['SOS', 'tom', 'n', 'est', 'jamais', 'a', 'la', 'maison', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : why can t we do that ?
+result : pourquoi ne pouvons nous pas faire ca ?
+predict : ['SOS', 'pourquoi', 'ne', 'pouvons', 'nous', 'pas', 'le', 'faire', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : do you like your work ?
+result : aimez vous votre travail ?
+predict : ['SOS', 'est', 'ce', 'que', 'tu', 'aimes', 'tu', 'travailler', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : i can t work with tom .
+result : je ne peux pas travailler avec tom .
+predict : ['SOS', 'je', 'ne', 'peux', 'pas', 'avec', 'tom', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i could never do that .
+result : je ne pourrais jamais faire ca .
+predict : ['SOS', 'je', 'ne', 'pourrais', 'jamais', 'faire', 'ca', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i could never do that .
+result : je ne pourrais jamais faire cela .
+predict : ['SOS', 'je', 'ne', 'pourrais', 'jamais', 'faire', 'ca', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i really am very busy .
+result : je suis vraiment tres occupe .
+predict : ['SOS', 'je', 'suis', 'vraiment', 'deborde', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i really am very busy .
+result : je suis vraiment tres occupee .
+predict : ['SOS', 'je', 'suis', 'vraiment', 'deborde', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i think he won t come .
+result : je pense qu il ne viendra pas .
+predict : ['SOS', 'je', 'n', 'ai', 'pas', 'besoin', 'de', 'lui', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i want to be with tom .
+result : je veux etre avec tom .
+predict : ['SOS', 'je', 'veux', 'etre', 'tom', 'avec', 'vous', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i want to be with you .
+result : je veux etre avec toi .
+predict : ['SOS', 'je', 'veux', 'etre', 'avec', 'vous', '.', 'EOS', 'vous', 'faut', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i want to be with you .
+result : je veux etre avec vous .
+predict : ['SOS', 'je', 'veux', 'etre', 'avec', 'vous', '.', 'EOS', 'vous', 'faut', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i want to do it right .
+result : je veux le faire correctement .
+predict : ['SOS', 'je', 'veux', 'le', 'faire', 'correctement', '.', 'EOS', '.', 'EOS', '.', 'EOS', 'instant', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i m not going to stop .
+result : je ne vais pas m arreter .
+predict : ['SOS', 'je', 'ne', 'vais', 'pas', 't', 'arreter', '.', 'EOS', '.', 'EOS', '.', 'EOS', 'allait', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i m not going to work .
+result : je ne vais pas travailler .
+predict : ['SOS', 'je', 'ne', 'vais', 'pas', 'aller', 'la', 'dessus', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : it made me very happy .
+result : ca m a rendu tres heureux .
+predict : ['SOS', 'il', 's', 'est', 'fait', 'heureux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : it made me very happy .
+result : ca m a rendue tres heureuse .
+predict : ['SOS', 'il', 's', 'est', 'fait', 'heureux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : it s really very good .
+result : c est vraiment tres bon .
+predict : ['SOS', 'c', 'est', 'vraiment', 'tres', 'bon', '.', 'EOS', 'nous', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : just do what you want .
+result : fais ce que tu veux .
+predict : ['SOS', 'faites', 'simplement', 'ce', 'que', 'vous', 'voulez', '.', 'EOS', 'dise', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : just do what you want .
+result : faites ce que vous voulez .
+predict : ['SOS', 'faites', 'simplement', 'ce', 'que', 'vous', 'voulez', '.', 'EOS', 'dise', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : tell tom i m not home .
+result : dites a tom que je ne suis pas chez moi .
+predict : ['SOS', 'dis', 'a', 'tom', 'que', 'je', 'ne', 'suis', 'pas', 'a', 'la', 'maison', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : tell tom i m not home .
+result : dis a tom que je ne suis pas a la maison .
+predict : ['SOS', 'dis', 'a', 'tom', 'que', 'je', 'ne', 'suis', 'pas', 'a', 'la', 'maison', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : this is how i made it .
+result : voici comment je l ai fait .
+predict : ['SOS', 'c', 'est', 'ainsi', 'que', 'je', 'le', 'fis', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : this is how i made it .
+result : voici comment je le fis .
+predict : ['SOS', 'c', 'est', 'ainsi', 'que', 'je', 'le', 'fis', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : this is how i made it .
+result : c est comme ca que je le fis .
+predict : ['SOS', 'c', 'est', 'ainsi', 'que', 'je', 'le', 'fis', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : this is how i made it .
+result : c est comme ca que je l ai fait .
+predict : ['SOS', 'c', 'est', 'ainsi', 'que', 'je', 'le', 'fis', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : this is how i made it .
+result : voici comment je l ai confectionne .
+predict : ['SOS', 'c', 'est', 'ainsi', 'que', 'je', 'le', 'fis', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : this is how i made it .
+result : c est comme ca que je le confectionnai .
+predict : ['SOS', 'c', 'est', 'ainsi', 'que', 'je', 'le', 'fis', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : where do you work now ?
+result : ou travailles tu maintenant ?
+predict : ['SOS', 'ou', 'est', 'tu', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : where do you work now ?
+result : ou travaillez vous maintenant ?
+predict : ['SOS', 'ou', 'est', 'tu', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : why do you want a dog ?
+result : pourquoi veux tu un chien ?
+predict : ['SOS', 'pourquoi', 'voulez', 'vous', 'vous', 'aider', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : why do you want a dog ?
+result : pourquoi voulez vous un chien ?
+predict : ['SOS', 'pourquoi', 'voulez', 'vous', 'vous', 'aider', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?']
+
+input : do you want to do this ?
+result : veux tu le faire ?
+predict : ['SOS', 'voulez', 'vous', 'le', 'faire', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : do you want to do this ?
+result : voulez vous le faire ?
+predict : ['SOS', 'voulez', 'vous', 'le', 'faire', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : i am ready to help you .
+result : je suis pret a t aider .
+predict : ['SOS', 'je', 'suis', 'pret', 'a', 't', 'aider', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : i don t feel very good .
+result : je ne me sens pas tres bien .
+predict : ['SOS', 'je', 'ne', 'me', 'sens', 'pas', 'tres', 'bien', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i don t feel very well .
+result : je ne me sens pas tres bien .
+predict : ['SOS', 'je', 'ne', 'me', 'sens', 'pas', 'tres', 'bien', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i don t need your help .
+result : je n ai pas besoin de ton aide .
+predict : ['SOS', 'je', 'n', 'ai', 'pas', 'besoin', 'de', 'ton', 'aide', '.', 'EOS', 'l', 'ai', 'fait', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i don t need your help .
+result : je n ai pas besoin de votre aide .
+predict : ['SOS', 'je', 'n', 'ai', 'pas', 'besoin', 'de', 'ton', 'aide', '.', 'EOS', 'l', 'ai', 'fait', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i really must be going .
+result : je dois vraiment y aller .
+predict : ['SOS', 'il', 'me', 'faut', 'vraiment', 'm', 'en', 'aller', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i really must be going .
+result : je dois vraiment m en aller .
+predict : ['SOS', 'il', 'me', 'faut', 'vraiment', 'm', 'en', 'aller', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i really want to leave .
+result : je veux vraiment partir .
+predict : ['SOS', 'je', 'veux', 'vraiment', 'vous', 'quitter', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : she must be very happy .
+result : elle doit etre tres heureuse .
+predict : ['SOS', 'elle', 'doit', 'etre', 'heureux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : tell me where you went .
+result : dis moi ou tu es alle .
+predict : ['SOS', 'dites', 'moi', 'ou', 'vous', 'avez', 'trouve', 'tom', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : tell me where you went .
+result : dis moi ou tu es allee .
+predict : ['SOS', 'dites', 'moi', 'ou', 'vous', 'avez', 'trouve', 'tom', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : tell me where you went .
+result : dis moi ou vous etes alles .
+predict : ['SOS', 'dites', 'moi', 'ou', 'vous', 'avez', 'trouve', 'tom', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : tell me where you went .
+result : dis moi ou vous etes allees .
+predict : ['SOS', 'dites', 'moi', 'ou', 'vous', 'avez', 'trouve', 'tom', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : tell me where you went .
+result : dites moi ou vous etes alles .
+predict : ['SOS', 'dites', 'moi', 'ou', 'vous', 'avez', 'trouve', 'tom', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : tell me where you went .
+result : dites moi ou vous etes allees .
+predict : ['SOS', 'dites', 'moi', 'ou', 'vous', 'avez', 'trouve', 'tom', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : tell me where you went .
+result : dites moi ou vous etes alle .
+predict : ['SOS', 'dites', 'moi', 'ou', 'vous', 'avez', 'trouve', 'tom', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : tell me where you went .
+result : dites moi ou vous etes allee .
+predict : ['SOS', 'dites', 'moi', 'ou', 'vous', 'avez', 'trouve', 'tom', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : that s not what i want .
+result : ce n est pas ce que je veux .
+predict : ['SOS', 'ce', 'n', 'est', 'pas', 'ce', 'que', 'je', 'veux', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS']
+
+input : are we going to do that ?
+result : allons nous faire cela ?
+predict : ['SOS', 'nous', 'allons', 'faire', 'ca', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : are we going to do that ?
+result : est ce qu on va faire ca ?
+predict : ['SOS', 'nous', 'allons', 'faire', 'ca', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : do you really like that ?
+result : aimez vous vraiment cela ?
+predict : ['SOS', 'est', 'ce', 'que', 'tu', 'aimes', 'vraiment', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : do you really like that ?
+result : tu aimes vraiment ca ?
+predict : ['SOS', 'est', 'ce', 'que', 'tu', 'aimes', 'vraiment', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : do you want to eat this ?
+result : veux tu manger ca ?
+predict : ['SOS', 'voulez', 'vous', 'manger', 'ceci', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : do you want to eat this ?
+result : voulez vous manger ceci ?
+predict : ['SOS', 'voulez', 'vous', 'manger', 'ceci', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS', '?', 'EOS']
+
+input : i don t feel very happy .
+result : je ne me sens pas tres heureux .
+predict : ['SOS', 'je', 'ne', 'me', 'sens', 'pas', 'tres', 'bien', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i don t feel very happy .
+result : je ne me sens pas tres heureuse .
+predict : ['SOS', 'je', 'ne', 'me', 'sens', 'pas', 'tres', 'bien', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i don t need your money .
+result : je n ai pas besoin de votre argent .
+predict : ['SOS', 'je', 'n', 'ai', 'pas', 'besoin', 'de', 'ton', 'argent', '.', 'j', 'ai', 'besoin', 'de', 'ton', 'temps', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i don t need your money .
+result : je n ai pas besoin de ton argent .
+predict : ['SOS', 'je', 'n', 'ai', 'pas', 'besoin', 'de', 'ton', 'argent', '.', 'j', 'ai', 'besoin', 'de', 'ton', 'temps', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i don t want your money .
+result : je ne veux pas de ton argent .
+predict : ['SOS', 'je', 'ne', 'veux', 'pas', 'de', 'votre', 'argent', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i don t want your money .
+result : je veux pas de votre argent .
+predict : ['SOS', 'je', 'ne', 'veux', 'pas', 'de', 'votre', 'argent', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+
+input : i know you want to help .
+result : je sais que tu veux aider .
+predict : ['SOS', 'je', 'sais', 'que', 'tu', 'veux', 'm', 'aider', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.', 'EOS', '.']
+

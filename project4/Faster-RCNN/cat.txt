@@ -1,0 +1,130 @@
+cat_Post22(1).jpg - person	person	cat	cat	cat	cat	cat	dog	bear	
+cat_Post53(4).jpg - person	person	person	person	cat	
+cat_Post72(1).jpg - 
+cat_Post26(1).jpg - person	person	
+cat_Post82(1).jpg - person	person	person	
+cat_Post75(1).jpg - person	dog	sheep	sheep	
+cat_Post1(1).jpg - cat	dog	
+cat_Post58(1).jpg - person	person	car	car	car	car	car	car	car	truck	chair	chair	
+cat_Post65(1).jpg - cat	cat	
+cat_Post74(1).jpg - person	person	dog	teddy bear	
+cat_Post51(1).jpg - cat	couch	potted plant	
+cat_Post39(1).jpg - cat	
+cat_Post47(2).jpg - person	cat	
+cat_Post59(1).jpg - person	dog	backpack	
+cat_Post47(6).jpg - person	
+cat_Post90(6).jpg - person	person	bowl	cell phone	
+cat_Post84(2).jpg - person	person	dog	chair	
+cat_Post49(1).jpg - cat	cat	bed	
+cat_Post14(1).jpg - person	person	
+cat_Post79(1).jpg - person	
+cat_Post23(1).jpg - cat	couch	remote	
+cat_Post48(1).jpg - cat	
+cat_Post15(1).jpg - cat	bed	book	
+cat_Post90(2).jpg - person	bench	cat	banana	potted plant	
+cat_Post47(4).jpg - clock	scissors	
+cat_Post29(1).jpg - 
+cat_Post33(1).jpg - cat	
+cat_Post47(1).jpg - cat	cat	chair	
+cat_Post46(1).jpg - cat	chair	potted plant	
+cat_Post60(1).jpg - person	
+cat_Post2(1).jpg - dog	tv	
+cat_Post94(1).jpg - dog	bed	
+cat_Post93(1).jpg - person	elephant	
+cat_Post17(1).jpg - bird	orange	
+cat_Post96(1).jpg - person	person	cat	banana	chair	dining table	dining table	
+cat_Post10(1).jpg - cat	
+cat_Post57(1).jpg - cat	backpack	cup	bed	bed	mouse	
+cat_Post50(1).jpg - person	dog	
+cat_Post25(1).jpg - person	
+cat_Post47(5).jpg - cat	cell phone	cell phone	cell phone	
+cat_Post77(1).jpg - person	cat	cat	cat	cat	dog	backpack	bed	
+cat_Post44(1).jpg - cat	
+cat_Post52(1).jpg - cat	cup	bed	tv	book	book	
+cat_Post43(1).jpg - cat	cat	
+cat_Post90(1).jpg - person	cat	banana	potted plant	
+cat_Post84(3).jpg - person	
+cat_Post49(3).jpg - person	cat	cell phone	cell phone	cell phone	cell phone	
+cat_Post9(1).jpg - person	person	bed	
+cat_Post97(1).jpg - cat	
+cat_Post7(1).jpg - cat	cell phone	cell phone	cell phone	cell phone	cell phone	
+cat_Post45(1).jpg - person	person	person	person	person	person	person	person	chair	chair	chair	chair	chair	chair	chair	chair	chair	chair	
+cat_Post53(3).jpg - person	teddy bear	
+cat_Post3(1).jpg - cat	chair	
+cat_Post32(1).jpg - cat	
+cat_Post5(1).jpg - cat	
+cat_Post18(1).jpg - cat	dog	
+cat_Post21(1).jpg - person	cat	
+cat_Post52(2).jpg - cat	cup	bed	tv	book	book	book	book	book	
+cat_Post92(1).jpg - person	bus	truck	
+cat_Post70(1).jpg - cat	
+cat_Post3(2).jpg - cat	chair	
+cat_Post77(2).jpg - cat	cat	cat	bed	
+cat_Post49(4).jpg - person	tie	
+cat_Post35(1).jpg - cat	frisbee	chair	chair	
+cat_Post47(3).jpg - cat	cell phone	
+cat_Post6(1).jpg - cat	dog	
+cat_Post80(1).jpg - person	
+cat_Post71(1).jpg - cat	
+cat_Post98(1).jpg - cat	
+cat_Post88(1).jpg - cow	sports ball	
+cat_Post64(1).jpg - person	person	person	cat	
+cat_Post31(1).jpg - 
+cat_Post9(2).jpg - person	remote	cell phone	
+cat_Post78(1).jpg - person	cat	bottle	bottle	bottle	sink	
+cat_Post37(1).jpg - person	
+cat_Post25(2).jpg - person	person	
+cat_Post27(1).jpg - person	clock	
+cat_Post40(1).jpg - cat	
+cat_Post12(1).jpg - cat	
+cat_Post42(1).jpg - cat	
+cat_Post62(1).jpg - cat	cat	dog	
+cat_Post69(1).jpg - person	
+cat_Post37(2).jpg - person	chair	cell phone	
+cat_Post87(1).jpg - 
+cat_Post76(1).jpg - person	stop sign	
+cat_Post53(1).jpg - person	teddy bear	
+cat_Post19(1).jpg - cat	tv	
+cat_Post89(1).jpg - cat	cat	
+cat_Post56(1).jpg - cat	
+cat_Post14(2).jpg - person	person	
+cat_Post83(1).jpg - person	
+cat_Post28(1).jpg - person	horse	handbag	
+cat_Post20(1).jpg - person	cat	
+cat_Post68(1).jpg - 
+cat_Post84(4).jpg - person	cell phone	clock	
+cat_Post84(1).jpg - person	dog	
+cat_Post67(1).jpg - person	dog	dog	
+cat_Post11(1).jpg - cat	cat	cat	bowl	chair	chair	chair	dining table	
+cat_Post66(1).jpg - cat	
+cat_Post61(1).jpg - cat	cup	chair	book	book	book	book	book	book	book	book	book	book	book	book	
+cat_Post73(1).jpg - cat	laptop	keyboard	
+cat_Post21(2).jpg - person	bicycle	cat	
+cat_Post34(1).jpg - cat	dog	
+cat_Post85(1).jpg - cat	
+cat_Post81(1).jpg - cat	dog	
+cat_Post95(1).jpg - bench	cat	
+cat_Post36(1).jpg - cat	cat	giraffe	
+cat_Post30(1).jpg - cat	
+cat_Post53(2).jpg - person	
+cat_Post90(3).jpg - person	sports ball	
+cat_Post49(2).jpg - cat	
+cat_Post37(3).jpg - person	broccoli	
+cat_Post86(1).jpg - cat	
+cat_Post54(1).jpg - cat	potted plant	
+cat_Post8(1).jpg - cat	book	
+cat_Post90(4).jpg - person	chair	potted plant	dining table	
+cat_Post13(1).jpg - cat	
+cat_Post81(2).jpg - cat	chair	
+cat_Post38(1).jpg - person	
+cat_Post99(1).jpg - person	cat	cat	toilet	
+cat_Post63(1).jpg - person	cat	
+cat_Post41(1).jpg - person	cat	
+cat_Post41(2).jpg - person	person	cat	bed	
+cat_Post4(1).jpg - cat	cat	book	
+cat_Post90(5).jpg - person	bottle	dining table	toothbrush	
+cat_Post24(1).jpg - person	zebra	
+cat_Post91(1).jpg - 
+cat_Post16(1).jpg - person	cat	dog	
+cat_Post90(7).jpg - person	person	person	handbag	handbag	handbag	bowl	chair	chair	chair	dining table	teddy bear	
+cat_Post55(1).jpg - person	cat	

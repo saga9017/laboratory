@@ -1,0 +1,4098 @@
+last loss : 3.0576534032821656
+
+input :  go .
+result : va !
+predict : ['va', '!']
+
+input : hi .
+result : salut !
+predict : ['va', '!']
+
+input : run !
+result : cours !
+predict : ['est', '!']
+
+input : run !
+result : courez !
+predict : ['est', '!']
+
+input : who ?
+result : qui ?
+predict : ['suis', 'moi', '!']
+
+input : wow !
+result : ca alors !
+predict : ['tom', 'vous', '!']
+
+input : fire !
+result : au feu !
+predict : ['.', 'moi', '!']
+
+input : help !
+result : a l aide !
+predict : ['a', 'moi', '.']
+
+input : jump .
+result : saute .
+predict : ['laisse', '.']
+
+input : stop !
+result : ca suffit !
+predict : ['tom', '!', '!']
+
+input : stop !
+result : stop !
+predict : ['tom', '!', '!']
+
+input : stop !
+result : arrete toi !
+predict : ['tom', '!', '!']
+
+input : wait !
+result : attends !
+predict : ['laissez', '!']
+
+input : wait !
+result : attendez !
+predict : ['laissez', '!']
+
+input : go on .
+result : poursuis .
+predict : ['soyez', '.']
+
+input : go on .
+result : continuez .
+predict : ['soyez', '.']
+
+input : go on .
+result : poursuivez .
+predict : ['soyez', '.']
+
+input : hello !
+result : bonjour !
+predict : ['est', '!']
+
+input : hello !
+result : salut !
+predict : ['est', '!']
+
+input : i see .
+result : je comprends .
+predict : ['je', 'le', '.']
+
+input : i try .
+result : j essaye .
+predict : ['c', 'le', '.']
+
+input : i won !
+result : j ai gagne !
+predict : ['j', 'ai', 'en', '!', '!']
+
+input : i won !
+result : je l ai emporte !
+predict : ['j', 'ai', 'en', '!', '!']
+
+input : i won .
+result : j ai gagne .
+predict : ['j', 'ai', 'tom', '.']
+
+input : oh no !
+result : oh non !
+predict : ['laisse', 'moi', '!']
+
+input : attack !
+result : attaque !
+predict : ['laisse', '!']
+
+input : attack !
+result : attaquez !
+predict : ['laisse', '!']
+
+input : cheers !
+result : sante !
+predict : ['a', '!', '!']
+
+input : cheers !
+result : a votre sante !
+predict : ['a', '!', '!']
+
+input : cheers !
+result : merci !
+predict : ['a', '!', '!']
+
+input : cheers !
+result : tchin tchin !
+predict : ['a', '!', '!']
+
+input : get up .
+result : leve toi .
+predict : ['laissez', 'vous', '.']
+
+input : go now .
+result : va maintenant .
+predict : ['je', 'vous', '.', '.']
+
+input : go now .
+result : allez y maintenant .
+predict : ['je', 'vous', '.', '.']
+
+input : go now .
+result : vas y maintenant .
+predict : ['je', 'vous', '.', '.']
+
+input : got it !
+result : j ai pige !
+predict : ['c', 'moi', '?', '!']
+
+input : got it !
+result : compris !
+predict : ['c', 'moi', '?', '!']
+
+input : got it ?
+result : pige ?
+predict : ['tom', 'moi', 'en', '!']
+
+input : got it ?
+result : compris ?
+predict : ['tom', 'moi', 'en', '!']
+
+input : got it ?
+result : t as capte ?
+predict : ['tom', 'moi', 'en', '!']
+
+input : hop in .
+result : monte .
+predict : ['soyez', '.']
+
+input : hop in .
+result : montez .
+predict : ['soyez', '.']
+
+input : hug me .
+result : serre moi dans tes bras !
+predict : ['laissez', 'moi', '?', '?']
+
+input : hug me .
+result : serrez moi dans vos bras !
+predict : ['laissez', 'moi', '?', '?']
+
+input : i fell .
+result : je suis tombee .
+predict : ['je', 'suis', '.', '.']
+
+input : i fell .
+result : je suis tombe .
+predict : ['je', 'suis', '.', '.']
+
+input : i know .
+result : je sais .
+predict : ['je', 'le', '.']
+
+input : i left .
+result : je suis parti .
+predict : ['je', 'suis', 'bien', '.']
+
+input : i left .
+result : je suis partie .
+predict : ['je', 'suis', 'bien', '.']
+
+input : i lost .
+result : j ai perdu .
+predict : ['je', 'ai', 'tom', '.']
+
+input : i paid .
+result : j ai paye .
+predict : ['j', 'ai', '.', '.']
+
+input : i m .
+result : j ai ans .
+predict : ['je', 'suis', '.', '.']
+
+input : i m ok .
+result : je vais bien .
+predict : ['je', 'est', '.']
+
+input : i m ok .
+result : ca va .
+predict : ['je', 'est', '.']
+
+input : listen .
+result : ecoutez !
+predict : ['laisse', '!']
+
+input : no way !
+result : c est pas possible !
+predict : ['c', 'est', '?', '!']
+
+input : no way !
+result : impossible !
+predict : ['c', 'est', '?', '!']
+
+input : no way !
+result : en aucun cas .
+predict : ['c', 'est', '?', '!']
+
+input : no way !
+result : sans facons !
+predict : ['c', 'est', '?', '!']
+
+input : no way !
+result : c est hors de question !
+predict : ['c', 'est', '?', '!']
+
+input : no way !
+result : il n en est pas question !
+predict : ['c', 'est', '?', '!']
+
+input : no way !
+result : c est exclu !
+predict : ['c', 'est', '?', '!']
+
+input : no way !
+result : en aucune maniere !
+predict : ['c', 'est', '?', '!']
+
+input : no way !
+result : hors de question !
+predict : ['c', 'est', '?', '!']
+
+input : really ?
+result : vraiment ?
+predict : ['soyez', 'moi']
+
+input : really ?
+result : vrai ?
+predict : ['soyez', 'moi']
+
+input : really ?
+result : ah bon ?
+predict : ['soyez', 'moi']
+
+input : thanks .
+result : merci !
+predict : ['soyez', '!']
+
+input : we try .
+result : on essaye .
+predict : ['c', '.', '.']
+
+input : we won .
+result : nous avons gagne .
+predict : ['nous', 'ai', '.', '.']
+
+input : we won .
+result : nous gagnames .
+predict : ['nous', 'ai', '.', '.']
+
+input : we won .
+result : nous l avons emporte .
+predict : ['nous', 'ai', '.', '.']
+
+input : we won .
+result : nous l emportames .
+predict : ['nous', 'ai', '.', '.']
+
+input : ask tom .
+result : demande a tom .
+predict : ['je', 'a', 'tom', '.']
+
+input : awesome !
+result : fantastique !
+predict : ['laisse', '!']
+
+input : be calm .
+result : sois calme !
+predict : ['tom', 'le', '!']
+
+input : be calm .
+result : soyez calme !
+predict : ['tom', 'le', '!']
+
+input : be calm .
+result : soyez calmes !
+predict : ['tom', 'le', '!']
+
+input : be cool .
+result : sois detendu !
+predict : ['tom', 'le', '!']
+
+input : be fair .
+result : sois juste !
+predict : ['tom', 'le', '!']
+
+input : be fair .
+result : soyez juste !
+predict : ['tom', 'le', '!']
+
+input : be fair .
+result : soyez justes !
+predict : ['tom', 'le', '!']
+
+input : be fair .
+result : sois equitable !
+predict : ['tom', 'le', '!']
+
+input : be fair .
+result : soyez equitable !
+predict : ['tom', 'le', '!']
+
+input : be fair .
+result : soyez equitables !
+predict : ['tom', 'le', '!']
+
+input : be kind .
+result : sois gentil .
+predict : ['tom', 'le', '.']
+
+input : be nice .
+result : sois gentil !
+predict : ['soyez', 'le', '!']
+
+input : be nice .
+result : sois gentille !
+predict : ['soyez', 'le', '!']
+
+input : be nice .
+result : soyez gentil !
+predict : ['soyez', 'le', '!']
+
+input : be nice .
+result : soyez gentille !
+predict : ['soyez', 'le', '!']
+
+input : be nice .
+result : soyez gentils !
+predict : ['soyez', 'le', '!']
+
+input : be nice .
+result : soyez gentilles !
+predict : ['soyez', 'le', '!']
+
+input : beat it .
+result : degage !
+predict : ['EOS', '!']
+
+input : call me .
+result : appelle moi !
+predict : ['laissez', 'moi', '!']
+
+input : call me .
+result : appellez moi !
+predict : ['laissez', 'moi', '!']
+
+input : call us .
+result : appelle nous !
+predict : ['laissez', 'nous', '!']
+
+input : call us .
+result : appelez nous !
+predict : ['laissez', 'nous', '!']
+
+input : come in .
+result : entrez !
+predict : ['UNKNOWN', '!']
+
+input : come in .
+result : entre .
+predict : ['UNKNOWN', '!']
+
+input : come in .
+result : entre !
+predict : ['UNKNOWN', '!']
+
+input : come in .
+result : entrez !
+predict : ['UNKNOWN', '!']
+
+input : come on !
+result : allez !
+predict : ['EOS', '!']
+
+input : come on .
+result : allez !
+predict : ['laisse', '!']
+
+input : come on .
+result : viens !
+predict : ['laisse', '!']
+
+input : come on .
+result : venez !
+predict : ['laisse', '!']
+
+input : drop it !
+result : laisse tomber !
+predict : ['laissez', 'le', '!']
+
+input : drop it !
+result : laissez tomber !
+predict : ['laissez', 'le', '!']
+
+input : drop it !
+result : laisse le tomber !
+predict : ['laissez', 'le', '!']
+
+input : drop it !
+result : laissez le tomber !
+predict : ['laissez', 'le', '!']
+
+input : get tom .
+result : va chercher tom .
+predict : ['va', 'a', 'tom', '.']
+
+input : get out !
+result : sortez !
+predict : ['laisse', '!']
+
+input : get out !
+result : sors !
+predict : ['laisse', '!']
+
+input : get out !
+result : sortez !
+predict : ['laisse', '!']
+
+input : get out .
+result : sors .
+predict : ['laissez', '.', '.']
+
+input : get out .
+result : casse toi .
+predict : ['laissez', '.', '.']
+
+input : go away !
+result : degage !
+predict : ['EOS', '!']
+
+input : go away !
+result : pars !
+predict : ['EOS', '!']
+
+input : go away .
+result : va te faire foutre !
+predict : ['EOS', 'moi', 'en', '!']
+
+input : go away .
+result : pars !
+predict : ['EOS', 'moi', 'en', '!']
+
+input : go away .
+result : degage !
+predict : ['EOS', 'moi', 'en', '!']
+
+input : go away .
+result : fous le camp !
+predict : ['EOS', 'moi', 'en', '!']
+
+input : go away .
+result : pars d ici .
+predict : ['EOS', 'moi', 'en', '!']
+
+input : go away .
+result : va t en !
+predict : ['EOS', 'moi', 'en', '!']
+
+input : go away .
+result : disparais !
+predict : ['EOS', 'moi', 'en', '!']
+
+input : go away .
+result : allez vous en !
+predict : ['EOS', 'moi', 'en', '!']
+
+input : go home .
+result : rentrez a la maison .
+predict : ['soyez', 'a', '.', '.']
+
+input : go home .
+result : rentre a la maison .
+predict : ['soyez', 'a', '.', '.']
+
+input : go home .
+result : rentre chez toi .
+predict : ['soyez', 'a', '.', '.']
+
+input : go home .
+result : rentrez chez vous .
+predict : ['soyez', 'a', '.', '.']
+
+input : go slow .
+result : va doucement !
+predict : ['va', 'est', '!']
+
+input : go slow .
+result : allez doucement !
+predict : ['va', 'est', '!']
+
+input : goodbye !
+result : a la revoyure .
+predict : ['a', 'le', '.', '.']
+
+input : hang on !
+result : attends un peu !
+predict : ['laissez', 'a', '?', '!']
+
+input : hang on !
+result : attendez un peu !
+predict : ['laissez', 'a', '?', '!']
+
+input : hang on .
+result : tiens bon !
+predict : ['laisse', 'a', '!']
+
+input : hang on .
+result : tenez bon !
+predict : ['laisse', 'a', '!']
+
+input : he quit .
+result : il laissa tomber .
+predict : ['suis', 'a', '.', '.', '.']
+
+input : he quit .
+result : il a laisse tomber .
+predict : ['suis', 'a', '.', '.', '.']
+
+input : he runs .
+result : il court .
+predict : ['c', 'le', '.']
+
+input : help me !
+result : aide moi !
+predict : ['laisse', 'moi', '!']
+
+input : help me .
+result : aide moi .
+predict : ['laissez', 'moi', '.']
+
+input : help me .
+result : aidez moi .
+predict : ['laissez', 'moi', '.']
+
+input : help us .
+result : aidez nous !
+predict : ['laisse', 'nous', '!']
+
+input : help us .
+result : aide nous !
+predict : ['laisse', 'nous', '!']
+
+input : hold it !
+result : ne bouge plus !
+predict : ['c', 'moi', '?', '!']
+
+input : hold on .
+result : ne quittez pas .
+predict : ['c', 'le', 'a', '.']
+
+input : hug tom .
+result : fais un calin a tom .
+predict : ['c', 'le', 'ai', 'a']
+
+input : i agree .
+result : je suis du meme avis .
+predict : ['je', 'suis', 'tom', '.']
+
+input : i cried .
+result : j ai pleure .
+predict : ['j', 'ai', '.', '.']
+
+input : i dozed .
+result : je me suis assoupi .
+predict : ['je', 'suis', 'suis', 'en', '.']
+
+input : i dozed .
+result : je me suis assoupie .
+predict : ['je', 'suis', 'suis', 'en', '.']
+
+input : i drive .
+result : je conduis .
+predict : ['je', 'toi', '.']
+
+input : i smoke .
+result : je fume .
+predict : ['je', 'le', '.']
+
+input : i snore .
+result : je ronfle .
+predict : ['je', 'le', '.']
+
+input : i stink .
+result : je pue .
+predict : ['je', 'le', '.']
+
+input : i stood .
+result : je me suis tenu debout .
+predict : ['je', 'est', 'suis', '?']
+
+input : i stood .
+result : je me suis tenue debout .
+predict : ['je', 'est', 'suis', '?']
+
+input : i swore .
+result : j ai promis .
+predict : ['j', 'ai', '.', '.']
+
+input : i swore .
+result : j ai jure .
+predict : ['j', 'ai', '.', '.']
+
+input : i tried .
+result : j essayai .
+predict : ['j', 'ai', '.', '.']
+
+input : i tried .
+result : j ai essaye .
+predict : ['j', 'ai', '.', '.']
+
+input : i tried .
+result : j ai tente .
+predict : ['j', 'ai', '.', '.']
+
+input : i waved .
+result : j ai fait signe .
+predict : ['je', 'ai', 'ai', 'en', '.']
+
+input : i ll go .
+result : j irai .
+predict : ['j', 'vais', '.']
+
+input : i m tom .
+result : je suis tom .
+predict : ['je', 'suis', 'tom', '.']
+
+input : i m fat .
+result : je suis gras .
+predict : ['je', 'suis', 'malade', '.']
+
+input : i m fat .
+result : je suis gros .
+predict : ['je', 'suis', 'malade', '.']
+
+input : i m fit .
+result : je suis en forme .
+predict : ['je', 'suis', 'en', 'a', '.']
+
+input : i m hit !
+result : je suis touche !
+predict : ['je', 'suis', '.', '!']
+
+input : i m hit !
+result : je suis touchee !
+predict : ['je', 'suis', '.', '!']
+
+input : i m ill .
+result : je suis malade .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m sad .
+result : je suis triste .
+predict : ['je', 'suis', 'perdu', '.']
+
+input : i m shy .
+result : je suis timide .
+predict : ['je', 'suis', '.', '.']
+
+input : i m wet .
+result : je suis mouille .
+predict : ['je', 'suis', 'malade', '.']
+
+input : i m wet .
+result : je suis mouillee .
+predict : ['je', 'suis', 'malade', '.']
+
+input : it s me !
+result : c est bibi !
+predict : ['c', 'est', 'il', '!']
+
+input : join us .
+result : joignez vous .
+predict : ['je', 'vous', '.', 'en', '.']
+
+input : join us .
+result : joignez vous a nous .
+predict : ['je', 'vous', '.', 'en', '.']
+
+input : keep it .
+result : garde le !
+predict : ['laissez', 'le', '!']
+
+input : keep it .
+result : gardez le !
+predict : ['laissez', 'le', '!']
+
+input : kiss me .
+result : embrasse moi .
+predict : ['laissez', 'moi', '.']
+
+input : kiss me .
+result : embrassez moi .
+predict : ['laissez', 'moi', '.']
+
+input : me too .
+result : moi aussi .
+predict : ['moi', 'UNKNOWN', '.']
+
+input : open up .
+result : ouvre moi !
+predict : ['laisse', 'vous', '!']
+
+input : open up .
+result : ouvre .
+predict : ['laisse', 'vous', '!']
+
+input : perfect !
+result : parfait !
+predict : ['laisse', '!']
+
+input : see you .
+result : a plus .
+predict : ['a', 'moi', '.']
+
+input : show me .
+result : montre moi !
+predict : ['laissez', 'moi', '!']
+
+input : show me .
+result : montrez moi !
+predict : ['laissez', 'moi', '!']
+
+input : shut up !
+result : taisez vous !
+predict : ['.', 'vous', '!']
+
+input : shut up !
+result : ferme la !
+predict : ['.', 'vous', '!']
+
+input : shut up !
+result : tais toi !
+predict : ['.', 'vous', '!']
+
+input : shut up !
+result : ferme la !
+predict : ['.', 'vous', '!']
+
+input : shut up !
+result : la ferme !
+predict : ['.', 'vous', '!']
+
+input : so long .
+result : a plus tard !
+predict : ['tom', 'moi', 'a', '!']
+
+input : take it .
+result : prends le !
+predict : ['EOS', 'le', '!']
+
+input : take it .
+result : prenez le !
+predict : ['EOS', 'le', '!']
+
+input : tell me .
+result : dis moi !
+predict : ['laissez', 'moi', '!']
+
+input : tell me .
+result : dites moi !
+predict : ['laissez', 'moi', '!']
+
+input : tom won .
+result : tom a gagne .
+predict : ['tom', 'a', 'a', '.']
+
+input : wake up !
+result : reveille toi !
+predict : ['soyez', 'vous', '!']
+
+input : wake up !
+result : reveille toi !
+predict : ['soyez', 'vous', '!']
+
+input : wake up !
+result : reveillez vous !
+predict : ['soyez', 'vous', '!']
+
+input : wake up .
+result : reveille toi !
+predict : ['soyez', 'vous', '!']
+
+input : wake up .
+result : reveillez vous !
+predict : ['soyez', 'vous', '!']
+
+input : wash up .
+result : lave toi !
+predict : ['laissez', 'vous', '!']
+
+input : wash up .
+result : lavez vous !
+predict : ['laissez', 'vous', '!']
+
+input : we know .
+result : nous savons .
+predict : ['nous', 'vous', '.']
+
+input : we lost .
+result : nous perdimes .
+predict : ['nous', 'suis', '.', '.']
+
+input : we lost .
+result : nous avons perdu .
+predict : ['nous', 'suis', '.', '.']
+
+input : we lost .
+result : nous fumes battus .
+predict : ['nous', 'suis', '.', '.']
+
+input : we lost .
+result : nous fumes battues .
+predict : ['nous', 'suis', '.', '.']
+
+input : we lost .
+result : nous fumes defaits .
+predict : ['nous', 'suis', '.', '.']
+
+input : we lost .
+result : nous fumes defaites .
+predict : ['nous', 'suis', '.', '.']
+
+input : we lost .
+result : nous avons ete defaits .
+predict : ['nous', 'suis', '.', '.']
+
+input : we lost .
+result : nous avons ete defaites .
+predict : ['nous', 'suis', '.', '.']
+
+input : we lost .
+result : nous avons ete battus .
+predict : ['nous', 'suis', '.', '.']
+
+input : we lost .
+result : nous avons ete battues .
+predict : ['nous', 'suis', '.', '.']
+
+input : welcome .
+result : bienvenue !
+predict : ['laisse', '!']
+
+input : who won ?
+result : qui a gagne ?
+predict : ['nous', 'ai', 'ai', '?', '?']
+
+input : who won ?
+result : qui l a emporte ?
+predict : ['nous', 'ai', 'ai', '?', '?']
+
+input : you run .
+result : tu cours .
+predict : ['a', 'est', '.']
+
+input : am i fat ?
+result : suis je gros ?
+predict : ['suis', 'je', 'qui', '?']
+
+input : am i fat ?
+result : suis je grosse ?
+predict : ['suis', 'je', 'qui', '?']
+
+input : ask them .
+result : demande leur .
+predict : ['soyez', 'le', '.']
+
+input : ask them .
+result : demandez leur .
+predict : ['soyez', 'le', '.']
+
+input : back off !
+result : recule !
+predict : ['laisse', '!']
+
+input : back off !
+result : reculez .
+predict : ['laisse', '!']
+
+input : back off .
+result : recule !
+predict : ['laisse', '.', '.']
+
+input : back off .
+result : reculez .
+predict : ['laisse', '.', '.']
+
+input : back off .
+result : retire toi !
+predict : ['laisse', '.', '.']
+
+input : back off .
+result : retirez vous .
+predict : ['laisse', '.', '.']
+
+input : be a man .
+result : sois un homme !
+predict : ['c', 'le', 'bien', '!']
+
+input : be a man .
+result : soyez un homme !
+predict : ['c', 'le', 'bien', '!']
+
+input : be still .
+result : sois calme !
+predict : ['c', 'le', '!']
+
+input : be still .
+result : soyez calme !
+predict : ['c', 'le', '!']
+
+input : be still .
+result : soyez calmes !
+predict : ['c', 'le', '!']
+
+input : beats me .
+result : aucune idee .
+predict : ['je', 'moi', '.', '.']
+
+input : beats me .
+result : j en sais foutre rien .
+predict : ['je', 'moi', '.', '.']
+
+input : call tom .
+result : appelle tom .
+predict : ['laissez', 'tom', '.']
+
+input : call tom .
+result : appelez tom .
+predict : ['laissez', 'tom', '.']
+
+input : cheer up !
+result : courage !
+predict : ['laisse', '!']
+
+input : cool off !
+result : detends toi !
+predict : ['laisse', 'vous', '!']
+
+input : cuff him .
+result : menottez le .
+predict : ['EOS', 'le', '.']
+
+input : drive on .
+result : avance !
+predict : ['a', 'vous', '?', '!']
+
+input : drive on .
+result : avancez !
+predict : ['a', 'vous', '?', '!']
+
+input : drive on .
+result : continue a rouler !
+predict : ['a', 'vous', '?', '!']
+
+input : drive on .
+result : continuez a rouler !
+predict : ['a', 'vous', '?', '!']
+
+input : find tom .
+result : trouve tom .
+predict : ['c', 'tom', '.']
+
+input : find tom .
+result : trouvez tom .
+predict : ['c', 'tom', '.']
+
+input : fix this .
+result : reparez ceci .
+predict : ['EOS', 'ca', '.']
+
+input : fix this .
+result : repare ca .
+predict : ['EOS', 'ca', '.']
+
+input : get down !
+result : lache toi !
+predict : ['laissez', 'vous', '!']
+
+input : get down .
+result : descends !
+predict : ['laisse', '!', '!']
+
+input : get down .
+result : descendez !
+predict : ['laisse', '!', '!']
+
+input : get down .
+result : lache toi !
+predict : ['laisse', '!', '!']
+
+input : get down .
+result : lachez vous !
+predict : ['laisse', '!', '!']
+
+input : get lost !
+result : va voir ailleurs si j y suis !
+predict : ['va', '!', '.', '!']
+
+input : get lost !
+result : degage !
+predict : ['va', '!', '.', '!']
+
+input : get lost !
+result : va au diable !
+predict : ['va', '!', '.', '!']
+
+input : get real !
+result : sois realiste !
+predict : ['soyez', '.', '!']
+
+input : go ahead .
+result : vas y .
+predict : ['laissez', 'moi', '!']
+
+input : go ahead .
+result : poursuis !
+predict : ['laissez', 'moi', '!']
+
+input : go ahead .
+result : passe devant !
+predict : ['laissez', 'moi', '!']
+
+input : go ahead .
+result : vas y !
+predict : ['laissez', 'moi', '!']
+
+input : good job !
+result : bien joue !
+predict : ['a', 'le', '!']
+
+input : good job !
+result : bon boulot !
+predict : ['a', 'le', '!']
+
+input : good job !
+result : beau travail !
+predict : ['a', 'le', '!']
+
+input : grab him .
+result : attrape le .
+predict : ['EOS', 'le', '.']
+
+input : grab him .
+result : attrapez le .
+predict : ['EOS', 'le', '.']
+
+input : have fun .
+result : amuse toi bien !
+predict : ['soyez', 'moi', '.', '.']
+
+input : have fun .
+result : amusez vous bien !
+predict : ['soyez', 'moi', '.', '.']
+
+input : he tries .
+result : il essaye .
+predict : ['c', 'le', '.']
+
+input : he s wet .
+result : il est mouille .
+predict : ['c', 'est', 'bien', '.']
+
+input : help tom .
+result : aide tom .
+predict : ['laissez', 'tom', '.']
+
+input : help tom .
+result : aidez tom .
+predict : ['laissez', 'tom', '.']
+
+input : hi guys .
+result : salut les mecs !
+predict : ['est', 'le', 'perdu', '!']
+
+input : how cute !
+result : comme c est mignon !
+predict : ['je', 'c', 'est', '?', '!']
+
+input : how deep ?
+result : quelle profondeur ?
+predict : ['je', 'vous', '!']
+
+input : how nice !
+result : comme c est chouette !
+predict : ['c', 'suis', 'est', '?', '!']
+
+input : how nice !
+result : comme c est gentil !
+predict : ['c', 'suis', 'est', '?', '!']
+
+input : how nice !
+result : c est du joli !
+predict : ['c', 'suis', 'est', '?', '!']
+
+input : how nice !
+result : comme c est agreable !
+predict : ['c', 'suis', 'est', '?', '!']
+
+input : humor me .
+result : fais moi rire .
+predict : ['c', 'moi', 'en', '.']
+
+input : hurry up .
+result : depeche toi .
+predict : ['laisse', '!', '.']
+
+input : hurry up .
+result : grouille !
+predict : ['laisse', '!', '.']
+
+input : hurry up .
+result : pressez vous !
+predict : ['laisse', '!', '.']
+
+input : hurry up .
+result : fica !
+predict : ['laisse', '!', '.']
+
+input : i am fat .
+result : je suis gras .
+predict : ['je', 'suis', 'malade', '.']
+
+input : i did ok .
+result : je m en suis bien sorti .
+predict : ['je', 'est', 'en', 'en', '.']
+
+input : i did ok .
+result : je m en suis bien sortie .
+predict : ['je', 'est', 'en', 'en', '.']
+
+input : i did it .
+result : je l ai fait .
+predict : ['je', 'est', 'en', 'en', '.']
+
+input : i did it .
+result : c est moi qui l ai fait .
+predict : ['je', 'est', 'en', 'en', '.']
+
+input : i failed .
+result : j ai echoue .
+predict : ['j', 'ai', '.', '.']
+
+input : i forgot .
+result : j ai oublie .
+predict : ['j', 'ai', '.', '.']
+
+input : i get it .
+result : j ai compris .
+predict : ['je', 'suis', 'tom', '.']
+
+input : i got it .
+result : j ai compris .
+predict : ['je', 'suis', 'tom', '.']
+
+input : i got it .
+result : j ai capte .
+predict : ['je', 'suis', 'tom', '.']
+
+input : i helped .
+result : j ai aide .
+predict : ['j', 'suis', '.', '.']
+
+input : i jumped .
+result : j ai saute .
+predict : ['j', 'ai', '.', '.']
+
+input : i looked .
+result : j ai regarde .
+predict : ['j', 'ai', '.', '.']
+
+input : i moaned .
+result : j ai rale .
+predict : ['j', 'ai', '.', '.']
+
+input : i nodded .
+result : j ai fait signe de la tete .
+predict : ['j', 'ai', 'ai', 'en', 'nous']
+
+input : i obeyed .
+result : j ai obei .
+predict : ['j', 'ai', '.', '.']
+
+input : i phoned .
+result : je telephonai .
+predict : ['je', 'suis', '.']
+
+input : i phoned .
+result : j ai telephone .
+predict : ['je', 'suis', '.']
+
+input : i refuse .
+result : je refuse .
+predict : ['je', 'le', '.']
+
+input : i refuse .
+result : je le refuse .
+predict : ['je', 'le', '.']
+
+input : i rested .
+result : je me suis repose .
+predict : ['je', 'suis', 'suis', 'en', '.']
+
+input : i rested .
+result : je me suis reposee .
+predict : ['je', 'suis', 'suis', 'en', '.']
+
+input : i saw it .
+result : je l ai vu .
+predict : ['je', 'ai', 'ai', '.', '.']
+
+input : i saw it .
+result : je l ai vu .
+predict : ['je', 'ai', 'ai', '.', '.']
+
+input : i sighed .
+result : j ai soupire .
+predict : ['j', 'ai', '.', '.']
+
+input : i stayed .
+result : je suis reste .
+predict : ['je', 'suis', 'perdu', '.']
+
+input : i stayed .
+result : je suis restee .
+predict : ['je', 'suis', 'perdu', '.']
+
+input : i talked .
+result : j ai parle .
+predict : ['j', 'suis', 'tom', '.']
+
+input : i use it .
+result : je l utilise .
+predict : ['je', 'moi', 'ai', '.', '.']
+
+input : i use it .
+result : j en fais usage .
+predict : ['je', 'moi', 'ai', '.', '.']
+
+input : i use it .
+result : je m en sers .
+predict : ['je', 'moi', 'ai', '.', '.']
+
+input : i ll pay .
+result : je paierai .
+predict : ['je', 'vais', '.']
+
+input : i ll try .
+result : je vais essayer .
+predict : ['je', 'suis', '.']
+
+input : i ll try .
+result : j essaierai .
+predict : ['je', 'suis', '.']
+
+input : i m back .
+result : je suis revenu .
+predict : ['je', 'suis', '.', '.']
+
+input : i m back .
+result : me revoila .
+predict : ['je', 'suis', '.', '.']
+
+input : i m bald .
+result : je suis chauve .
+predict : ['je', 'suis', 'malade', '.']
+
+input : i m busy .
+result : je suis occupe .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m busy .
+result : je suis occupee .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m calm .
+result : je suis calme .
+predict : ['je', 'suis', 'a', '.']
+
+input : i m cold .
+result : j ai froid .
+predict : ['j', 'suis', '.', '.']
+
+input : i m cool .
+result : je suis detendu .
+predict : ['je', 'suis', '.', '.']
+
+input : i m cool .
+result : je suis detendue .
+predict : ['je', 'suis', '.', '.']
+
+input : i m deaf .
+result : je suis sourd .
+predict : ['je', 'suis', 'malade', '.']
+
+input : i m deaf .
+result : je suis sourde .
+predict : ['je', 'suis', 'malade', '.']
+
+input : i m done .
+result : j en ai fini .
+predict : ['je', 'suis', 'en', 'a', '.']
+
+input : i m fair .
+result : je suis juste .
+predict : ['je', 'suis', 'en', '.', 'aller']
+
+input : i m fair .
+result : j ai la peau claire .
+predict : ['je', 'suis', 'en', '.', 'aller']
+
+input : i m fair .
+result : j ai le teint clair .
+predict : ['je', 'suis', 'en', '.', 'aller']
+
+input : i m fast .
+result : je suis rapide .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m fine .
+result : tout va bien .
+predict : ['je', 'est', '.', '.']
+
+input : i m fine .
+result : je vais bien .
+predict : ['je', 'est', '.', '.']
+
+input : i m fine .
+result : ca va .
+predict : ['je', 'est', '.', '.']
+
+input : i m free !
+result : je suis libre !
+predict : ['je', 'suis', 'malade', '!']
+
+input : i m free .
+result : je suis libre .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m free .
+result : je suis disponible .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m full .
+result : je suis repu !
+predict : ['je', 'suis', '.', '!']
+
+input : i m full .
+result : je suis rassasie !
+predict : ['je', 'suis', '.', '!']
+
+input : i m game .
+result : j en suis .
+predict : ['je', 'suis', 'en', '.']
+
+input : i m game .
+result : je suis de la partie .
+predict : ['je', 'suis', 'en', '.']
+
+input : i m glad .
+result : je suis content .
+predict : ['je', 'suis', 'malade', '.']
+
+input : i m home .
+result : je suis chez moi .
+predict : ['je', 'suis', '.', '.', '.']
+
+input : i m late .
+result : je suis en retard .
+predict : ['je', 'suis', 'en', '.', '.']
+
+input : i m lazy .
+result : je suis paresseux .
+predict : ['je', 'suis', 'malade', '.']
+
+input : i m lazy .
+result : je suis faineant .
+predict : ['je', 'suis', 'malade', '.']
+
+input : i m lazy .
+result : je suis paresseuse .
+predict : ['je', 'suis', 'malade', '.']
+
+input : i m lazy .
+result : je suis faineante .
+predict : ['je', 'suis', 'malade', '.']
+
+input : i m okay .
+result : je vais bien .
+predict : ['je', 'est', 'a', '.', '.']
+
+input : i m okay .
+result : je me porte bien .
+predict : ['je', 'est', 'a', '.', '.']
+
+input : i m rich .
+result : je suis riche .
+predict : ['je', 'suis', '.', '.']
+
+input : i m safe .
+result : je suis en securite .
+predict : ['je', 'suis', 'en', 'a', '.']
+
+input : i m sick .
+result : je suis malade .
+predict : ['je', 'suis', 'malade', '.']
+
+input : i m sure .
+result : j en suis certain .
+predict : ['je', 'suis', 'ai', 'a', '.']
+
+input : i m sure .
+result : je suis certain .
+predict : ['je', 'suis', 'ai', 'a', '.']
+
+input : i m sure .
+result : j en suis sur .
+predict : ['je', 'suis', 'ai', 'a', '.']
+
+input : i m sure .
+result : j en suis sure .
+predict : ['je', 'suis', 'ai', 'a', '.']
+
+input : i m tall .
+result : je suis grande .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m thin .
+result : je suis mince .
+predict : ['je', 'suis', '.', '.']
+
+input : i m tidy .
+result : je suis ordonne .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m tidy .
+result : je suis ordonnee .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m ugly .
+result : je suis laid .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m ugly .
+result : je suis laide .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m weak .
+result : je suis faible .
+predict : ['je', 'suis', 'malade', '.']
+
+input : i m well .
+result : je vais bien .
+predict : ['je', 'suis', 'a', '.', '.']
+
+input : i m well .
+result : je me porte bien .
+predict : ['je', 'suis', 'a', '.', '.']
+
+input : i ve won .
+result : j ai gagne .
+predict : ['je', 'ai', 'tom', '.', '.']
+
+input : i ve won .
+result : je l ai emporte .
+predict : ['je', 'ai', 'tom', '.', '.']
+
+input : it helps .
+result : ca aide .
+predict : ['tom', 'UNKNOWN', '.']
+
+input : it hurts .
+result : ca fait mal .
+predict : ['tom', 'vous', '.', '.']
+
+input : it works .
+result : elle marche .
+predict : ['c', 'le', '.']
+
+input : it works .
+result : ca fonctionne .
+predict : ['c', 'le', '.']
+
+input : it s tom .
+result : c est tom .
+predict : ['c', 'est', 'tom', '.']
+
+input : it s fun .
+result : c est marrant .
+predict : ['c', 'est', '.', '.']
+
+input : it s fun .
+result : c est rigolo .
+predict : ['c', 'est', '.', '.']
+
+input : it s his .
+result : c est le sien .
+predict : ['c', 'est', '.', 'en', '.']
+
+input : it s his .
+result : c est la sienne .
+predict : ['c', 'est', '.', 'en', '.']
+
+input : it s new .
+result : c est nouveau .
+predict : ['c', 'est', '.', '.']
+
+input : it s new .
+result : c est neuf .
+predict : ['c', 'est', '.', '.']
+
+input : it s odd .
+result : c est bizarre .
+predict : ['c', 'est', 'aller', '.']
+
+input : it s red .
+result : il est rouge .
+predict : ['c', 'est', '.', '.']
+
+input : it s sad .
+result : c est triste .
+predict : ['c', 'est', 'bien', '.']
+
+input : keep out !
+result : defense d entrer .
+predict : ['laissez', 'vous', 'en', '.']
+
+input : keep out .
+result : n entrez pas .
+predict : ['EOS', 'le', 'a', '.']
+
+input : kiss tom .
+result : embrasse tom .
+predict : ['soyez', 'tom', '.']
+
+input : leave it .
+result : laisse tomber !
+predict : ['laissez', 'vous', '!']
+
+input : leave it .
+result : laissez tomber !
+predict : ['laissez', 'vous', '!']
+
+input : leave me .
+result : laissez moi !
+predict : ['laissez', 'moi', '!']
+
+input : leave us .
+result : laisse nous !
+predict : ['laissez', 'nous', '!']
+
+input : leave us .
+result : laissez nous !
+predict : ['laissez', 'nous', '!']
+
+input : let s go !
+result : allons y !
+predict : ['laisse', 'moi', '!']
+
+input : let s go .
+result : allons y !
+predict : ['laisse', '!', '!']
+
+input : look out !
+result : attention !
+predict : ['laisse', '!', '!']
+
+input : look out !
+result : regarde donc !
+predict : ['laisse', '!', '!']
+
+input : marry me .
+result : epouse moi !
+predict : ['laissez', 'moi', '!']
+
+input : marry me .
+result : epousez moi !
+predict : ['laissez', 'moi', '!']
+
+input : may i go ?
+result : puis je partir ?
+predict : ['c', 'je', '?', '?']
+
+input : may i go ?
+result : puis je y aller ?
+predict : ['c', 'je', '?', '?']
+
+input : may i go ?
+result : puis je m y rendre ?
+predict : ['c', 'je', '?', '?']
+
+input : save tom .
+result : sauve tom .
+predict : ['laissez', 'tom', '.']
+
+input : save tom .
+result : sauvez tom .
+predict : ['laissez', 'tom', '.']
+
+input : she came .
+result : elle est venue .
+predict : ['c', 'est', '.', '.']
+
+input : she died .
+result : elle est morte .
+predict : ['c', 'est', '.', '.']
+
+input : she runs .
+result : elle court .
+predict : ['c', 'le', '.']
+
+input : sit down !
+result : assieds toi !
+predict : ['laisse', 'vous', '!']
+
+input : sit down !
+result : asseyez vous !
+predict : ['laisse', 'vous', '!']
+
+input : sit down .
+result : assieds toi .
+predict : ['soyez', 'vous', '.']
+
+input : sit here .
+result : assieds toi ici .
+predict : ['c', 'le', '.', '.']
+
+input : sit here .
+result : asseyez vous ici .
+predict : ['c', 'le', '.', '.']
+
+input : speak up !
+result : parle plus fort !
+predict : ['soyez', 'moi', '?', '!']
+
+input : speak up !
+result : parlez plus fort !
+predict : ['soyez', 'moi', '?', '!']
+
+input : stop tom .
+result : arrete tom .
+predict : ['soyez', 'tom', '.']
+
+input : stop tom .
+result : stoppez tom .
+predict : ['soyez', 'tom', '.']
+
+input : taste it .
+result : goute le .
+predict : ['laissez', 'le', '.']
+
+input : taste it .
+result : goute la .
+predict : ['laissez', 'le', '.']
+
+input : taste it .
+result : goutez le .
+predict : ['laissez', 'le', '.']
+
+input : taste it .
+result : goutez la .
+predict : ['laissez', 'le', '.']
+
+input : tell tom .
+result : dis le a tom .
+predict : ['soyez', 'ai', 'tom', '.', '.']
+
+input : tell tom .
+result : informez en tom .
+predict : ['soyez', 'ai', 'tom', '.', '.']
+
+input : terrific !
+result : genial !
+predict : ['laisse', '!']
+
+input : terrific !
+result : excellent !
+predict : ['laisse', '!']
+
+input : terrific !
+result : formidable !
+predict : ['laisse', '!']
+
+input : they won .
+result : ils gagnerent .
+predict : ['c', 'a', '.', '.']
+
+input : they won .
+result : elles gagnerent .
+predict : ['c', 'a', '.', '.']
+
+input : they won .
+result : ils ont gagne .
+predict : ['c', 'a', '.', '.']
+
+input : they won .
+result : elles ont gagne .
+predict : ['c', 'a', '.', '.']
+
+input : tom came .
+result : tom est venu .
+predict : ['tom', 'est', '.', '.']
+
+input : tom died .
+result : tom est mort .
+predict : ['tom', 'est', '.', '.']
+
+input : tom died .
+result : tom muera .
+predict : ['tom', 'est', '.', '.']
+
+input : tom knew .
+result : tom savait .
+predict : ['tom', '.', '.']
+
+input : tom left .
+result : tom est parti .
+predict : ['tom', 'est', '.', '.']
+
+input : tom left .
+result : tom partit .
+predict : ['tom', 'est', '.', '.']
+
+input : tom lied .
+result : tom a menti .
+predict : ['tom', 'a', '.', '.']
+
+input : tom lies .
+result : tom ment .
+predict : ['tom', 'UNKNOWN', '.']
+
+input : tom lost .
+result : tom a perdu .
+predict : ['tom', 'a', '.', '.']
+
+input : tom paid .
+result : tom a paye .
+predict : ['tom', 'a', '.', '.']
+
+input : too late .
+result : trop tard .
+predict : ['soyez', 'le', '.']
+
+input : trust me .
+result : faites moi confiance .
+predict : ['c', 'moi', 'a', '.']
+
+input : trust me .
+result : fais moi confiance .
+predict : ['c', 'moi', 'a', '.']
+
+input : try hard .
+result : fais un effort .
+predict : ['c', 'le', '.', '.']
+
+input : try some .
+result : essaies en !
+predict : ['laissez', 'suis', '!']
+
+input : try some .
+result : essayez en !
+predict : ['laissez', 'suis', '!']
+
+input : try this .
+result : essaie ceci !
+predict : ['laissez', 'suis', '!']
+
+input : try this .
+result : essayez ceci !
+predict : ['laissez', 'suis', '!']
+
+input : use this .
+result : utilise ceci .
+predict : ['soyez', 'suis', '.']
+
+input : use this .
+result : utilisez ceci .
+predict : ['soyez', 'suis', '.']
+
+input : use this .
+result : emploie ceci !
+predict : ['soyez', 'suis', '.']
+
+input : use this .
+result : employez ceci !
+predict : ['soyez', 'suis', '.']
+
+input : warn tom .
+result : avertis tom .
+predict : ['laissez', 'tom', '.']
+
+input : warn tom .
+result : previens tom .
+predict : ['laissez', 'tom', '.']
+
+input : watch me .
+result : regarde moi !
+predict : ['laissez', 'moi', '!']
+
+input : watch me .
+result : regardez moi !
+predict : ['laissez', 'moi', '!']
+
+input : watch us .
+result : regardez nous !
+predict : ['laisse', 'nous', '!']
+
+input : watch us .
+result : regarde nous !
+predict : ['laisse', 'nous', '!']
+
+input : we agree .
+result : nous sommes d accord .
+predict : ['nous', 'ai', '?', '?', '.']
+
+input : we ll go .
+result : nous irons .
+predict : ['nous', 'vais', '.']
+
+input : what for ?
+result : pour quoi faire ?
+predict : ['a', 'est', '.', '!']
+
+input : what for ?
+result : a quoi bon ?
+predict : ['a', 'est', '.', '!']
+
+input : what fun !
+result : qu est ce qu on s est marres !
+predict : ['c', 'est', 'est', 'en']
+
+input : what fun !
+result : qu est ce qu on s est marrees !
+predict : ['c', 'est', 'est', 'en']
+
+input : who came ?
+result : qui est venu ?
+predict : ['nous', 'est', 'tom', '!']
+
+input : who died ?
+result : qui est mort ?
+predict : ['nous', 'est', '.', '!']
+
+input : who fell ?
+result : qui est tombe ?
+predict : ['nous', 'est', '.', '?']
+
+input : who quit ?
+result : qui demissionne ?
+predict : ['nous', 'moi', '?']
+
+input : who s he ?
+result : qui est il ?
+predict : ['nous', 'est', 'il', '?']
+
+input : write me .
+result : ecris moi !
+predict : ['laissez', 'moi', '!']
+
+input : write me .
+result : ecrivez moi !
+predict : ['laissez', 'moi', '!']
+
+input : you lost .
+result : tu as perdu .
+predict : ['a', 'le', '.', '.']
+
+input : you lost .
+result : vous avez perdu .
+predict : ['a', 'le', '.', '.']
+
+input : after you .
+result : apres vous .
+predict : ['laissez', 'vous', '.']
+
+input : aim . fire !
+result : en joue ! feu !
+predict : ['suis', 'ceci', '!', '?', '!']
+
+input : am i late ?
+result : suis je en retard ?
+predict : ['suis', 'je', 'en', '.', '?']
+
+input : answer me .
+result : repondez moi .
+predict : ['laissez', 'moi', '.']
+
+input : be seated .
+result : assieds toi !
+predict : ['soyez', 'moi', '!']
+
+input : be seated .
+result : asseyez vous !
+predict : ['soyez', 'moi', '!']
+
+input : birds fly .
+result : les oiseaux volent .
+predict : ['soyez', 'le', '.', '.']
+
+input : bless you .
+result : a tes souhaits !
+predict : ['a', 'moi', '?', '!']
+
+input : call home !
+result : appelle a la maison !
+predict : ['je', 'a', '.', '.', '!']
+
+input : calm down !
+result : calmez vous !
+predict : ['soyez', 'vous', '!']
+
+input : calm down .
+result : calme toi .
+predict : ['soyez', 'vous', '.']
+
+input : can we go ?
+result : pouvons nous partir ?
+predict : ['c', 'est', 'en', '?']
+
+input : can we go ?
+result : pouvons nous nous en aller ?
+predict : ['c', 'est', 'en', '?']
+
+input : can we go ?
+result : pouvons nous y aller ?
+predict : ['c', 'est', 'en', '?']
+
+input : catch tom .
+result : attrape tom .
+predict : ['laissez', 'tom', '.']
+
+input : catch tom .
+result : attrapez tom .
+predict : ['laissez', 'tom', '.']
+
+input : catch him .
+result : rattrape le .
+predict : ['laissez', 'le', '.']
+
+input : come back .
+result : reviens !
+predict : ['laisse', '!']
+
+input : come back .
+result : revenez !
+predict : ['laisse', '!']
+
+input : come here .
+result : viens ici .
+predict : ['laisse', 'a', '.']
+
+input : come here .
+result : venez la .
+predict : ['laisse', 'a', '.']
+
+input : come over !
+result : viens !
+predict : ['laisse', '!']
+
+input : come over !
+result : venez !
+predict : ['laisse', '!']
+
+input : come over .
+result : venez ici !
+predict : ['UNKNOWN', 'le', '!', '!']
+
+input : come over .
+result : viens chez nous !
+predict : ['UNKNOWN', 'le', '!', '!']
+
+input : come over .
+result : venez chez nous !
+predict : ['UNKNOWN', 'le', '!', '!']
+
+input : come over .
+result : viens chez moi !
+predict : ['UNKNOWN', 'le', '!', '!']
+
+input : come over .
+result : venez chez moi !
+predict : ['UNKNOWN', 'le', '!', '!']
+
+input : come soon .
+result : viens bientot !
+predict : ['.', 'est', '!']
+
+input : come soon .
+result : venez bientot !
+predict : ['.', 'est', '!']
+
+input : cool down .
+result : calmez vous !
+predict : ['soyez', 'vous', '!']
+
+input : did i win ?
+result : ai je gagne ?
+predict : ['suis', 'nous', 'est', '?', '?']
+
+input : did i win ?
+result : l ai je emporte ?
+predict : ['suis', 'nous', 'est', '?', '?']
+
+input : did i win ?
+result : est ce moi qui ai gagne ?
+predict : ['suis', 'nous', 'est', '?', '?']
+
+input : do it now .
+result : faites le maintenant .
+predict : ['je', 'le', '.', '.']
+
+input : dogs bark .
+result : des chiens aboient .
+predict : ['soyez', 'vais', '.', '.']
+
+input : dogs bark .
+result : les chiens aboient .
+predict : ['soyez', 'vais', '.', '.']
+
+input : don t ask .
+result : ne demande pas !
+predict : ['c', 'est', 'tom', '!']
+
+input : don t cry .
+result : ne pleure pas !
+predict : ['c', 'moi', 'tom', '!']
+
+input : don t die .
+result : ne meurs pas !
+predict : ['c', 'moi', 'tom', '!']
+
+input : don t die .
+result : ne mourez pas !
+predict : ['c', 'moi', 'tom', '!']
+
+input : don t lie .
+result : ne mens pas .
+predict : ['c', 'moi', 'a', '.']
+
+input : don t run .
+result : ne courez pas .
+predict : ['c', 'est', 'a', '.']
+
+input : don t run .
+result : ne cours pas .
+predict : ['c', 'est', 'a', '.']
+
+input : excuse me .
+result : excuse moi .
+predict : ['je', 'moi', '.']
+
+input : excuse me .
+result : excusez moi .
+predict : ['je', 'moi', '.']
+
+input : fantastic !
+result : fantastique !
+predict : ['laisse', '!']
+
+input : feel this .
+result : sens ca !
+predict : ['laisse', 'ca', '!']
+
+input : feel this .
+result : sentez ca !
+predict : ['laisse', 'ca', '!']
+
+input : feel this .
+result : touche ca !
+predict : ['laisse', 'ca', '!']
+
+input : feel this .
+result : touchez ca !
+predict : ['laisse', 'ca', '!']
+
+input : follow me .
+result : suis moi .
+predict : ['suis', 'moi', '.']
+
+input : follow us .
+result : suis nous !
+predict : ['suis', 'nous', '!']
+
+input : follow us .
+result : suivez nous !
+predict : ['suis', 'nous', '!']
+
+input : forget it !
+result : oublie !
+predict : ['laisse', '!', '!']
+
+input : forget it !
+result : oublie le !
+predict : ['laisse', '!', '!']
+
+input : forget it !
+result : oubliez !
+predict : ['laisse', '!', '!']
+
+input : forget it !
+result : oubliez le !
+predict : ['laisse', '!', '!']
+
+input : forget it .
+result : laisse tomber .
+predict : ['laisse', 'vous', '.']
+
+input : forget it .
+result : oublie .
+predict : ['laisse', 'vous', '.']
+
+input : forget it .
+result : oublie le !
+predict : ['laisse', 'vous', '.']
+
+input : get a job .
+result : trouve un emploi !
+predict : ['c', 'a', '.', '!']
+
+input : get a job .
+result : trouve un boulot !
+predict : ['c', 'a', '.', '!']
+
+input : get a job .
+result : trouvez un emploi !
+predict : ['c', 'a', '.', '!']
+
+input : get a job .
+result : trouvez un boulot !
+predict : ['c', 'a', '.', '!']
+
+input : get ready .
+result : prepare toi .
+predict : ['laissez', 'vous', '.']
+
+input : get ready .
+result : preparez vous .
+predict : ['laissez', 'vous', '.']
+
+input : go get it .
+result : va le chercher !
+predict : ['je', 'le', 'tom', '!']
+
+input : go get it .
+result : allez le chercher !
+predict : ['je', 'le', 'tom', '!']
+
+input : go inside .
+result : entrez !
+predict : ['laisse', '!']
+
+input : go to bed .
+result : va au lit !
+predict : ['je', 'le', 'malade', '!']
+
+input : go to bed .
+result : allez au lit !
+predict : ['je', 'le', 'malade', '!']
+
+input : good luck .
+result : bonne chance !
+predict : ['.', 'le', '.']
+
+input : good luck .
+result : bonne chance .
+predict : ['.', 'le', '.']
+
+input : grab that .
+result : attrape ca !
+predict : ['laissez', 'suis', '!']
+
+input : grab that .
+result : attrapez ca !
+predict : ['laissez', 'suis', '!']
+
+input : grab that .
+result : saisis toi de ca !
+predict : ['laissez', 'suis', '!']
+
+input : grab that .
+result : saisissez vous de ca !
+predict : ['laissez', 'suis', '!']
+
+input : grab this .
+result : attrape ca !
+predict : ['laisse', 'suis', '!']
+
+input : grab this .
+result : attrapez ca !
+predict : ['laisse', 'suis', '!']
+
+input : hands off .
+result : pas touche !
+predict : ['a', 'a', '!']
+
+input : he is ill .
+result : il est malade .
+predict : ['c', 'est', 'il', '.']
+
+input : he is old .
+result : il est vieux .
+predict : ['c', 'est', 'bien', '.']
+
+input : he s a dj .
+result : il est dj .
+predict : ['j', 'est', '.', '.']
+
+input : he s good .
+result : il est bon .
+predict : ['c', 'est', '.', '.']
+
+input : he s lazy .
+result : il est paresseux .
+predict : ['c', 'est', 'bien', '.']
+
+input : he s rich .
+result : il est riche .
+predict : ['c', 'est', '.', '.']
+
+input : he s sexy .
+result : il est sexy .
+predict : ['c', 'est', '.', '.']
+
+input : here i am .
+result : me voici .
+predict : ['suis', 'vais', '.']
+
+input : here s .
+result : voila cinq dollars .
+predict : ['soyez', '!', '.', '.']
+
+input : hold fire .
+result : halte au feu !
+predict : ['laissez', 'le', '.', '!']
+
+input : hold fire .
+result : cessez le feu !
+predict : ['laissez', 'le', '.', '!']
+
+input : hold this .
+result : tiens ca !
+predict : ['laissez', 'suis', '!']
+
+input : hold this .
+result : tenez ca !
+predict : ['laissez', 'suis', '!']
+
+input : hold this .
+result : tenez ceci !
+predict : ['laissez', 'suis', '!']
+
+input : hold this .
+result : tiens ceci !
+predict : ['laissez', 'suis', '!']
+
+input : how awful !
+result : c est affreux !
+predict : ['c', 'est', 'il', '!']
+
+input : how weird !
+result : comme c est bizarre !
+predict : ['je', 'c', 'est', '?', '!']
+
+input : how s tom ?
+result : comment tom va t il ?
+predict : ['nous', 'est', 'nous', '?']
+
+input : how s tom ?
+result : comment va tom ?
+predict : ['nous', 'est', 'nous', '?']
+
+input : i am busy .
+result : je suis occupe .
+predict : ['je', 'suis', '.', '.']
+
+input : i am calm .
+result : je suis calme .
+predict : ['je', 'suis', '.', '.']
+
+input : i am cold .
+result : j ai froid .
+predict : ['j', 'suis', '.', '.']
+
+input : i am fine .
+result : je vais bien .
+predict : ['je', 'est', '.', '.']
+
+input : i am good .
+result : je suis bon .
+predict : ['je', 'suis', '.', '.']
+
+input : i am here .
+result : je suis ici .
+predict : ['je', 'suis', '.', '.']
+
+input : i am lazy .
+result : je suis paresseux .
+predict : ['je', 'suis', '.', '.']
+
+input : i am lazy .
+result : je suis faineant .
+predict : ['je', 'suis', '.', '.']
+
+input : i am lazy .
+result : je suis paresseuse .
+predict : ['je', 'suis', '.', '.']
+
+input : i am lazy .
+result : je suis faineante .
+predict : ['je', 'suis', '.', '.']
+
+input : i am okay .
+result : je vais bien .
+predict : ['je', 'est', 'a', '.']
+
+input : i am sick .
+result : je suis malade .
+predict : ['je', 'suis', 'malade', '.']
+
+input : i am sure .
+result : je suis sur .
+predict : ['je', 'suis', 'en', '.']
+
+input : i am sure .
+result : je suis certain .
+predict : ['je', 'suis', 'en', '.']
+
+input : i am weak .
+result : je suis faible .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i beg you .
+result : je vous en prie .
+predict : ['je', 'vous', 'en', '.', '.']
+
+input : i beg you .
+result : je vous en conjure .
+predict : ['je', 'vous', 'en', '.', '.']
+
+input : i beg you .
+result : je vous en supplie .
+predict : ['je', 'vous', 'en', '.', '.']
+
+input : i beg you .
+result : je te prie .
+predict : ['je', 'vous', 'en', '.', '.']
+
+input : i can run .
+result : je sais courir .
+predict : ['je', 'le', '.', '.']
+
+input : i can ski .
+result : je sais skier .
+predict : ['je', 'le', '.', '.']
+
+input : i cringed .
+result : j eus un mouvement de recul .
+predict : ['j', 'ai', 'tom', '?']
+
+input : i cringed .
+result : j ai eu un mouvement de recul .
+predict : ['j', 'ai', 'tom', '?']
+
+input : i cringed .
+result : je suis rentre en moi meme .
+predict : ['j', 'ai', 'tom', '?']
+
+input : i exhaled .
+result : j ai expire .
+predict : ['j', 'ai', '.', '.']
+
+input : i gave up .
+result : j ai abandonne .
+predict : ['j', 'suis', '.', '.']
+
+input : i give in .
+result : je donne ma langue au chat .
+predict : ['je', 'moi', '?', '.']
+
+input : i give up .
+result : j abandonne .
+predict : ['je', 'le', '.']
+
+input : i got hot .
+result : je me suis mis a avoir chaud .
+predict : ['je', 'suis', 'suis', 'tom', 'tom']
+
+input : i got hot .
+result : je me suis mise a avoir chaud .
+predict : ['je', 'suis', 'suis', 'tom', 'tom']
+
+input : i had fun .
+result : je me suis amuse .
+predict : ['je', 'suis', 'suis', 'en', '.']
+
+input : i had fun .
+result : je me suis amusee .
+predict : ['je', 'suis', 'suis', 'en', '.']
+
+input : i had fun .
+result : je me suis marre .
+predict : ['je', 'suis', 'suis', 'en', '.']
+
+input : i had fun .
+result : je me suis marree .
+predict : ['je', 'suis', 'suis', 'en', '.']
+
+input : i hate it .
+result : je deteste ca .
+predict : ['je', 'moi', 'tom', '.']
+
+input : i have it .
+result : je l ai .
+predict : ['je', 'moi', 'en', '.']
+
+input : i hit tom .
+result : j ai frappe tom .
+predict : ['j', 'ai', 'ai', 'tom', '.']
+
+input : i hope so .
+result : j espere bien .
+predict : ['j', 'ceci', '.', '.']
+
+input : i hurried .
+result : je me suis depeche .
+predict : ['je', 'suis', 'suis', 'en', '.']
+
+input : i hurried .
+result : je me suis depechee .
+predict : ['je', 'suis', 'suis', 'en', '.']
+
+input : i inhaled .
+result : j ai inspire .
+predict : ['j', 'ai', '.', '.']
+
+input : i knew it .
+result : je le savais .
+predict : ['je', 'le', '.', '.']
+
+input : i like it .
+result : j aime ca .
+predict : ['j', 'moi', 'tom', '.']
+
+input : i lost it .
+result : je l ai perdu .
+predict : ['j', 'suis', 'tom', '.', '.']
+
+input : i love it !
+result : j adore ca !
+predict : ['j', 'le', 'tom', '!']
+
+input : i love it .
+result : j adore ca !
+predict : ['j', 'moi', 'tom', '!']
+
+input : i mean it !
+result : je suis serieux !
+predict : ['je', 'suis', 'aller', '!']
+
+input : i mean it .
+result : je suis serieux .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i must go .
+result : je dois y aller .
+predict : ['j', 'est', 'en', '?', '!']
+
+input : i must go .
+result : il faut que j y aille .
+predict : ['j', 'est', 'en', '?', '!']
+
+input : i must go .
+result : il me faut y aller .
+predict : ['j', 'est', 'en', '?', '!']
+
+input : i must go .
+result : il me faut partir .
+predict : ['j', 'est', 'en', '?', '!']
+
+input : i must go .
+result : il me faut m en aller .
+predict : ['j', 'est', 'en', '?', '!']
+
+input : i must go .
+result : je dois partir .
+predict : ['j', 'est', 'en', '?', '!']
+
+input : i must go .
+result : je dois m en aller .
+predict : ['j', 'est', 'en', '?', '!']
+
+input : i must go .
+result : il faut que je m en aille .
+predict : ['j', 'est', 'en', '?', '!']
+
+input : i need it .
+result : j en ai besoin .
+predict : ['j', 'suis', 'ai', 'en', '.']
+
+input : i need it .
+result : il me le faut .
+predict : ['j', 'suis', 'ai', 'en', '.']
+
+input : i noticed .
+result : j ai remarque .
+predict : ['j', 'ai', '.', '.']
+
+input : i prepaid .
+result : j ai paye d avance .
+predict : ['j', 'ai', 'tom', '?']
+
+input : i promise .
+result : je le promets .
+predict : ['je', 'le', 'bien', '.']
+
+input : i relaxed .
+result : je me suis detendu .
+predict : ['je', 'suis', 'suis', 'en', '.']
+
+input : i relaxed .
+result : je me suis detendue .
+predict : ['je', 'suis', 'suis', 'en', '.']
+
+input : i retired .
+result : j ai pris ma retraite .
+predict : ['j', 'ai', 'tom', '.']
+
+input : i said no .
+result : j ai dit non .
+predict : ['j', 'ai', 'ai', 'en', '.']
+
+input : i said so .
+result : je l ai dit .
+predict : ['je', 'ai', 'ai', 'en', '.']
+
+input : i saw him .
+result : je l ai vu .
+predict : ['je', 'vous', 'ai', '.', '.']
+
+input : i saw him .
+result : je l ai vu .
+predict : ['je', 'vous', 'ai', '.', '.']
+
+input : i saw him .
+result : je le vis .
+predict : ['je', 'vous', 'ai', '.', '.']
+
+input : i saw one .
+result : j en ai vu une .
+predict : ['j', 'ai', 'ai', '.', '.']
+
+input : i saw one .
+result : j en ai vu un .
+predict : ['j', 'ai', 'ai', '.', '.']
+
+input : i saw you .
+result : je vous vis .
+predict : ['je', 'vous', 'ai', '.', '.']
+
+input : i saw you .
+result : je te vis .
+predict : ['je', 'vous', 'ai', '.', '.']
+
+input : i saw you .
+result : je t ai vue .
+predict : ['je', 'vous', 'ai', '.', '.']
+
+input : i saw you .
+result : je t ai vu .
+predict : ['je', 'vous', 'ai', '.', '.']
+
+input : i saw you .
+result : je vous ai vues .
+predict : ['je', 'vous', 'ai', '.', '.']
+
+input : i saw you .
+result : je vous ai vus .
+predict : ['je', 'vous', 'ai', '.', '.']
+
+input : i saw you .
+result : je vous ai vue .
+predict : ['je', 'vous', 'ai', '.', '.']
+
+input : i saw you .
+result : je vous ai vu .
+predict : ['je', 'vous', 'ai', '.', '.']
+
+input : i see tom .
+result : je vois tom .
+predict : ['je', 'moi', 'tom', '.']
+
+input : i shouted .
+result : j ai crie .
+predict : ['j', 'ai', '.', '.']
+
+input : i tripped .
+result : j ai trebuche .
+predict : ['j', 'ai', '.', '.']
+
+input : i tripped .
+result : j ai plane .
+predict : ['j', 'ai', '.', '.']
+
+input : i want it .
+result : je le veux .
+predict : ['je', 'le', '.', '.']
+
+input : i was new .
+result : j etais nouveau .
+predict : ['j', 'ceci', '.', '.']
+
+input : i was new .
+result : j etais nouvelle .
+predict : ['j', 'ceci', '.', '.']
+
+input : i will go .
+result : j irai .
+predict : ['j', 'vais', '.']
+
+input : i woke up .
+result : je me suis reveille .
+predict : ['je', 'suis', 'suis', 'a', '.']
+
+input : i woke up .
+result : je me suis eveille .
+predict : ['je', 'suis', 'suis', 'a', '.']
+
+input : i d agree .
+result : je serais d accord .
+predict : ['je', 'est', '.', '.', '.']
+
+input : i d leave .
+result : je partirais .
+predict : ['je', 'moi', '.']
+
+input : i ll call .
+result : j appellerai .
+predict : ['j', 'vais', '.']
+
+input : i ll cook .
+result : je cuisinerai .
+predict : ['je', 'vais', '.']
+
+input : i ll help .
+result : j aiderai .
+predict : ['je', 'vais', '.']
+
+input : i ll live .
+result : je vivrai .
+predict : ['je', 'vais', '.']
+
+input : i ll obey .
+result : j obeirai .
+predict : ['j', 'je', '.']
+
+input : i ll pack .
+result : je ferai mon sac .
+predict : ['je', 'vais', '?', 'en', '.']
+
+input : i ll pack .
+result : je ferai ma valise .
+predict : ['je', 'vais', '?', 'en', '.']
+
+input : i ll pack .
+result : je plierai mes gaules .
+predict : ['je', 'vais', '?', 'en', '.']
+
+input : i ll pass .
+result : je passerai .
+predict : ['je', 'vais', '.']
+
+input : i ll quit .
+result : j abandonnerai .
+predict : ['j', 'je', '.']
+
+input : i ll sing .
+result : je chanterai .
+predict : ['je', 'vais', '.']
+
+input : i ll stop .
+result : j arreterai .
+predict : ['j', 'vais', '.']
+
+input : i ll swim .
+result : je nagerai .
+predict : ['je', 'vais', '.']
+
+input : i ll talk .
+result : je parlerai .
+predict : ['je', 'moi', '.']
+
+input : i ll talk .
+result : je vais parler .
+predict : ['je', 'moi', '.']
+
+input : i ll wait .
+result : j attendrai .
+predict : ['j', 'vais', '.']
+
+input : i ll walk .
+result : je marcherai .
+predict : ['je', 'vais', '.']
+
+input : i ll work .
+result : je vais travailler .
+predict : ['je', 'est', '.']
+
+input : i ll work .
+result : je travaillerai .
+predict : ['je', 'est', '.']
+
+input : i m a cop .
+result : je suis flic .
+predict : ['je', 'suis', '.', '.']
+
+input : i m a man .
+result : je suis un homme .
+predict : ['je', 'suis', 'a', 'a', '.']
+
+input : i m alive .
+result : je suis en vie .
+predict : ['je', 'suis', 'en', '.']
+
+input : i m alive .
+result : je suis vivant .
+predict : ['je', 'suis', 'en', '.']
+
+input : i m alive .
+result : je suis vivante .
+predict : ['je', 'suis', 'en', '.']
+
+input : i m alone .
+result : je suis seule .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m alone .
+result : je suis seul .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m angry .
+result : je suis enerve .
+predict : ['je', 'suis', 'en', '.', '.']
+
+input : i m angry .
+result : je suis en colere .
+predict : ['je', 'suis', 'en', '.', '.']
+
+input : i m armed .
+result : je suis arme .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m armed .
+result : je suis armee .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m awake .
+result : je suis reveille .
+predict : ['je', 'suis', '.', '.']
+
+input : i m blind .
+result : je suis aveugle .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m broke .
+result : je suis fauche .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m clean .
+result : j ai decroche .
+predict : ['je', 'suis', '.', '.']
+
+input : i m clean .
+result : je suis propre .
+predict : ['je', 'suis', '.', '.']
+
+input : i m crazy .
+result : je suis fou .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m crazy .
+result : je suis folle .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m cured .
+result : je suis gueri .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m cured .
+result : je suis guerie .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m dizzy .
+result : j ai la tete qui tourne .
+predict : ['je', 'ai', '?', 'en', 'j']
+
+input : i m drunk .
+result : je suis saoul .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m drunk .
+result : je suis soul .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m drunk .
+result : je suis ivre .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m dying .
+result : je me meurs .
+predict : ['je', 'est', '?', '.']
+
+input : i m early .
+result : je suis en avance .
+predict : ['je', 'suis', 'en', 'a', '.']
+
+input : i m first .
+result : je suis en premier .
+predict : ['je', 'suis', 'en', 'a', '.']
+
+input : i m fussy .
+result : je suis difficile .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m fussy .
+result : je suis tatillon .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m fussy .
+result : je suis tatillonne .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m going .
+result : je pars maintenant .
+predict : ['je', 'est', '.', '.']
+
+input : i m going .
+result : je me tire .
+predict : ['je', 'est', '.', '.']
+
+input : i m going .
+result : j y vais .
+predict : ['je', 'est', '.', '.']
+
+input : i m going .
+result : je pars .
+predict : ['je', 'est', '.', '.']
+
+input : i m loyal .
+result : je suis loyal .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m loyal .
+result : je suis loyale .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m lucky .
+result : je suis veinard .
+predict : ['je', 'suis', 'bien', '.']
+
+input : i m lucky .
+result : je suis veinarde .
+predict : ['je', 'suis', 'bien', '.']
+
+input : i m lucky .
+result : j ai du pot .
+predict : ['je', 'suis', 'bien', '.']
+
+input : i m lucky .
+result : je suis chanceux .
+predict : ['je', 'suis', 'bien', '.']
+
+input : i m lucky .
+result : je suis chanceuse .
+predict : ['je', 'suis', 'bien', '.']
+
+input : i m lying .
+result : je suis en train de mentir .
+predict : ['je', 'suis', 'en', '?']
+
+input : i m naked .
+result : je suis nu .
+predict : ['je', 'suis', '.', '.', '.']
+
+input : i m naked .
+result : je suis nue .
+predict : ['je', 'suis', '.', '.', '.']
+
+input : i m naked .
+result : je me trouve nu .
+predict : ['je', 'suis', '.', '.', '.']
+
+input : i m naked .
+result : je me trouve nue .
+predict : ['je', 'suis', '.', '.', '.']
+
+input : i m naked .
+result : je suis a poil .
+predict : ['je', 'suis', '.', '.', '.']
+
+input : i m quiet .
+result : je suis tranquille .
+predict : ['je', 'suis', '.', '.']
+
+input : i m ready !
+result : je suis prete !
+predict : ['je', 'suis', 'malade', '!']
+
+input : i m ready !
+result : je suis pret !
+predict : ['je', 'suis', 'malade', '!']
+
+input : i m ready .
+result : je suis pret .
+predict : ['je', 'suis', 'malade', '.']
+
+input : i m right .
+result : j ai raison .
+predict : ['j', 'suis', 'tom', '.']
+
+input : i m sober .
+result : je suis sobre .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m sorry .
+result : excuse moi .
+predict : ['je', 'moi', '.']
+
+input : i m sorry .
+result : desole .
+predict : ['je', 'moi', '.']
+
+input : i m sorry .
+result : excusez moi .
+predict : ['je', 'moi', '.']
+
+input : i m sorry .
+result : desole !
+predict : ['je', 'moi', '.']
+
+input : i m sorry .
+result : je suis desole .
+predict : ['je', 'moi', '.']
+
+input : i m sorry .
+result : je suis desolee .
+predict : ['je', 'moi', '.']
+
+input : i m stuck .
+result : je suis coincee .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m timid .
+result : je suis timide .
+predict : ['je', 'suis', 'aller', '.']
+
+input : i m tired .
+result : je suis fatigue !
+predict : ['je', 'suis', 'aller', '!']
+
+input : i m tough .
+result : je suis dur .
+predict : ['je', 'suis', 'en', '.']
+
+input : i m tough .
+result : je suis dure .
+predict : ['je', 'suis', 'en', '.']
+
+input : i m tough .
+result : je suis dur a cuire .
+predict : ['je', 'suis', 'en', '.']
+
+input : i m tough .
+result : je suis dure a cuire .
+predict : ['je', 'suis', 'en', '.']
+
+input : i m yours .
+result : je suis a toi .
+predict : ['je', 'suis', 'a', '.', '.']
+
+input : i m yours .
+result : je suis a vous .
+predict : ['je', 'suis', 'a', '.', '.']
+
+input : i ve lost .
+result : j ai perdu .
+predict : ['je', 'suis', 'a', '.']
+
+input : is tom ok ?
+result : est ce que tom va bien ?
+predict : ['suis', 'va', 'en', 'en']
+
+input : is tom ok ?
+result : tom va t il bien ?
+predict : ['suis', 'va', 'en', 'en']
+
+input : is it bad ?
+result : c est grave ?
+predict : ['j', 'est', '?', '?']
+
+input : is it far ?
+result : est ce eloigne ?
+predict : ['est', 'est', '?', '?']
+
+input : is it far ?
+result : est ce loin ?
+predict : ['est', 'est', '?', '?']
+
+input : is it hot ?
+result : est ce chaud ?
+predict : ['est', 'est', '.', '?']
+
+input : is it you ?
+result : est ce toi ?
+predict : ['est', 'est', '?', '?']
+
+input : is it you ?
+result : est ce vous ?
+predict : ['est', 'est', '?', '?']
+
+input : is it you ?
+result : est ce que c est vous ?
+predict : ['est', 'est', '?', '?']
+
+input : it failed .
+result : ca a echoue .
+predict : ['tom', 'a', '.', '.']
+
+input : it is new .
+result : c est nouveau .
+predict : ['c', 'est', '.', '.']
+
+input : it is new .
+result : c est neuf .
+predict : ['c', 'est', '.', '.']
+
+input : it snowed .
+result : il a neige .
+predict : ['c', 'a', '.', '.']
+
+input : it stinks .
+result : ca sent mauvais .
+predict : ['tom', 'le', '.', '.']
+
+input : it stinks .
+result : ca pue .
+predict : ['tom', 'le', '.', '.']
+
+input : it was ok .
+result : c etait bon .
+predict : ['c', 'vais', '.', '.']
+
+input : it was ok .
+result : c etait correct .
+predict : ['c', 'vais', '.', '.']
+
+input : it was ok .
+result : c etait ok .
+predict : ['c', 'vais', '.', '.']
+
+input : it worked .
+result : ca a fonctionne .
+predict : ['tom', 'a', '.', '.']
+
+input : it worked .
+result : ca a marche .
+predict : ['tom', 'a', '.', '.']
+
+input : it s .
+result : il est trois heures et demie .
+predict : ['c', 'est', 'tom', '.']
+
+input : it s .
+result : il est huit heures trente .
+predict : ['c', 'est', 'tom', '.']
+
+input : it s .
+result : il est h .
+predict : ['c', 'est', 'tom', '.']
+
+input : it s a tv .
+result : c est une tele .
+predict : ['c', 'est', '?', 'a', '.']
+
+input : it s cold .
+result : il fait froid .
+predict : ['c', 'est', '.', '.']
+
+input : it s cold .
+result : c est froid .
+predict : ['c', 'est', '.', '.']
+
+input : it s dark .
+result : c est sombre .
+predict : ['c', 'est', 'malade', '.']
+
+input : it s dead .
+result : elle est morte .
+predict : ['c', 'est', '.', '.']
+
+input : it s dead .
+result : c est mort .
+predict : ['c', 'est', '.', '.']
+
+input : it s dead .
+result : il est mort .
+predict : ['c', 'est', '.', '.']
+
+input : it s done .
+result : c est fait .
+predict : ['c', 'est', 'en', '.']
+
+input : it s easy .
+result : c est simple .
+predict : ['c', 'est', 'malade', '.']
+
+input : it s food .
+result : c est de la nourriture .
+predict : ['c', 'est', '?', '.']
+
+input : it s free .
+result : c est gratuit .
+predict : ['c', 'est', 'malade', '.']
+
+input : it s here .
+result : elle est ici .
+predict : ['c', 'est', '.', '.']
+
+input : it s here .
+result : c est ici .
+predict : ['c', 'est', '.', '.']
+
+input : it s hers .
+result : c est le sien .
+predict : ['c', 'est', '.', 'en', '.']
+
+input : it s hers .
+result : c est la sienne .
+predict : ['c', 'est', '.', 'en', '.']
+
+input : it s late .
+result : il est tard .
+predict : ['c', 'est', 'en', '.']
+
+input : it s lost .
+result : c est perdu .
+predict : ['c', 'est', '.', '.']
+
+input : it s mine .
+result : c est le mien .
+predict : ['c', 'est', '.', '.', '.']
+
+input : it s mine .
+result : c est la mienne .
+predict : ['c', 'est', '.', '.', '.']
+
+input : it s mine .
+result : c est a moi .
+predict : ['c', 'est', '.', '.', '.']
+
+input : it s mine .
+result : il s agit du mien .
+predict : ['c', 'est', '.', '.', '.']
+
+input : it s open .
+result : c est ouvert .
+predict : ['c', 'est', 'bien', '.']
+
+input : it s ours .
+result : c est le notre .
+predict : ['c', 'est', 'a', 'en', '.']
+
+input : it s ours .
+result : c est la notre .
+predict : ['c', 'est', 'a', 'en', '.']
+
+input : it s ours .
+result : c est a nous .
+predict : ['c', 'est', 'a', 'en', '.']
+
+input : it s sand .
+result : c est du sable .
+predict : ['c', 'est', 'a', 'en', '.']
+
+input : it s time .
+result : il est temps !
+predict : ['c', 'est', '?', '?']
+
+input : it s time .
+result : c est l heure .
+predict : ['c', 'est', '?', '?']
+
+input : it s true !
+result : c est vrai !
+predict : ['c', 'est', 'il', '!']
+
+input : it s work .
+result : c est du boulot .
+predict : ['c', 'est', '.', '.', '.']
+
+input : keep that .
+result : garde ca .
+predict : ['laissez', 'ca', '.']
+
+input : keep that .
+result : gardez cela .
+predict : ['laissez', 'ca', '.']
+
+input : keep this .
+result : garde ca .
+predict : ['EOS', 'ca', '.']
+
+input : keep this .
+result : gardez ceci .
+predict : ['EOS', 'ca', '.']
+
+input : let it be .
+result : ainsi soit il .
+predict : ['laissez', 'le', '.', '.']
+
+input : let it be .
+result : laisse faire .
+predict : ['laissez', 'le', '.', '.']
+
+input : let me go !
+result : laisse moi partir !
+predict : ['laissez', 'moi', '?', '?']
+
+input : let me go !
+result : laissez moi partir !
+predict : ['laissez', 'moi', '?', '?']
+
+input : let me go !
+result : lache moi !
+predict : ['laissez', 'moi', '?', '?']
+
+input : let me go !
+result : lachez moi !
+predict : ['laissez', 'moi', '?', '?']
+
+input : let me go !
+result : laisse moi m en aller !
+predict : ['laissez', 'moi', '?', '?']
+
+input : let me go !
+result : laissez moi m en aller !
+predict : ['laissez', 'moi', '?', '?']
+
+input : let me go !
+result : laissez moi y aller !
+predict : ['laissez', 'moi', '?', '?']
+
+input : let me go !
+result : laisse moi y aller !
+predict : ['laissez', 'moi', '?', '?']
+
+input : let me go .
+result : laisse moi partir !
+predict : ['laissez', 'moi', 'est', '!']
+
+input : let me go .
+result : laissez moi partir !
+predict : ['laissez', 'moi', 'est', '!']
+
+input : let me go .
+result : laisse moi m en aller !
+predict : ['laissez', 'moi', 'est', '!']
+
+input : let me go .
+result : laissez moi m en aller !
+predict : ['laissez', 'moi', 'est', '!']
+
+input : let me in .
+result : laissez moi rentrer .
+predict : ['EOS', 'moi', '?', '.']
+
+input : let me in .
+result : laissez moi entrer .
+predict : ['EOS', 'moi', '?', '.']
+
+input : let s ask .
+result : demandons .
+predict : ['laisse', '.']
+
+input : let s eat .
+result : mangeons .
+predict : ['laisse', '.']
+
+input : let s see .
+result : voyons voir !
+predict : ['soyez', '.', '!']
+
+input : lie still .
+result : reste allonge immobile !
+predict : ['soyez', 'toi', '?', '!']
+
+input : lie still .
+result : reste allongee immobile !
+predict : ['soyez', 'toi', '?', '!']
+
+input : lie still .
+result : restez allonge immobile !
+predict : ['soyez', 'toi', '?', '!']
+
+input : lie still .
+result : restez allongee immobile !
+predict : ['soyez', 'toi', '?', '!']
+
+input : lie still .
+result : restez allonges immobiles !
+predict : ['soyez', 'toi', '?', '!']
+
+input : lie still .
+result : restez allongees immobiles !
+predict : ['soyez', 'toi', '?', '!']
+
+input : look back !
+result : regarde derriere toi !
+predict : ['laisse', 'moi', '!', '!']
+
+input : look back !
+result : regarde derriere !
+predict : ['laisse', 'moi', '!', '!']
+
+input : look here .
+result : regarde ici .
+predict : ['laissez', 'a', '.']
+
+input : look here .
+result : regardez ici .
+predict : ['laissez', 'a', '.']
+
+input : loosen up .
+result : echauffe toi !
+predict : ['laissez', 'vous', '!']
+
+input : loosen up .
+result : echauffez vous !
+predict : ['laissez', 'vous', '!']
+
+input : loosen up .
+result : detends toi !
+predict : ['laissez', 'vous', '!']
+
+input : loosen up .
+result : laisse toi aller !
+predict : ['laissez', 'vous', '!']
+
+input : loosen up .
+result : laissez vous aller !
+predict : ['laissez', 'vous', '!']
+
+input : move over .
+result : bouge de la .
+predict : ['laissez', 'moi', '.']
+
+input : move over .
+result : poussez vous .
+predict : ['laissez', 'moi', '.']
+
+input : move over .
+result : pousse toi .
+predict : ['laissez', 'moi', '.']
+
+input : nice shot !
+result : joli coup !
+predict : ['laisse', 'vais', '!']
+
+input : of course !
+result : pour sur .
+predict : ['soyez', '!', '.']
+
+input : of course !
+result : mais ouais !
+predict : ['soyez', '!', '.']
+
+input : of course !
+result : pardi !
+predict : ['soyez', '!', '.']
+
+input : of course .
+result : bien sur .
+predict : ['a', '.', '.']
+
+input : of course .
+result : pour sur .
+predict : ['a', '.', '.']
+
+input : oh please !
+result : je vous en prie !
+predict : ['je', 'vous', 'en', '?', '!']
+
+input : oh please !
+result : je t en prie !
+predict : ['je', 'vous', 'en', '?', '!']
+
+input : pardon me ?
+result : pardon ?
+predict : ['je', 'moi', '?']
+
+input : pardon me ?
+result : je vous demande pardon ?
+predict : ['je', 'moi', '?']
+
+input : pardon me ?
+result : plait il ?
+predict : ['je', 'moi', '?']
+
+input : read this .
+result : lis ceci .
+predict : ['je', 'suis', '.']
+
+input : say hello .
+result : dis bonjour .
+predict : ['je', 'moi', '.']
+
+input : see above .
+result : voyez ci dessus .
+predict : ['soyez', 'le', '.', '.']
+
+input : see below .
+result : voyez ci dessous .
+predict : ['soyez', 'ceci', '.', '.']
+
+input : see below .
+result : voir ci dessous .
+predict : ['soyez', 'ceci', '.', '.']
+
+input : seize him !
+result : capturez le !
+predict : ['laissez', 'le', '!']
+
+input : seize him !
+result : attrapez le !
+predict : ['laissez', 'le', '!']
+
+input : seriously ?
+result : vraiment ?
+predict : ['est', 'moi', '?', '!']
+
+input : seriously ?
+result : est ce serieux ?
+predict : ['est', 'moi', '?', '!']
+
+input : seriously ?
+result : serieusement ?
+predict : ['est', 'moi', '?', '!']
+
+input : she cried .
+result : elle pleurait .
+predict : ['c', 'le', '.']
+
+input : she cried .
+result : elle pleura .
+predict : ['c', 'le', '.']
+
+input : she tried .
+result : elle a essaye .
+predict : ['c', 'a', '.', '.']
+
+input : she walks .
+result : elle marche .
+predict : ['c', 'le', '.']
+
+input : she s hot .
+result : elle est chaude .
+predict : ['c', 'est', 'en', '.']
+
+input : she s hot .
+result : elle est tres attirante .
+predict : ['c', 'est', 'en', '.']
+
+input : sign here .
+result : signe ici .
+predict : ['soyez', 'le', '.']
+
+input : sign here .
+result : signez ici .
+predict : ['soyez', 'le', '.']
+
+input : sign this .
+result : signe ca .
+predict : ['soyez', 'ca', '.']
+
+input : sign this .
+result : signez ceci .
+predict : ['soyez', 'ca', '.']
+
+input : slow down .
+result : ralentis !
+predict : ['laissez', '!']
+
+input : slow down .
+result : ralentissez !
+predict : ['laissez', '!']
+
+input : stay back .
+result : reste en arriere !
+predict : ['soyez', 'ai', '?', '!']
+
+input : stay back .
+result : restez en arriere !
+predict : ['soyez', 'ai', '?', '!']
+
+input : stay calm .
+result : restez calme .
+predict : ['soyez', 'calme', '.']
+
+input : stay calm .
+result : reste calme .
+predict : ['soyez', 'calme', '.']
+
+input : stay calm .
+result : garde ton calme .
+predict : ['soyez', 'calme', '.']
+
+input : stay calm .
+result : garde ton sang froid .
+predict : ['soyez', 'calme', '.']
+
+input : stay calm .
+result : reste tranquille .
+predict : ['soyez', 'calme', '.']
+
+input : stay down !
+result : reste baisse .
+predict : ['soyez', 'le', '.']
+
+input : stay down !
+result : restez baisse .
+predict : ['soyez', 'le', '.']
+
+input : stay down .
+result : reste baisse .
+predict : ['soyez', 'le', '.']
+
+input : stay down .
+result : restez baisse .
+predict : ['soyez', 'le', '.']
+
+input : stay here .
+result : restez la !
+predict : ['soyez', 'le', '!']
+
+input : stay here .
+result : reste ici !
+predict : ['soyez', 'le', '!']
+
+input : stay here .
+result : restez ici .
+predict : ['soyez', 'le', '!']
+
+input : stay thin .
+result : reste mince !
+predict : ['soyez', 'le', '!']
+
+input : step back .
+result : recule !
+predict : ['laisse', '!']
+
+input : step back .
+result : reculez !
+predict : ['laisse', '!']
+
+input : stop that !
+result : arretez !
+predict : ['laisse', '!']
+
+input : stop that .
+result : arretez ca !
+predict : ['soyez', 'suis', '!']
+
+input : stop that .
+result : arrete ca !
+predict : ['soyez', 'suis', '!']
+
+input : stop them .
+result : arretez les .
+predict : ['soyez', 'a', '.']
+
+input : take care !
+result : prends soin de toi !
+predict : ['soyez', 'vais', '!', '?', '!']
+
+input : take care !
+result : soyez prudente !
+predict : ['soyez', 'vais', '!', '?', '!']
+
+input : take care .
+result : prends soin de toi .
+predict : ['EOS', 'vais', '?', '.', '.']
+
+input : take care .
+result : prenez soin de vous .
+predict : ['EOS', 'vais', '?', '.', '.']
+
+input : take mine .
+result : prends le mien .
+predict : ['je', 'le', '.', '.']
+
+input : take mine .
+result : prends la mienne .
+predict : ['je', 'le', '.', '.']
+
+input : take mine .
+result : prenez le mien .
+predict : ['je', 'le', '.', '.']
+
+input : take mine .
+result : prenez la mienne .
+predict : ['je', 'le', '.', '.']
+
+input : take mine .
+result : prends les miens .
+predict : ['je', 'le', '.', '.']
+
+input : take mine .
+result : prends les miennes .
+predict : ['je', 'le', '.', '.']
+
+input : take mine .
+result : prenez les miens .
+predict : ['je', 'le', '.', '.']
+
+input : take mine .
+result : prenez les miennes .
+predict : ['je', 'le', '.', '.']
+
+input : take this .
+result : prends ca .
+predict : ['EOS', 'ca', '.']
+
+input : take this .
+result : prenez ca .
+predict : ['EOS', 'ca', '.']
+
+input : thank you .
+result : merci !
+predict : ['a', '!']
+
+input : that s ok .
+result : il n y a pas de probleme .
+predict : ['suis', 'est', '?', '.']
+
+input : that s ok .
+result : pas de probleme .
+predict : ['suis', 'est', '?', '.']
+
+input : that s ok .
+result : ce n est pas grave .
+predict : ['suis', 'est', '?', '.']
+
+input : that s ok .
+result : ca va .
+predict : ['suis', 'est', '?', '.']
+
+input : that s it .
+result : c est ca .
+predict : ['c', 'est', 'tom', '.']
+
+input : they fell .
+result : ils sont tombes .
+predict : ['c', 'le', '.', '.']
+
+input : they fell .
+result : elles sont tombees .
+predict : ['c', 'le', '.', '.']
+
+input : they left .
+result : ils sont partis .
+predict : ['c', 'le', '.', '.']
+
+input : they left .
+result : elles sont parties .
+predict : ['c', 'le', '.', '.']
+
+input : they lied .
+result : ils ont menti .
+predict : ['c', 'le', '.', '.']
+
+input : they lied .
+result : elles ont menti .
+predict : ['c', 'le', '.', '.']
+
+input : they lost .
+result : ils ont perdu .
+predict : ['c', 'le', '.', '.']
+
+input : they lost .
+result : elles ont perdu .
+predict : ['c', 'le', '.', '.']
+
+input : they swam .
+result : ils nageaient .
+predict : ['c', '.', '.']
+
+input : they swam .
+result : elles nageaient .
+predict : ['c', '.', '.']
+
+input : they swam .
+result : ils nagerent .
+predict : ['c', '.', '.']
+
+input : they swam .
+result : elles nagerent .
+predict : ['c', '.', '.']
+
+input : time s up .
+result : le temps est ecoule .
+predict : ['a', 'est', '?', 'en', '.']
+
+input : tom cooks .
+result : tom cuisine .
+predict : ['tom', 'UNKNOWN', '.']
+
+input : tom cried .
+result : tom pleura .
+predict : ['tom', '.', '.']
+
+input : tom is ok .
+result : tom va bien .
+predict : ['tom', 'va', '.', '.']
+
+input : tom knits .
+result : tom tricote .
+predict : ['tom', 'UNKNOWN', '.']
+
+input : tom knows .
+result : tom sait .
+predict : ['tom', 'toi', '.']
+
+input : tom rocks .
+result : tom assure .
+predict : ['tom', 'UNKNOWN', '.']
+
+input : tom spoke .
+result : tom a parle .
+predict : ['tom', 'a', 'a', '.']
+
+input : tom walks .
+result : tom marche .
+predict : ['tom', '.', '.']
+
+input : tom waved .
+result : tom a fait signe de la main .
+predict : ['tom', 'a', 'a', 'tom', '?']
+
+input : tom works .
+result : tom est en train de travailler .
+predict : ['suis', 'est', 'en', '.']
+
+input : tom s fat .
+result : tom est gros .
+predict : ['tom', 'est', 'tom', '.']
+
+input : tom s mad .
+result : tom est en colere .
+predict : ['tom', 'est', 'en', '.']
+
+input : tom s mad .
+result : tom est fou .
+predict : ['tom', 'est', 'en', '.']
+
+input : tom s sad .
+result : tom est triste .
+predict : ['tom', 'est', 'bien', '.']
+
+input : trust tom .
+result : fais confiance a tom .
+predict : ['c', 'ai', 'a', 'tom', '.']
+
+input : trust tom .
+result : faites confiance a tom .
+predict : ['c', 'ai', 'a', 'tom', '.']
+
+input : try again .
+result : essaie encore .
+predict : ['soyez', 'est', '.', '.']
+
+input : try again .
+result : essayez de nouveau .
+predict : ['soyez', 'est', '.', '.']
+
+input : try again .
+result : essaie de nouveau .
+predict : ['soyez', 'est', '.', '.']
+
+input : try it on .
+result : essaie le !
+predict : ['soyez', 'le', '!']
+
+input : turn left .
+result : tourne a gauche .
+predict : ['je', 'a', '.', '.']
+
+input : wait here .
+result : attends ici .
+predict : ['laissez', 'a', '.']
+
+input : wait here .
+result : attends la .
+predict : ['laissez', 'a', '.']
+
+input : wait here .
+result : attendez ici .
+predict : ['laissez', 'a', '.']
+
+input : wait here .
+result : attendez la .
+predict : ['laissez', 'a', '.']
+
+input : watch out !
+result : attention !
+predict : ['c', '!', '!']
+
+input : watch out !
+result : faites attention !
+predict : ['c', '!', '!']
+
+input : watch out !
+result : fais attention !
+predict : ['c', '!', '!']
+
+input : we agreed .
+result : nous sommes tombes d accord .
+predict : ['nous', 'a', 'tom', '.']
+
+input : we did it !
+result : nous avons reussi !
+predict : ['nous', 'ai', 'en', '!']
+
+input : we did it .
+result : nous avons reussi !
+predict : ['nous', 'ai', 'en', '?', '.']
+
+input : we did it .
+result : nous l avons fait .
+predict : ['nous', 'ai', 'en', '?', '.']
+
+input : we forgot .
+result : nous avons oublie .
+predict : ['nous', 'ai', 'perdu', '.']
+
+input : we saw it .
+result : nous l avons vu .
+predict : ['nous', 'ai', 'en', '?', '.']
+
+input : we saw it .
+result : nous l avons vue .
+predict : ['nous', 'ai', 'en', '?', '.']
+
+input : we smiled .
+result : nous avons souri .
+predict : ['nous', 'suis', 'tom', '.']
+
+input : we talked .
+result : nous discutames .
+predict : ['nous', 'suis', '.', '.', '.']
+
+input : we talked .
+result : nous avons discute .
+predict : ['nous', 'suis', '.', '.', '.']
+
+input : we talked .
+result : nous nous sommes entretenus .
+predict : ['nous', 'suis', '.', '.', '.']
+
+input : we talked .
+result : nous nous sommes entretenues .
+predict : ['nous', 'suis', '.', '.', '.']
+
+input : we talked .
+result : nous nous entretinmes .
+predict : ['nous', 'suis', '.', '.', '.']
+
+input : we waited .
+result : nous attendimes .
+predict : ['nous', 'moi', '.']
+
+input : we waited .
+result : nous avons attendu .
+predict : ['nous', 'moi', '.']
+
+input : we ll try .
+result : nous essayerons .
+predict : ['nous', 'ceci', '.']
+
+input : we ll try .
+result : nous tenterons .
+predict : ['nous', 'ceci', '.']
+
+input : we ll win .
+result : nous l emporterons .
+predict : ['nous', 'suis', '.']
+
+input : we ll win .
+result : nous gagnerons .
+predict : ['nous', 'suis', '.']
+
+input : we re hot .
+result : nous avons chaud .
+predict : ['nous', 'le', 'a', '.']
+
+input : we re sad .
+result : nous sommes tristes .
+predict : ['nous', 'le', 'perdu', '.']
+
+input : we re shy .
+result : nous sommes timides .
+predict : ['nous', 'le', 'perdu', '.']
+
+input : well done !
+result : bien vu !
+predict : ['a', 'le', '!']
+
+input : well done !
+result : bien cuit !
+predict : ['a', 'le', '!']
+
+input : well done !
+result : a la bonne heure !
+predict : ['a', 'le', '!']
+
+input : well done !
+result : bien joue !
+predict : ['a', 'le', '!']
+
+input : well done !
+result : pas mal !
+predict : ['a', 'le', '!']
+
+input : what else ?
+result : quoi d autre ?
+predict : ['suis', 'vous', 'en', '?']
+
+input : what s up ?
+result : ca va ?
+predict : ['tom', 'est', '?', '!']
+
+input : what s up ?
+result : quoi de beau ?
+predict : ['tom', 'est', '?', '!']
+
+input : who cares ?
+result : qui s en preoccupe ?
+predict : ['suis', 'est', 'en', 'en', '?']
+
+input : who cares ?
+result : qui s en soucie ?
+predict : ['suis', 'est', 'en', 'en', '?']
+
+input : who cares ?
+result : a qui ceci importe t il ?
+predict : ['suis', 'est', 'en', 'en', '?']
+
+input : who is he ?
+result : qui est ce ?
+predict : ['nous', 'est', 'nous', '?']
+
+input : who is he ?
+result : qui est il ?
+predict : ['nous', 'est', 'nous', '?']
+
+input : who is it ?
+result : qui est ce ?
+predict : ['nous', 'est', 'nous', '?']
+
+input : who is it ?
+result : qui est il ?
+predict : ['nous', 'est', 'nous', '?']
+
+input : who knows ?
+result : qui sait ?
+predict : ['j', 'vais', '.']
+
+input : who spoke ?
+result : qui a parle ?
+predict : ['nous', 'a', 'tom', '?']
+
+input : who ll go ?
+result : qui ira ?
+predict : ['nous', 'est', '?']
+
+input : who s tom ?
+result : c est qui tom ?
+predict : ['nous', 'est', 'nous', '?', '?']
+
+input : who s ill ?
+result : qui est malade ?
+predict : ['j', 'est', 'il', '?']
+
+input : wonderful !
+result : magnifique !
+predict : ['a', '!', '.']
+
+input : wonderful !
+result : a la bonne heure !
+predict : ['a', '!', '.']
+
+input : write tom .
+result : ecrivez a tom .
+predict : ['je', 'a', 'tom', '.']
+
+input : you drive .
+result : tu conduis .
+predict : ['le', 'toi', '.']
+
+input : you drive .
+result : toi conduis !
+predict : ['le', 'toi', '.']
+
+input : you drive .
+result : vous conduisez .
+predict : ['le', 'toi', '.']
+
+input : you idiot !
+result : espece d imbecile !
+predict : ['laisse', 'vous', '?', '!']
+
+input : you idiot !
+result : espece d idiot !
+predict : ['laisse', 'vous', '?', '!']
+
+input : you start .
+result : tu commences .
+predict : ['a', 'UNKNOWN', '.']
+
+input : you start .
+result : vous commencez .
+predict : ['a', 'UNKNOWN', '.']
+
+input : you tried .
+result : tu as essaye .
+predict : ['a', 'le', '.', '.']
+
+input : you tried .
+result : vous avez essaye .
+predict : ['a', 'le', '.', '.']
+
+input : all aboard !
+result : tout le monde a bord !
+predict : ['c', 'le', 'en', 'en']
+
+input : am i clear ?
+result : suis je clair ?
+predict : ['suis', 'je', 'il', '?']
+
+input : am i clear ?
+result : suis je claire ?
+predict : ['suis', 'je', 'il', '?']
+
+input : am i dying ?
+result : suis je en train de mourir ?
+predict : ['suis', 'je', 'en', '.', '?']
+
+input : am i dying ?
+result : suis je en train de trepasser ?
+predict : ['suis', 'je', 'en', '.', '?']
+
+input : am i early ?
+result : suis je en avance ?
+predict : ['suis', 'je', 'en', '.', '?']
+

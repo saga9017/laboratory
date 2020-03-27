@@ -1,0 +1,162 @@
+last loss : 4.794958114624023
+
+input :  go .
+result : va !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'EOS', 'ca', 'EOS', 'attendez', 'EOS', 'essaye', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : hi .
+result : salut !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'EOS', 'ca', 'qui', 't', 'EOS', 'emporte', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : run !
+result : cours !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'qui', 'EOS', 'attendez', 'EOS', 'attendez', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : run !
+result : courez !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'qui', 'EOS', 'attendez', 'EOS', 'attendez', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : who ?
+result : qui ?
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'EOS', 'ca', 'qui', 'poursuivez', 'EOS', 'qui', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : wow !
+result : ca alors !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'EOS', 'ca', 'qui', 't', 'EOS', 'essaye', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : fire !
+result : au feu !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'qui', 'EOS', 'attendez', 'non', 'EOS', 'je', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : help !
+result : a l aide !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'EOS', 'ca', 'qui', 't', '!', 'qui', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : jump .
+result : saute .
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'qui', 'EOS', 'attendez', 'non', 'EOS', 'qui', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : stop !
+result : ca suffit !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'attendez', 'EOS', 'attendez', 'EOS', 'essaye', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : stop !
+result : stop !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'attendez', 'EOS', 'attendez', 'EOS', 'essaye', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : stop !
+result : arrete toi !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'attendez', 'EOS', 'attendez', 'EOS', 'essaye', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : wait !
+result : attends !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'attendez', 'EOS', 'attendez', 'EOS', 'essaye', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : wait !
+result : attendez !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'attendez', 'EOS', 'attendez', 'EOS', 'essaye', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : go on .
+result : poursuis .
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'attendez', 'EOS', 'EOS', 'aide', 'EOS', 'EOS', 'EOS', 'ca', 'EOS', 'attendez', 'EOS', 'essaye', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : go on .
+result : continuez .
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'attendez', 'EOS', 'EOS', 'aide', 'EOS', 'EOS', 'EOS', 'ca', 'EOS', 'attendez', 'EOS', 'essaye', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : go on .
+result : poursuivez .
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'attendez', 'EOS', 'EOS', 'aide', 'EOS', 'EOS', 'EOS', 'ca', 'EOS', 'attendez', 'EOS', 'essaye', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : hello !
+result : bonjour !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'attendez', 'EOS', 'attendez', 'non', 'EOS', 'je', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : hello !
+result : salut !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'attendez', 'EOS', 'attendez', 'non', 'EOS', 'je', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : i see .
+result : je comprends .
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'attendez', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'EOS', 'ca', 'EOS', 'attendez', 'EOS', 'oh', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : i try .
+result : j essaye .
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'attendez', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'EOS', 'ca', 'qui', 'poursuivez', 'EOS', 'essaye', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : i won !
+result : j ai gagne !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'EOS', 'ca', 'EOS', 'je', 'EOS', 'qui', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : i won !
+result : je l ai emporte !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'EOS', 'ca', 'EOS', 'je', 'EOS', 'qui', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : i won .
+result : j ai gagne .
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'EOS', 'ca', 'qui', 'poursuivez', 'EOS', 'attendez', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : oh no !
+result : oh non !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'attendez', 'EOS', 'EOS', 'aide', 'EOS', 'EOS', 'attendez', 'EOS', 'attendez', 'EOS', 'alors', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : attack !
+result : attaque !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'attendez', 'EOS', 'attendez', 'EOS', 'qui', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : attack !
+result : attaquez !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'attendez', 'EOS', 'attendez', 'EOS', 'qui', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : cheers !
+result : sante !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'attendez', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'EOS', 'ca', 'EOS', 'attendez', 'EOS', 'je', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : cheers !
+result : a votre sante !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'attendez', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'EOS', 'ca', 'EOS', 'attendez', 'EOS', 'je', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : cheers !
+result : merci !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'attendez', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'EOS', 'ca', 'EOS', 'attendez', 'EOS', 'je', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : cheers !
+result : tchin tchin !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'attendez', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'EOS', 'ca', 'EOS', 'attendez', 'EOS', 'je', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : get up .
+result : leve toi .
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'attendez', 'EOS', 'attendez', 'EOS', 'attendez', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : go now .
+result : va maintenant .
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'attendez', 'EOS', 'EOS', 'aide', 'EOS', 'EOS', 'EOS', 'ca', 'EOS', 'attendez', 'EOS', 'qui', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : go now .
+result : allez y maintenant .
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'attendez', 'EOS', 'EOS', 'aide', 'EOS', 'EOS', 'EOS', 'ca', 'EOS', 'attendez', 'EOS', 'qui', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : go now .
+result : vas y maintenant .
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'attendez', 'EOS', 'EOS', 'aide', 'EOS', 'EOS', 'EOS', 'ca', 'EOS', 'attendez', 'EOS', 'qui', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : got it !
+result : j ai pige !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'qui', 'EOS', 'attendez', 'EOS', 'alors', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : got it !
+result : compris !
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'qui', 'EOS', 'attendez', 'EOS', 'alors', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : got it ?
+result : pige ?
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'qui', 'EOS', 'attendez', 'EOS', 'alors', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'aide', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : got it ?
+result : compris ?
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'qui', 'EOS', 'attendez', 'EOS', 'alors', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'aide', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+
+input : got it ?
+result : t as capte ?
+predict : ['SOS', 'attendez', 'EOS', 'EOS', 'EOS', 'EOS', 'je', 'EOS', 'EOS', 'ca', 'EOS', 'EOS', 'qui', 'EOS', 'attendez', 'EOS', 'alors', 'EOS', 'essaye', 'EOS', 'ca', 'je', 'EOS', 'EOS', 'aide', 'EOS', 'ca', 'EOS', 'attendez', 'EOS']
+

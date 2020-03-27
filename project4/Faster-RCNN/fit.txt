@@ -1,0 +1,270 @@
+fit_Post40(1).jpg - person	
+fit_Post130(1).jpg - person	person	person	bicycle	bicycle	car	motorcycle	
+fit_Post23(2).jpg - person	person	person	person	cup	sandwich	dining table	
+fit_Post109(1).jpg - person	person	person	person	person	backpack	handbag	handbag	handbag	tie	
+fit_Post3(3).jpg - person	sports ball	sports ball	
+fit_Post50(1).jpg - 
+fit_Post132(1).jpg - person	person	person	cell phone	clock	
+fit_Post152(2).jpg - person	handbag	suitcase	
+fit_Post172(4).jpg - person	handbag	cell phone	
+fit_Post64(1).jpg - person	
+fit_Post63(1).jpg - bowl	
+fit_Post187(2).jpg - person	person	person	person	car	car	
+fit_Post74(2).jpg - person	
+fit_Post102(1).jpg - person	dining table	cell phone	clock	
+fit_Post59(1).jpg - person	bench	chair	tv	hair drier	
+fit_Post5(1).jpg - person	chair	chair	tv	
+fit_Post76(1).jpg - person	cell phone	cell phone	cell phone	cell phone	
+fit_Post103(1).jpg - person	chair	
+fit_Post26(1).jpg - sandwich	pizza	
+fit_Post176(3).jpg - person	tie	tie	
+fit_Post33(2).jpg - laptop	cell phone	cell phone	cell phone	cell phone	
+fit_Post19(1).jpg - person	
+fit_Post147(1).jpg - person	person	person	traffic light	
+fit_Post162(1).jpg - person	cell phone	cell phone	cell phone	cell phone	
+fit_Post141(1).jpg - person	bird	
+fit_Post130(2).jpg - person	person	bicycle	bicycle	
+fit_Post176(1).jpg - person	
+fit_Post181(1).jpg - person	bench	cell phone	cell phone	cell phone	
+fit_Post161(1).jpg - person	person	
+fit_Post37(2).jpg - 
+fit_Post127(1).jpg - sandwich	broccoli	broccoli	carrot	pizza	dining table	
+fit_Post144(1).jpg - person	chair	cell phone	
+fit_Post77(6).jpg - dog	teddy bear	
+fit_Post95(1).jpg - person	bottle	potted plant	potted plant	dining table	vase	
+fit_Post35(1).jpg - person	parking meter	
+fit_Post86(1).jpg - pizza	
+fit_Post136(1).jpg - person	
+fit_Post85(1).jpg - person	person	person	person	person	person	bench	backpack	skis	
+fit_Post130(3).jpg - person	person	bicycle	
+fit_Post4(1).jpg - person	backpack	handbag	
+fit_Post18(1).jpg - person	
+fit_Post21(3).jpg - person	chair	dining table	
+fit_Post107(3).jpg - person	
+fit_Post169(1).jpg - person	person	
+fit_Post2(2).jpg - person	person	handbag	chair	
+fit_Post98(1).jpg - person	
+fit_Post185(2).jpg - person	person	chair	chair	
+fit_Post189(1).jpg - person	
+fit_Post104(1).jpg - person	cell phone	
+fit_Post160(1).jpg - person	person	bicycle	bicycle	
+fit_Post27(1).jpg - person	
+fit_Post121(1).jpg - person	person	
+fit_Post61(1).jpg - person	
+fit_Post175(1).jpg - wine glass	bowl	carrot	carrot	carrot	carrot	carrot	carrot	carrot	carrot	carrot	carrot	dining table	
+fit_Post48(1).jpg - person	person	person	chair	chair	
+fit_Post155(1).jpg - person	boat	bench	bench	
+fit_Post3(1).jpg - person	apple	chair	
+fit_Post172(2).jpg - sports ball	apple	broccoli	broccoli	broccoli	broccoli	pizza	
+fit_Post70(1).jpg - bowl	bowl	bowl	sandwich	sandwich	broccoli	broccoli	broccoli	broccoli	broccoli	broccoli	broccoli	carrot	carrot	carrot	carrot	carrot	cake	cake	cake	cake	cake	cake	dining table	
+fit_Post16(1).jpg - cup	spoon	bowl	
+fit_Post179(1).jpg - person	handbag	handbag	
+fit_Post146(1).jpg - person	person	remote	
+fit_Post38(1).jpg - person	person	chair	cell phone	cell phone	
+fit_Post157(1).jpg - person	toilet	
+fit_Post106(2).jpg - person	person	
+fit_Post150(1).jpg - person	car	motorcycle	laptop	
+fit_Post2(4).jpg - person	
+fit_Post2(1).jpg - person	suitcase	
+fit_Post135(1).jpg - person	suitcase	chair	chair	
+fit_Post142(1).jpg - person	bicycle	bicycle	skis	chair	
+fit_Post125(1).jpg - person	
+fit_Post11(1).jpg - person	person	
+fit_Post14(3).jpg - person	cell phone	cell phone	cell phone	cell phone	
+fit_Post117(1).jpg - 
+fit_Post46(1).jpg - person	bicycle	
+fit_Post130(4).jpg - person	
+fit_Post152(1).jpg - person	person	person	
+fit_Post145(1).jpg - person	
+fit_Post67(1).jpg - person	
+fit_Post156(1).jpg - person	
+fit_Post192(1).jpg - person	person	suitcase	suitcase	tv	
+fit_Post24(1).jpg - person	bowl	potted plant	sink	
+fit_Post46(2).jpg - person	person	person	person	motorcycle	motorcycle	
+fit_Post51(2).jpg - 
+fit_Post177(1).jpg - person	handbag	
+fit_Post82(1).jpg - person	bench	bottle	
+fit_Post75(1).jpg - person	
+fit_Post2(6).jpg - person	
+fit_Post81(1).jpg - person	person	person	cell phone	cell phone	cell phone	cell phone	
+fit_Post138(1).jpg - person	person	person	person	person	person	person	
+fit_Post107(6).jpg - person	cell phone	cell phone	
+fit_Post193(1).jpg - person	person	person	bicycle	car	motorcycle	bench	backpack	
+fit_Post73(3).jpg - person	
+fit_Post197(2).jpg - person	
+fit_Post173(1).jpg - person	person	cell phone	cell phone	
+fit_Post73(1).jpg - person	person	cell phone	cell phone	
+fit_Post123(2).jpg - fork	bowl	
+fit_Post99(1).jpg - person	person	person	person	
+fit_Post56(1).jpg - person	cell phone	cell phone	cell phone	cell phone	
+fit_Post107(5).jpg - 
+fit_Post128(1).jpg - person	person	book	book	book	book	book	book	book	book	book	book	book	book	
+fit_Post122(4).jpg - person	
+fit_Post149(1).jpg - person	person	person	person	
+fit_Post37(1).jpg - 
+fit_Post34(1).jpg - person	person	person	person	person	person	boat	boat	boat	boat	boat	boat	boat	
+fit_Post63(2).jpg - bowl	cell phone	cell phone	cell phone	cell phone	cell phone	
+fit_Post180(1).jpg - person	sports ball	sports ball	sports ball	apple	
+fit_Post21(7).jpg - person	person	book	
+fit_Post60(1).jpg - person	handbag	frisbee	
+fit_Post137(1).jpg - person	person	cell phone	
+fit_Post190(1).jpg - 
+fit_Post92(1).jpg - person	car	car	car	car	car	car	car	car	car	car	
+fit_Post52(1).jpg - 
+fit_Post77(5).jpg - person	person	person	
+fit_Post195(1).jpg - person	person	person	person	car	
+fit_Post186(1).jpg - person	person	person	person	person	person	person	person	person	potted plant	
+fit_Post89(1).jpg - person	
+fit_Post66(1).jpg - person	person	chair	cell phone	
+fit_Post25(1).jpg - traffic light	traffic light	
+fit_Post158(1).jpg - person	chair	cell phone	
+fit_Post129(1).jpg - person	person	person	person	
+fit_Post194(1).jpg - person	
+fit_Post47(1).jpg - traffic light	
+fit_Post21(8).jpg - person	person	person	person	person	person	person	person	person	person	person	person	person	person	person	person	horse	
+fit_Post164(1).jpg - person	car	boat	skateboard	chair	
+fit_Post21(2).jpg - person	wine glass	cup	keyboard	
+fit_Post79(1).jpg - person	person	
+fit_Post94(1).jpg - person	chair	chair	chair	chair	chair	
+fit_Post21(4).jpg - person	dining table	
+fit_Post105(1).jpg - person	
+fit_Post28(1).jpg - person	person	person	person	
+fit_Post107(4).jpg - person	
+fit_Post166(3).jpg - person	person	
+fit_Post55(1).jpg - person	person	
+fit_Post122(2).jpg - person	person	person	person	person	person	handbag	chair	chair	
+fit_Post20(1).jpg - person	handbag	bottle	wine glass	chair	chair	
+fit_Post8(1).jpg - person	traffic light	
+fit_Post199(1).jpg - person	
+fit_Post12(1).jpg - cell phone	
+fit_Post191(1).jpg - bottle	bottle	bottle	bowl	dining table	
+fit_Post57(1).jpg - person	
+fit_Post77(4).jpg - person	person	person	
+fit_Post183(1).jpg - person	
+fit_Post54(1).jpg - person	person	bottle	chair	
+fit_Post6(1).jpg - person	car	bench	
+fit_Post53(1).jpg - person	
+fit_Post31(1).jpg - person	bench	bench	
+fit_Post167(1).jpg - person	
+fit_Post172(1).jpg - bowl	broccoli	broccoli	
+fit_Post41(1).jpg - person	bench	backpack	handbag	sports ball	
+fit_Post21(6).jpg - person	
+fit_Post172(3).jpg - cake	dining table	
+fit_Post178(1).jpg - 
+fit_Post15(1).jpg - person	person	backpack	
+fit_Post130(6).jpg - person	
+fit_Post62(1).jpg - person	chair	
+fit_Post163(1).jpg - person	book	
+fit_Post77(2).jpg - person	person	tv	tv	cell phone	
+fit_Post123(1).jpg - person	spoon	bowl	cell phone	cell phone	
+fit_Post127(2).jpg - person	donut	
+fit_Post51(1).jpg - person	bench	skateboard	
+fit_Post44(1).jpg - person	horse	
+fit_Post153(1).jpg - person	person	person	person	person	person	bench	tv	
+fit_Post151(1).jpg - person	
+fit_Post84(1).jpg - person	cell phone	cell phone	cell phone	
+fit_Post65(1).jpg - person	person	person	person	person	bicycle	bicycle	bench	bench	
+fit_Post168(1).jpg - person	person	
+fit_Post88(1).jpg - person	
+fit_Post10(1).jpg - person	bottle	bottle	bottle	bottle	bottle	bottle	bottle	bottle	bottle	bottle	bottle	bottle	bottle	
+fit_Post96(1).jpg - person	motorcycle	
+fit_Post159(2).jpg - 
+fit_Post176(2).jpg - person	person	
+fit_Post198(1).jpg - person	chair	couch	couch	potted plant	clock	vase	vase	
+fit_Post14(2).jpg - person	person	person	
+fit_Post171(1).jpg - person	person	
+fit_Post21(5).jpg - person	
+fit_Post199(2).jpg - person	
+fit_Post3(4).jpg - person	person	person	person	bench	backpack	backpack	cell phone	
+fit_Post21(9).jpg - person	person	person	person	person	person	person	person	person	person	person	person	person	person	person	backpack	backpack	handbag	clock	
+fit_Post73(2).jpg - person	person	person	
+fit_Post36(1).jpg - person	person	person	car	
+fit_Post165(1).jpg - person	bed	remote	remote	cell phone	
+fit_Post143(1).jpg - person	person	bed	refrigerator	
+fit_Post27(2).jpg - person	
+fit_Post70(2).jpg - bowl	sandwich	broccoli	broccoli	broccoli	broccoli	broccoli	broccoli	broccoli	broccoli	carrot	carrot	carrot	carrot	carrot	carrot	cake	cake	cake	cake	cake	cake	cake	dining table	
+fit_Post45(1).jpg - person	person	backpack	chair	chair	
+fit_Post187(4).jpg - kite	
+fit_Post30(1).jpg - person	
+fit_Post69(1).jpg - person	chair	
+fit_Post120(1).jpg - person	bottle	vase	
+fit_Post122(1).jpg - person	person	potted plant	
+fit_Post116(1).jpg - person	backpack	
+fit_Post154(1).jpg - person	person	
+fit_Post182(1).jpg - person	
+fit_Post23(1).jpg - person	person	dining table	dining table	vase	
+fit_Post83(1).jpg - person	
+fit_Post39(1).jpg - person	horse	
+fit_Post80(1).jpg - person	
+fit_Post115(1).jpg - sports ball	
+fit_Post2(3).jpg - person	
+fit_Post166(1).jpg - person	
+fit_Post21(1).jpg - person	
+fit_Post49(1).jpg - person	
+fit_Post108(1).jpg - person	person	handbag	frisbee	clock	
+fit_Post2(5).jpg - person	cell phone	cell phone	cell phone	cell phone	cell phone	
+fit_Post196(1).jpg - traffic light	traffic light	traffic light	traffic light	
+fit_Post1(1).jpg - person	
+fit_Post101(1).jpg - person	
+fit_Post184(1).jpg - knife	hot dog	cake	chair	dining table	
+fit_Post107(1).jpg - person	tie	
+fit_Post172(5).jpg - bowl	
+fit_Post130(5).jpg - potted plant	
+fit_Post166(2).jpg - person	person	bird	
+fit_Post133(1).jpg - person	
+fit_Post185(1).jpg - person	person	person	
+fit_Post187(3).jpg - person	person	person	person	person	car	car	car	car	car	car	car	
+fit_Post9(1).jpg - person	bench	
+fit_Post174(1).jpg - 
+fit_Post91(1).jpg - person	cell phone	
+fit_Post131(1).jpg - 
+fit_Post158(2).jpg - person	backpack	chair	couch	couch	cell phone	
+fit_Post58(1).jpg - person	person	person	person	person	person	handbag	toilet	
+fit_Post14(1).jpg - 
+fit_Post124(1).jpg - person	person	person	person	
+fit_Post110(1).jpg - person	person	person	handbag	handbag	bottle	
+fit_Post111(1).jpg - person	surfboard	cell phone	
+fit_Post119(1).jpg - person	person	dog	cell phone	cell phone	cell phone	cell phone	
+fit_Post187(1).jpg - person	person	handbag	
+fit_Post97(1).jpg - motorcycle	
+fit_Post100(1).jpg - person	person	person	handbag	
+fit_Post139(1).jpg - person	
+fit_Post128(2).jpg - 
+fit_Post78(1).jpg - person	person	motorcycle	chair	chair	
+fit_Post43(1).jpg - person	
+fit_Post71(1).jpg - person	person	person	suitcase	chair	cell phone	
+fit_Post159(1).jpg - 
+fit_Post68(1).jpg - bowl	bowl	bowl	broccoli	broccoli	carrot	carrot	carrot	carrot	carrot	carrot	carrot	carrot	carrot	carrot	carrot	carrot	carrot	dining table	cell phone	
+fit_Post118(1).jpg - person	cell phone	
+fit_Post74(1).jpg - person	
+fit_Post114(1).jpg - person	person	person	person	person	
+fit_Post42(1).jpg - bowl	dining table	
+fit_Post122(5).jpg - person	
+fit_Post197(1).jpg - person	cell phone	cell phone	cell phone	cell phone	cell phone	
+fit_Post72(1).jpg - person	
+fit_Post68(2).jpg - 
+fit_Post12(2).jpg - cell phone	cell phone	cell phone	cell phone	cell phone	
+fit_Post126(1).jpg - person	person	person	person	bowl	bowl	dining table	cell phone	
+fit_Post107(2).jpg - person	chair	dining table	
+fit_Post13(1).jpg - sandwich	orange	carrot	carrot	
+fit_Post170(1).jpg - person	clock	
+fit_Post33(1).jpg - person	
+fit_Post93(1).jpg - person	person	person	person	person	person	person	person	sports ball	
+fit_Post17(1).jpg - person	
+fit_Post140(1).jpg - person	
+fit_Post106(1).jpg - person	
+fit_Post113(1).jpg - person	person	person	
+fit_Post134(1).jpg - person	car	
+fit_Post87(1).jpg - 
+fit_Post112(1).jpg - person	person	cell phone	cell phone	cell phone	
+fit_Post148(1).jpg - person	boat	boat	
+fit_Post29(1).jpg - person	sports ball	
+fit_Post22(1).jpg - person	couch	couch	potted plant	oven	vase	
+fit_Post90(1).jpg - 
+fit_Post32(1).jpg - person	person	person	
+fit_Post77(3).jpg - person	person	person	person	tv	tv	
+fit_Post77(1).jpg - person	person	person	person	person	car	sports ball	cup	cell phone	cell phone	cell phone	
+fit_Post122(3).jpg - knife	carrot	
+fit_Post188(1).jpg - person	bicycle	bicycle	clock	
+fit_Post7(1).jpg - person	person	handbag	bottle	chair	chair	
+fit_Post3(2).jpg - person	clock	

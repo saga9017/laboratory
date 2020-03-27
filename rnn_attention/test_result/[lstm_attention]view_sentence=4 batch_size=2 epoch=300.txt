@@ -1,0 +1,18 @@
+last loss : 13.467048470702604
+
+input : go .
+result : va !
+predict : ['SOS', 'va', 'va', 'va', 'va', 'va', 'va', 'va', 'va', 'va', 'va', 'va']
+
+input : hi .
+result : salut !
+predict : ['SOS', '!', '!', '!', '!', '!', '!', '!', '!', '!', '!', '!']
+
+input : run !
+result : cours !
+predict : ['SOS', 'cours', 'cours', 'cours', 'cours', 'cours', 'cours', 'cours', 'cours', 'cours', 'cours', 'cours']
+
+input : run !
+result : courez !
+predict : ['SOS', 'cours', 'cours', 'cours', 'cours', 'cours', 'cours', 'cours', 'cours', 'cours', 'cours', 'cours']
+

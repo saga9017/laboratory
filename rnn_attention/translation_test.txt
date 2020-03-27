@@ -1,0 +1,490 @@
+come on !	allez !
+i m busy .	je suis occupe .
+i m busy .	je suis occupee .
+come here .	viens ici .
+come here .	venez la .
+i ll work .	je vais travailler .
+i ll work .	je travaillerai .
+i m alone .	je suis seule .
+i m alone .	je suis seul .
+i m ready .	je suis pret .
+look here .	regarde ici .
+look here .	regardez ici .
+time s up .	le temps est ecoule .
+come alone .	viens seul !
+come alone .	viens seule !
+come alone .	venez seul !
+come alone .	venez seuls !
+come alone .	venez seule !
+come alone .	venez seules !
+i am ready .	je suis pret .
+i eat here .	je mange ici .
+it s right .	c est juste .
+time is up .	le temps est ecoule .
+time is up .	l heure est passee .
+we can try .	nous pouvons essayer .
+we can try .	nous pouvons tenter .
+we ll work .	nous travaillerons .
+we re back .	nous sommes de retour .
+we re here .	nous sommes ici .
+we re here .	nous sommes la .
+he can come .	il peut venir .
+i can do it .	je peux le faire .
+i can do it .	je peux y arriver .
+i can do it .	je peux y parvenir .
+i can do it .	j arrive a le faire .
+i eat alone .	je mange seul .
+i eat alone .	je mange seule .
+i feel good .	je me sens bien .
+i feel well .	je me sens bien .
+i have time .	j ai du temps .
+i have time .	je dispose de temps .
+i was alone .	j etais seul .
+i was alone .	je me trouvais seul .
+i was alone .	je me trouvais seule .
+i will work .	je vais travailler .
+i will work .	je travaillerai .
+i work here .	je travaille ici .
+i m at work .	je suis au travail .
+it s not us .	ce n est pas nous .
+tom ll come .	tom va venir .
+tom ll come .	tom viendra .
+tom s alone .	tom est tout seul .
+tom s alone .	tom est seul .
+we are here .	nous sommes ici .
+we are here .	nous y sommes .
+we like tom .	nous aimons bien tom .
+we like tom .	nous aimons tom .
+we like tom .	nous apprecions tom .
+we must try .	il nous faut essayer .
+we need you .	on a besoin de toi .
+we need you .	nous avons besoin de vous .
+we re happy .	nous sommes heureux .
+come with me .	venez avec moi .
+come with me .	viens avec moi .
+come with me .	joignez vous a nous .
+he was alone .	il etait seul .
+i feel ready .	je me sens pret .
+i feel ready .	je me sens prete .
+i go to work .	je pars au boulot .
+i go to work .	je vais travailler .
+i go to work .	je me rends au travail .
+i go to work .	je vais au travail .
+i have a dog .	j ai un chien .
+i must leave .	il me faut partir .
+i must leave .	je dois partir .
+i work alone .	je travaille seul .
+i work alone .	je travaille seule .
+i m not here .	je ne suis pas ici .
+i m not here .	je ne suis pas la .
+it s no good .	ce n est pas bon .
+look at that !	regarde ca !
+look at that !	regardez ca !
+look at that !	regardez cela !
+that s right !	c est vrai !
+that s right !	c est juste !
+that s right .	c est exact .
+that s right .	c est juste .
+we are happy .	nous sommes heureux .
+are you alone ?	es tu seul ?
+are you alone ?	es tu seule ?
+are you alone ?	etes vous seul ?
+are you alone ?	etes vous seule ?
+are you alone ?	etes vous seul ?
+i must go now .	je dois partir maintenant .
+i want to try .	je veux essayer .
+i was at home .	j etais a la maison .
+i was at home .	j etais chez moi .
+i was at home .	j etais a l appartement .
+i ll be ready .	je serai pret .
+i ll be ready .	je serai prete .
+i m all alone .	je suis tout seul .
+i m not alone .	je ne suis pas seul .
+i m not alone .	je ne suis pas seule .
+that s my dog .	c est mon chien .
+they need him .	ils ont besoin de lui .
+they need him .	elles ont besoin de lui .
+tom can do it .	tom peut le faire .
+we can try it .	nous pouvons essayer .
+we can try it .	nous pouvons l essayer .
+can you see it ?	peux tu le voir ?
+can you see it ?	pouvez vous le voir ?
+i can help you .	je peux t aider .
+i can help you .	je peux vous aider .
+i love my work .	j adore mon travail .
+i need to know .	il me faut savoir .
+i need to know .	il me faut le savoir .
+i need to know .	j ai besoin de savoir .
+i need to know .	j ai besoin de le savoir .
+i need to know .	moi j ai besoin de le savoir .
+i need to know .	moi j ai besoin de savoir .
+i need you now .	j ai besoin de toi maintenant .
+i need you now .	j ai besoin de vous maintenant .
+i never go out .	je ne sors jamais .
+i should do it .	je devrais le faire .
+i want to help .	je veux aider .
+i want to work .	je veux travailler .
+i m right here .	je suis juste ici .
+i m very happy .	je suis tres heureux .
+i m very happy .	je suis tres heureuse .
+it was so good .	c etait si bon .
+it was so good .	c etait tellement bon .
+it s very good .	c est tres bon .
+it s very good .	c est tres bien .
+it s very good .	c est tres bon .
+may i help you ?	puis je vous aider ?
+may i help you ?	est ce que je peux t aider ?
+that s no good .	ce n est pas bon .
+this is my dog .	c est mon chien .
+we can t do it .	nous ne pouvons pas le faire .
+we can t do it .	nous ne sommes pas en mesure de le faire .
+we re all here .	nous sommes tous la .
+we re all here .	nous sommes tous ici .
+we re all here .	nous sommes toutes la .
+we re all here .	nous sommes toutes ici .
+where s my car ?	ou est ma voiture ?
+why is he busy ?	pourquoi est il occupe ?
+you look happy .	vous avez l air heureux .
+you look happy .	tu as l air heureux .
+you look happy .	tu as l air heureuse .
+you look happy .	vous avez l air heureuse .
+you look happy .	vous avez l air heureuses .
+can you do that ?	peux tu faire ca ?
+can you do that ?	pouvez vous faire cela ?
+go back to work .	retourne au travail !
+go back to work .	retournez au travail !
+how are you now ?	comment vas tu maintenant ?
+how are you now ?	comment allez vous maintenant ?
+i can do it now .	je peux le faire maintenant .
+i have to think .	il me faut reflechir .
+i have to think .	je dois reflechir .
+i know all that .	je sais tout ca .
+i know all that .	je sais tout cela .
+i like your car .	j aime votre voiture .
+i like your car .	j aime votre auto .
+i like your car .	j aime ta voiture .
+i love this car .	j adore cette voiture .
+i must help you .	je dois vous aider .
+i must help you .	je dois t aider .
+i need you here .	j ai besoin de toi ici .
+i need you here .	j ai besoin de vous ici .
+i want this dog .	je veux ce chien .
+i want this one .	je veux celui ci .
+i want this one .	je veux celle ci .
+i want to do it .	je veux le faire .
+i d like to eat .	j aimerais manger .
+i m really busy .	je suis vraiment occupe .
+i m really busy .	je suis vraiment occupee .
+it s all i need .	c est tout ce dont j ai besoin .
+it s all i want .	c est tout ce que je veux .
+it s your money .	c est ton argent .
+it s your money .	c est votre argent .
+it s your money .	il s agit de votre argent .
+that s my money .	c est mon argent .
+that s not good .	ce n est pas bon .
+they re with me .	ils sont avec moi .
+we can t see it .	nous ne pouvons pas le voir .
+we want to help .	nous voulons aider .
+where is my car ?	ou est ma voiture ?
+where is my dog ?	ou est mon chien ?
+come with me now .	venez avec moi maintenant .
+come with me now .	viens avec moi maintenant .
+did you see that ?	as tu vu ca ?
+did you see that ?	avez vous vu ca ?
+do what you want .	fais ce que tu veux .
+do what you want .	faites ce que vous voulez .
+he s here for me .	il est ici pour moi .
+he s here for me .	il est la pour moi .
+i can t come now .	je ne peux pas venir maintenant .
+i don t love her .	je ne l aime pas .
+i don t love her .	je n en suis pas amoureux .
+i don t love her .	je ne suis pas epris d elle .
+i feel good here .	je me sens bien ici .
+i must leave now .	je dois partir maintenant .
+i need the money .	j ai besoin de l argent .
+i need your help .	j ai besoin que tu m aides .
+i need your help .	j ai besoin de ton aide .
+i need your help .	j ai besoin de votre aide .
+i really am busy .	je suis vraiment occupe .
+i really am busy .	je suis vraiment occupee .
+i want to try it .	je veux essayer .
+i want to try it .	je veux le tenter .
+i m going to try .	je vais essayer .
+i m really happy .	je suis vraiment heureux .
+i m really happy .	je suis vraiment heureuse .
+i m really happy .	je suis vraiment content .
+i m really happy .	je suis vraiment contente .
+is that your dog ?	est ce la votre chien ?
+is that your dog ?	est ce la ton chien ?
+is this your car ?	est ce que c est votre voiture ?
+is this your car ?	est ce ta voiture ?
+is this your car ?	est ce votre voiture ?
+is this your dog ?	est ce ton chien ?
+is this your dog ?	est ce votre chien ?
+it s not so good .	ce n est pas si bon .
+it s not so good .	ce n est pas si bien .
+it s time to eat .	a table !
+it s time to eat .	c est l heure de manger .
+no one can leave .	personne ne peut partir .
+no one was there .	personne ne se trouvait la .
+no one was there .	personne n etait la .
+no one was there .	personne n y etait .
+she is very busy .	elle est tres occupee .
+that s very good .	c est tres bon .
+they work for me .	ils travaillent pour moi .
+they work for me .	elles travaillent pour moi .
+this is my money .	c est mon argent .
+this is not good .	ce n est pas bon .
+tom should leave .	tom devrait partir .
+we can t do that .	nous ne pouvons pas le faire .
+what should i do ?	que devrais je faire ?
+where s your dog ?	ou est ton chien ?
+where s your dog ?	ou est votre chien ?
+where s your dog ?	ou est ton chien ?
+you should do it .	tu devrais le faire .
+you should do it .	vous devriez le faire .
+do you have a dog ?	avez vous un chien ?
+do you have a dog ?	as tu un chien ?
+get out of my car .	sors de ma voiture !
+get out of my car .	sortez de ma voiture !
+he can t help you .	il ne peut pas t aider .
+he can t help you .	il ne peut pas vous aider .
+i didn t say that .	je n ai pas dit cela .
+i didn t say that .	je n ai pas dit ca .
+i don t feel well .	je ne me sens pas bien .
+i don t work here .	je ne travaille pas ici .
+i need to do this .	il me faut le faire .
+i really need you .	j ai vraiment besoin de toi .
+i really need you .	j ai vraiment besoin de vous .
+i should be happy .	je devrais etre heureux .
+i should be happy .	je devrais etre content .
+i should be happy .	je devrais etre heureuse .
+i should be happy .	je devrais etre contente .
+i should be there .	je devrais etre la .
+i should be there .	je devrais y etre .
+i should be there .	je devrais etre la bas .
+i think it s good .	je pense que c est bon .
+i think it s good .	je pense que c est bien .
+i ll be in my car .	je serai dans ma voiture .
+i m not very busy .	je ne suis pas tres occupe .
+i m not very busy .	je ne suis pas tres occupee .
+that s all i know .	c est tout ce que je sais .
+that s all i need .	c est tout ce dont j ai besoin .
+that s all i want .	c est tout ce que je veux .
+that s not my car .	ce n est pas ma voiture .
+this is very good .	c est tres bon .
+this is very good .	c est tres bien .
+this is very good .	c est tres bon .
+tom can t help me .	tom ne peut pas m aider .
+tom could do that .	tom pourrait faire cela .
+tom could do that .	tom pourrait faire ca .
+we can t help you .	nous ne pouvons pas t aider .
+we can t help you .	nous ne pouvons pas vous aider .
+we need your help .	nous avons besoin de votre aide .
+we need your help .	nous avons besoin de ton aide .
+what should i eat ?	que devrais je manger ?
+where do you work ?	ou travailles tu ?
+where do you work ?	ou travaillez vous ?
+where is your dog ?	ou est ton chien ?
+where is your dog ?	ou est votre chien ?
+where is your dog ?	ou est ton chien ?
+why are you alone ?	pourquoi es tu seul ?
+why are you alone ?	pourquoi es tu seule ?
+why are you alone ?	pourquoi etes vous seul ?
+why are you alone ?	pourquoi etes vous seule ?
+why are you alone ?	pourquoi etes vous seuls ?
+why are you alone ?	pourquoi etes vous seules ?
+why are you alone ?	pourquoi es tu seul ?
+why are you alone ?	pourquoi es tu seule ?
+why are you alone ?	pourquoi etes vous seul ?
+why are you alone ?	pourquoi etes vous seule ?
+why are you alone ?	pourquoi etes vous seuls ?
+why are you alone ?	pourquoi etes vous seules ?
+you can t help me .	tu ne peux pas m aider .
+you can t help me .	vous ne pouvez pas m aider .
+get out of the car .	sors de la voiture !
+get out of the car .	sortez de la voiture !
+give me your money .	donne moi ton argent .
+how may i help you ?	comment puis je vous aider ?
+how may i help you ?	comment puis je t aider ?
+how may i help you ?	que puis je faire pour vous ?
+i didn t like that .	je n ai pas aime ca .
+i didn t like that .	je n ai pas aime cela .
+i don t have a car .	je n ai pas de voiture .
+i don t have a car .	je ne dispose pas de voiture .
+i don t have a dog .	je n ai pas de chien .
+i think tom s here .	je pense que tom est ici .
+i m very happy now .	je suis tres heureux maintenant .
+i m very happy now .	maintenant je suis tres heureuse .
+it s not very good .	ce n est pas tres bon .
+no one can help me .	personne ne peut m aider .
+no one can help us .	personne ne peut nous aider .
+that was very good .	c etait tres bien .
+that was very good .	ca a ete tres bien .
+that was very good .	c etait tres bon .
+that was very good .	ce fut tres bon .
+that s all we need .	c est tout ce dont nous avons besoin .
+that s not for tom .	ce n est pas pour tom .
+they didn t see it .	ils ne l ont pas vu .
+they didn t see it .	elles ne l ont pas vu .
+they were all here .	ils etaient tous ici .
+they were all here .	elles etaient toutes ici .
+this is all i know .	c est tout ce que je sais .
+this is all i want .	c est tout ce que je veux .
+this is not my car .	ce n est pas ma voiture .
+tom can t help you .	tom ne peut pas t aider .
+tom can t help you .	tom ne peut pas vous aider .
+tom got in the car .	tom est monte dans la voiture .
+where are they now ?	ou sont ils maintenant ?
+where are they now ?	ou sont elles maintenant ?
+you can t eat here .	vous ne pouvez pas manger ici .
+you can t eat here .	tu ne peux pas manger ici .
+you look very good .	tu as l air tres bien .
+you look very good .	vous avez l air tres bien .
+you should know it .	tu devrais le savoir .
+you should know it .	vous devriez le savoir .
+he is ready to work .	il est pret a travailler .
+he really got to me .	il m a vraiment enerve .
+here s what i think .	voila ce que je pense .
+i have to leave now .	il faut que j y aille maintenant .
+i have to leave now .	je dois partir maintenant .
+i have to leave now .	je dois y aller .
+i have to leave now .	il faut que j y aille maintenant .
+i know you re right .	je sais que tu as raison .
+i know you re right .	je sais que vous avez raison .
+i see you are ready .	je vois que tu es prete .
+i see you are ready .	je vois que vous etes prete .
+i see you are ready .	je vois que vous etes pret .
+i see you are ready .	je vois que vous etes pretes .
+i see you are ready .	je vois que vous etes prets .
+i still have to try .	je dois encore essayer .
+i still have to try .	il me faut encore essayer .
+i was going to work .	j allais travailler .
+i m not going to go .	je ne vais pas y aller .
+no one can help you .	personne ne peut vous aider .
+no one can help you .	personne ne peut t aider .
+no one could see us .	personne ne pourrait nous voir .
+no one could see us .	personne ne pouvait nous voir .
+no one will help us .	personne ne nous aidera .
+that s how i did it .	c est ainsi que je l ai fait .
+that s what i think .	c est ce que je pense .
+that s why i did it .	c est pourquoi je l ai fait .
+this is what i want .	c est ce que je veux .
+this isn t my money .	ce n est pas mon argent .
+where are you going ?	ou vas tu ?
+where are you going ?	ou te rends tu ?
+where are you going ?	ou vous rendez vous ?
+why are you with me ?	pourquoi etes vous avec moi ?
+why are you with me ?	pourquoi es tu avec moi ?
+why did you like it ?	pourquoi l avez vous aime ?
+why did you like it ?	pourquoi l as tu aime ?
+do you want to do it ?	veux tu le faire ?
+do you want to do it ?	voulez vous le faire ?
+i can t eat all this .	je ne peux pas manger tout ca .
+i can t help you now .	je ne peux pas vous aider maintenant .
+i don t feel so well .	je ne me sens pas si bien .
+i don t work for you .	je ne travaille pas pour vous .
+i don t work for you .	je ne travaille pas pour toi .
+i know that you know .	je sais que tu sais .
+i know that you know .	je sais que vous savez .
+i should go with you .	je devrais aller avec vous .
+i should go with you .	je devrais aller avec toi .
+i think tom is ready .	je pense que tom est pret .
+i think we can do it .	je pense que nous pouvons le faire .
+i think you re ready .	je pense que tu es pret .
+i think you re ready .	je pense que tu es prete .
+i think you re ready .	je pense que vous etes pret .
+i think you re ready .	je pense que vous etes prete .
+i think you re ready .	je pense que vous etes prets .
+i think you re ready .	je pense que vous etes pretes .
+i think you re right .	je crois que tu as raison .
+i think you re right .	je crois que vous avez raison .
+i think you re right .	je pense que vous avez raison .
+i think you re right .	je pense que tu as raison .
+i want to be at home .	je veux etre chez moi .
+i want to be at home .	je veux etre a la maison .
+i was ready to do it .	j etais pret a le faire .
+i was ready to do it .	j etais prete a le faire .
+i d like to be alone .	j aimerais etre seule .
+i d like to be alone .	j aimerais etre seul .
+i d like to help you .	j aimerais vous aider .
+i d like to help you .	j aimerais t aider .
+i d like to see that .	j aimerais voir ca .
+i ll never come back .	je ne reviendrai jamais .
+i m going to see tom .	je vais voir tom .
+i m happy to see you .	je suis heureux de vous voir .
+i m in love with you .	je suis amoureux de toi .
+i m in love with you .	je suis amoureux de vous .
+i m in love with you .	je suis amoureuse de toi .
+i m not here for you .	je ne suis pas la pour toi .
+i m not here for you .	je ne suis pas la pour vous .
+she is never on time .	elle n est jamais a l heure .
+that s not very good .	ce n est pas tres bon .
+they know we re here .	ils savent que nous sommes ici .
+they know we re here .	elles savent que nous sommes ici .
+tom is never on time .	tom n est jamais a l heure .
+why can t we do that ?	pourquoi ne pouvons nous pas faire ca ?
+do you like your work ?	aimez vous votre travail ?
+i can t work with tom .	je ne peux pas travailler avec tom .
+i could never do that .	je ne pourrais jamais faire ca .
+i could never do that .	je ne pourrais jamais faire cela .
+i really am very busy .	je suis vraiment tres occupe .
+i really am very busy .	je suis vraiment tres occupee .
+i think he won t come .	je pense qu il ne viendra pas .
+i want to be with tom .	je veux etre avec tom .
+i want to be with you .	je veux etre avec toi .
+i want to be with you .	je veux etre avec vous .
+i want to do it right .	je veux le faire correctement .
+i m not going to stop .	je ne vais pas m arreter .
+i m not going to work .	je ne vais pas travailler .
+it made me very happy .	ca m a rendu tres heureux .
+it made me very happy .	ca m a rendue tres heureuse .
+it s really very good .	c est vraiment tres bon .
+just do what you want .	fais ce que tu veux .
+just do what you want .	faites ce que vous voulez .
+tell tom i m not home .	dites a tom que je ne suis pas chez moi .
+tell tom i m not home .	dis a tom que je ne suis pas a la maison .
+this is how i made it .	voici comment je l ai fait .
+this is how i made it .	voici comment je le fis .
+this is how i made it .	c est comme ca que je le fis .
+this is how i made it .	c est comme ca que je l ai fait .
+this is how i made it .	voici comment je l ai confectionne .
+this is how i made it .	c est comme ca que je le confectionnai .
+where do you work now ?	ou travailles tu maintenant ?
+where do you work now ?	ou travaillez vous maintenant ?
+why do you want a dog ?	pourquoi veux tu un chien ?
+why do you want a dog ?	pourquoi voulez vous un chien ?
+do you want to do this ?	veux tu le faire ?
+do you want to do this ?	voulez vous le faire ?
+i am ready to help you .	je suis pret a t aider .
+i don t feel very good .	je ne me sens pas tres bien .
+i don t feel very well .	je ne me sens pas tres bien .
+i don t need your help .	je n ai pas besoin de ton aide .
+i don t need your help .	je n ai pas besoin de votre aide .
+i really must be going .	je dois vraiment y aller .
+i really must be going .	je dois vraiment m en aller .
+i really want to leave .	je veux vraiment partir .
+she must be very happy .	elle doit etre tres heureuse .
+tell me where you went .	dis moi ou tu es alle .
+tell me where you went .	dis moi ou tu es allee .
+tell me where you went .	dis moi ou vous etes alles .
+tell me where you went .	dis moi ou vous etes allees .
+tell me where you went .	dites moi ou vous etes alles .
+tell me where you went .	dites moi ou vous etes allees .
+tell me where you went .	dites moi ou vous etes alle .
+tell me where you went .	dites moi ou vous etes allee .
+that s not what i want .	ce n est pas ce que je veux .
+are we going to do that ?	allons nous faire cela ?
+are we going to do that ?	est ce qu on va faire ca ?
+do you really like that ?	aimez vous vraiment cela ?
+do you really like that ?	tu aimes vraiment ca ?
+do you want to eat this ?	veux tu manger ca ?
+do you want to eat this ?	voulez vous manger ceci ?
+i don t feel very happy .	je ne me sens pas tres heureux .
+i don t feel very happy .	je ne me sens pas tres heureuse .
+i don t need your money .	je n ai pas besoin de votre argent .
+i don t need your money .	je n ai pas besoin de ton argent .
+i don t want your money .	je ne veux pas de ton argent .
+i don t want your money .	je veux pas de votre argent .
+i know you want to help .	je sais que tu veux aider .
+i know you want to help .	je sais que vous voulez aider .

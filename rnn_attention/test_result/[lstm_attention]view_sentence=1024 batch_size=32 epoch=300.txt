@@ -1,0 +1,258 @@
+last loss : 32.6432187447151
+
+input : go .
+result : va !
+predict : ['SOS']
+
+input : hi .
+result : salut !
+predict : ['SOS']
+
+input : run !
+result : cours !
+predict : ['SOS']
+
+input : run !
+result : courez !
+predict : ['SOS']
+
+input : who ?
+result : qui ?
+predict : ['SOS']
+
+input : wow !
+result : ca alors !
+predict : ['SOS']
+
+input : fire !
+result : au feu !
+predict : ['SOS']
+
+input : help !
+result : a l aide !
+predict : ['SOS']
+
+input : jump .
+result : saute .
+predict : ['SOS']
+
+input : stop !
+result : ca suffit !
+predict : ['SOS']
+
+input : stop !
+result : stop !
+predict : ['SOS']
+
+input : stop !
+result : arrete toi !
+predict : ['SOS']
+
+input : wait !
+result : attends !
+predict : ['SOS']
+
+input : wait !
+result : attendez !
+predict : ['SOS']
+
+input : go on .
+result : poursuis .
+predict : ['SOS']
+
+input : go on .
+result : continuez .
+predict : ['SOS']
+
+input : go on .
+result : poursuivez .
+predict : ['SOS']
+
+input : hello !
+result : bonjour !
+predict : ['SOS']
+
+input : hello !
+result : salut !
+predict : ['SOS']
+
+input : i see .
+result : je comprends .
+predict : ['SOS']
+
+input : i try .
+result : j essaye .
+predict : ['SOS']
+
+input : i won !
+result : j ai gagne !
+predict : ['SOS']
+
+input : i won !
+result : je l ai emporte !
+predict : ['SOS']
+
+input : i won .
+result : j ai gagne .
+predict : ['SOS']
+
+input : oh no !
+result : oh non !
+predict : ['SOS']
+
+input : attack !
+result : attaque !
+predict : ['SOS']
+
+input : attack !
+result : attaquez !
+predict : ['SOS']
+
+input : cheers !
+result : sante !
+predict : ['SOS', 'est', 'est', 'est', 'est', 'est', 'est', 'est', 'est', 'est', 'est', 'est']
+
+input : cheers !
+result : a votre sante !
+predict : ['SOS', 'est', 'est', 'est', 'est', 'est', 'est', 'est', 'est', 'est', 'est', 'est']
+
+input : cheers !
+result : merci !
+predict : ['SOS', 'est', 'est', 'est', 'est', 'est', 'est', 'est', 'est', 'est', 'est', 'est']
+
+input : cheers !
+result : tchin tchin !
+predict : ['SOS', 'est', 'est', 'est', 'est', 'est', 'est', 'est', 'est', 'est', 'est', 'est']
+
+input : get up .
+result : leve toi .
+predict : ['SOS']
+
+input : what s up ?
+result : ca va ?
+predict : ['SOS']
+
+input : what s up ?
+result : quoi de beau ?
+predict : ['SOS']
+
+input : who cares ?
+result : qui s en preoccupe ?
+predict : ['SOS']
+
+input : who cares ?
+result : qui s en soucie ?
+predict : ['SOS', 'faire', 'faire', 'faire', 'faire', 'faire', 'faire', 'faire', 'faire', 'faire', 'faire', 'faire']
+
+input : who cares ?
+result : a qui ceci importe t il ?
+predict : ['SOS', 'faire', 'faire', 'faire', 'faire', 'faire', 'faire', 'faire', 'faire', 'faire', 'faire', 'faire']
+
+input : who is he ?
+result : qui est ce ?
+predict : ['SOS']
+
+input : who is he ?
+result : qui est il ?
+predict : ['SOS']
+
+input : who is it ?
+result : qui est ce ?
+predict : ['SOS']
+
+input : who is it ?
+result : qui est il ?
+predict : ['SOS']
+
+input : who knows ?
+result : qui sait ?
+predict : ['SOS']
+
+input : who spoke ?
+result : qui a parle ?
+predict : ['SOS']
+
+input : who ll go ?
+result : qui ira ?
+predict : ['SOS']
+
+input : who s tom ?
+result : c est qui tom ?
+predict : ['SOS']
+
+input : who s ill ?
+result : qui est malade ?
+predict : ['SOS']
+
+input : wonderful !
+result : magnifique !
+predict : ['SOS']
+
+input : wonderful !
+result : a la bonne heure !
+predict : ['SOS']
+
+input : write tom .
+result : ecrivez a tom .
+predict : ['SOS']
+
+input : you drive .
+result : tu conduis .
+predict : ['SOS']
+
+input : you drive .
+result : toi conduis !
+predict : ['SOS', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'je']
+
+input : you drive .
+result : vous conduisez .
+predict : ['SOS']
+
+input : you idiot !
+result : espece d imbecile !
+predict : ['SOS']
+
+input : you idiot !
+result : espece d idiot !
+predict : ['SOS']
+
+input : you start .
+result : tu commences .
+predict : ['SOS', '!']
+
+input : you start .
+result : vous commencez .
+predict : ['SOS']
+
+input : you tried .
+result : tu as essaye .
+predict : ['SOS']
+
+input : you tried .
+result : vous avez essaye .
+predict : ['SOS']
+
+input : all aboard !
+result : tout le monde a bord !
+predict : ['SOS']
+
+input : am i clear ?
+result : suis je clair ?
+predict : ['SOS']
+
+input : am i clear ?
+result : suis je claire ?
+predict : ['SOS']
+
+input : am i dying ?
+result : suis je en train de mourir ?
+predict : ['SOS']
+
+input : am i dying ?
+result : suis je en train de trepasser ?
+predict : ['SOS']
+
+input : am i early ?
+result : suis je en avance ?
+predict : ['SOS']
+

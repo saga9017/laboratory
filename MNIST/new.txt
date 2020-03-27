@@ -1,0 +1,5 @@
+person	
+person	chair	potted plant	
+person	person	person	person	person	person	person	person	person	handbag	
+person	handbag	tennis racket	bed	
+person	person	person	person	person	person	person	person	umbrella	umbrella	umbrella	umbrella	handbag	handbag	
